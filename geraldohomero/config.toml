@@ -70,3 +70,7 @@ defaultcontentlanguage = "pt"
   name = "Outros"
   weight = 5
   url = "post/outros/"
+[[menu.main]]
+  name = "Contato"
+  weight = 6
+  url = "post/contato/"

@@ -63,7 +63,7 @@ defaultcontentlanguage = "pt"
   weight = 3
   url = "post/producoes/"
 [[menu.main]]
-  name = "Projetoos"
+  name = "Projetos"
   weight = 4
   url = "post/projetos/"
 [[menu.main]]

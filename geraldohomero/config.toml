@@ -1,0 +1,72 @@
+baseurl = "http://geraldohomero.github.io"
+title = "Geraldo Homero"
+theme = "hugo-coder"
+languagecode = "pt"
+defaultcontentlanguage = "pt"
+
+
+[params]
+  author = "Geraldo Homero"
+  info = "Pesquisador em História Digital"
+  description = "Site pessoal - Geraldo Homero"
+  keywords = "blog,developer,personal"
+  avatarurl = "https://0.academia-photos.com/32223304/9633463/39049482/s200_geraldo_homero_do.couto_neto.jpg"
+  #gravatar = "john.doe@example.com"
+
+  favicon_32 = "/img/favicon-32x32.png"
+  favicon_16 = "/img/favicon-16x16.png"
+
+  colorScheme = "dark"
+  hidecolorschemetoggle = false
+
+
+# Social links
+[[params.social]]
+  name = "Github"
+  icon = "fa fa-github-square fa-2x"
+  weight = 1
+  url = "https://github.com/geraldohomero/"
+[[params.social]]
+  name = "Instagram"
+  icon = "fa fa-instagram fa-2x"
+  weight = 2
+  url = "https://instagram.com/geraldohomero/"
+[[params.social]]
+  name = "Twitter"
+  icon = "fa fa-twitter-square fa-2x"
+  weight = 3
+  url = "https://twitter.com/geraldohomero/"
+[[params.social]]
+  name = "LinkedIn"
+  icon = "fa fa-linkedin-square fa-2x"
+  weight = 4
+  url = "https://linkedin.com/in/geraldohomero/"
+[[params.social]]
+  name = "Zotero"
+  icon = "fa fa-zotero fa-2x"
+  weight = 5
+  url = "https://zotero.org/geraldohomero/"
+[[params.social]]
+  name = "Steam"
+  icon = "fa fa-steam-square fa-2x"
+  weight = 7
+  url = "https://steamcommunity.com/id/mandjoca"
+
+
+# Menu links
+[[menu.main]]
+  name = "Sobre"
+  weight = 2
+  url = "post/sobre/"
+[[menu.main]]
+  name = "Produções"
+  weight = 3
+  url = "post/producoes/"
+[[menu.main]]
+  name = "Projetos"
+  weight = 4
+  url = "post/projetos/"
+[[menu.main]]
+  name = "Outros"
+  weight = 5
+  url = "post/outros/"

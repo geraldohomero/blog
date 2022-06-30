@@ -11,8 +11,8 @@ draft: false
 ## Habilidades
 
 - HTML
+- Shell script
 - Python
 - R
-- Shell script
 - Linux server
 

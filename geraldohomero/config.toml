@@ -68,5 +68,5 @@ defaultcontentlanguage = "pt"
   url = "post/projetos/"
 [[menu.main]]
   name = "Outros"
-  weight = 5
+  weight = 4
   url = "post/outros/"

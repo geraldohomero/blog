@@ -8,7 +8,7 @@ draft: false
 
 - [Zotero + LibreOffice (Linux)](https://github.com/geraldohomero/Zotero-LibreOffice-Linux)
 - [Iriun Webcam error (Linux)](https://github.com/geraldohomero/iriunwebcam_linux_error)
-
+***
 ## Design
 
 - [Pop!_OS Wallpaper](https://www.pling.com/p/1770949/)

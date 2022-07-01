@@ -11,12 +11,12 @@ draft: false
 - XXXIII Semana de História da UFJF - Representações artísticas brasileiras: do Segundo Reinado à Era Vargas - (2017)
 - XXXII Semana de História da UFJF - O Papel Social do Historiador: Desafios Contemporâneos para a Escrita da História - (2016)
 
-***
 ## GitHub
 
 - [Zotero + LibreOffice (Linux)](https://github.com/geraldohomero/Zotero-LibreOffice-Linux)
 - [Iriun Webcam error (Linux)](https://github.com/geraldohomero/iriunwebcam_linux_error)
-***
+
+
 ## Design
 
 - [Pop!_OS Wallpaper](https://www.pling.com/p/1770949/)

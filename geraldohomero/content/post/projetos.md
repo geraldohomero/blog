@@ -10,6 +10,7 @@ draft: false
 - II Encontro Interno de História da UFJF: 30 anos da Constituição Federal e os rumos da democracia no Brasil - (2018)
 - XXXIII Semana de História da UFJF - Representações artísticas brasileiras: do Segundo Reinado à Era Vargas - (2017)
 - XXXII Semana de História da UFJF - O Papel Social do Historiador: Desafios Contemporâneos para a Escrita da História - (2016)
+
 ***
 ## GitHub
 

@@ -7,7 +7,7 @@ draft: false
 
 - geraldo.homero@ich.ufjf.br
 - geraldohomero@pm.me
-***
+
 ### Redes:
 
 - [Twitter](https://twitter.com/geraldohomero)

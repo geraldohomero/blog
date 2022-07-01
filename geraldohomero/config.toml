@@ -46,11 +46,6 @@ defaultcontentlanguage = "pt"
   icon = "fa fa-zotero fa-2x"
   weight = 5
   url = "https://zotero.org/geraldohomero/"
-[[params.social]]
-  name = "Steam"
-  icon = "fa fa-steam-square fa-2x"
-  weight = 7
-  url = "https://steamcommunity.com/id/mandjoca"
 
 
 # Menu links

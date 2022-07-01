@@ -16,6 +16,5 @@ draft: false
 - Shell script
 - Python
 - R
-- Linux server
 
 ***

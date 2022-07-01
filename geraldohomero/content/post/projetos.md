@@ -3,6 +3,13 @@ title: "Projetos"
 date: 2022-06-30T12:12:39-03:00
 draft: false
 ---
+## Organização de eventos
+
+- XXXIV Semana de História da UFJF - Gênero, raça, sexualidade e classe: potencialidades interseccionais sob a ótica do saber histórico - (2018) 
+> [Diagramação e normatização dos anais do evento](https://www.ufjf.br/semanadehistoria/files/2010/02/Anais-2018.pdf)
+- II Encontro Interno de História da UFJF: 30 anos da Constituição Federal e os rumos da democracia no Brasil - (2018)
+- XXXIII Semana de História da UFJF - Representações artísticas brasileiras: do Segundo Reinado à Era Vargas - (2017)
+- XXXII Semana de História da UFJF - O Papel Social do Historiador: Desafios Contemporâneos para a Escrita da História - (2016)
 
 ## GitHub
 

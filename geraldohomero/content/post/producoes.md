@@ -4,19 +4,18 @@ date: 2022-06-30T11:58:11-03:00
 draft: "false"
 ---
 
-## Dissertação
+## Dissertação (Mestrado/UFJF)
 
 **(Des)fazendo História na Internet: visões acerca da Ditadura Militar Brasileira em canais da “nova direita” no YouTube (2013-2018)**
 
 > **Resumo**: Esta dissertação tem como objetivo analisar vídeos de grandes canais da “nova direita” brasileira no YouTube que abarcam o tema da ditadura militar brasileira, bem como seus respectivos comentários. Trabalharemos com o recorte temporal de junho de 2013 até o ano de 2018, pelo fato de as manifestações de junho terem criado um terreno propício para a difusão de ideias “liberais na economia e conservadoras nos costumes” da “nova direita”, o que coincide, justamente, com o seu aparecimento mais ativo na esfera pública e digital. A partir disso, buscaremos entender como esses sujeitos interpretam, discutem e compartilham o passado, assim como identificar as inconsistências dos conteúdos defendidos, para, então, problematizar suas visões revisionistas e negacionistas sobre a ditadura, em contraposição ao que há de consolidado na historiografia brasileira sobre o tema. Tal estudo nos possibilita uma reflexão acerca do papel do historiador frente às novas mídias, tendo em vista o seu grande poder de alcance de público, e aos desafios proporcionados pelas disputas ocorridas esfera pública em torno das memórias da ditadura militar brasileira.
 
-***
 
-## Monografia Bacharelado
+## Monografia (Bacharelado/UFJF)
 
 [As histórias que contam por aí: a Ditadura Militar Brasileira aos olhos de três canais conservadores do YouTube](https://drive.google.com/file/d/1e6iE2c-CGmdumJMd0nhIerhNN1wKaWWK/view?usp=sharing)
 
-## Monografia Licenciatura
+## Monografia (Licenciatura/UFJF)
 
 [Negacionismo da Ditadura em sala de aula: entre a história e a memória](https://drive.google.com/file/d/1wOziNnl0mgOj5bJhTqTE5U8nvbsIwh7w/view?usp=sharing)
 
@@ -24,11 +23,14 @@ draft: "false"
 
 ## Publicações
 
+### Revistas:
+
 - [A “nova direita” no YouTube: conservadorismo e negacionismo histórico sobre a Ditadura Militar brasileira](https://publicacoes.ufes.br/agora/article/view/26411)
     
 - [Natureza e Cultura: da rejeição à (re)construção](https://doi.org/10.34019/1981-2140.2018.17510) \- com [Janaína Di Lourenço Esteves](http://lattes.cnpq.br/0085162393782572)
     
-
+    
+### Eventos:
 
 - [O conservadorismo no YouTube e a Ditadura Militar Brasileira](https://www.academia.edu/40715252/O_conservadorismo_no_YouTube_e_a_Ditadura_Militar_Brasileira).
     

@@ -1,5 +1,5 @@
 baseurl = "http://geraldohomero.github.io"
-title = "Geraldo >$ /home/"
+title = "Geraldo > _"
 theme = "hugo-coder"
 languagecode = "pt"
 defaultcontentlanguage = "pt-br"
@@ -23,7 +23,7 @@ defaultcontentlanguage = "pt-br"
 # Social links
 [[params.social]]
   name = "Github"
-  icon = "fa fa-github-square fa-2x"
+  icon = "fa fa-github fa-2x"
   weight = 1
   url = "https://github.com/geraldohomero/"
 [[params.social]]
@@ -33,12 +33,12 @@ defaultcontentlanguage = "pt-br"
   url = "https://instagram.com/geraldohomero/"
 [[params.social]]
   name = "Twitter"
-  icon = "fa fa-twitter-square fa-2x"
+  icon = "fa fa-twitter fa-2x"
   weight = 3
   url = "https://twitter.com/geraldohomero/"
 [[params.social]]
   name = "LinkedIn"
-  icon = "fa fa-linkedin-square fa-2x"
+  icon = "fa fa-linkedin fa-2x"
   weight = 4
   url = "https://linkedin.com/in/geraldohomero/"
 [[params.social]]
@@ -46,9 +46,19 @@ defaultcontentlanguage = "pt-br"
   icon = "fa fa-zotero fa-2x"
   weight = 5
   url = "https://zotero.org/geraldohomero/"
+[[params.social]]
+  name = "ORCID"
+  icon = "fa fa-orcid fa-2x"
+  weight = 7
+  url = "https://orcid.org/0000-0001-6686-7182"
 
+  
 
 # Menu links
+[[menu.main]]
+  name = "Home"
+  weight = 1
+  url = "/"
 [[menu.main]]
   name = "Sobre"
   weight = 2

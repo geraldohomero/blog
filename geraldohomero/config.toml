@@ -52,20 +52,20 @@ defaultcontentlanguage = "pt-br"
 [[menu.main]]
   name = "Sobre"
   weight = 2
-  url = "post/sobre/"
+  url = "/sobre/"
 [[menu.main]]
   name = "Produções"
   weight = 3
-  url = "post/producoes/"
+  url = "/producoes/"
 [[menu.main]]
   name = "Projetos"
   weight = 4
-  url = "post/projetos/"
+  url = "/projetos/"
 [[menu.main]]
   name = "Outros"
   weight = 5
-  url = "post/outros/"
+  url = "/outros/"
 [[menu.main]]
   name = "Contato"
   weight = 6
-  url = "post/contato/"
+  url = "/contato/"

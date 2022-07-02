@@ -2,7 +2,7 @@ baseurl = "http://geraldohomero.github.io"
 title = "Geraldo >$ /home/"
 theme = "hugo-coder"
 languagecode = "pt"
-defaultcontentlanguage = "pt"
+defaultcontentlanguage = "pt-br"
 
 
 [params]

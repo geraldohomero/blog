@@ -11,12 +11,5 @@ draft: false
 ***
 ## Habilidades e Ferramentas
 
-- VS Code
-- Linux
-- Shell
-- HTML
-- Python
-- R
-- Gimp
-- Hugo
+![vscode](/vscode.png) ![linux](/linux.png) ![bash](/bash.png) ![html](/html.png) ![Python](/python.png) ![R](/r.png) ![gimp](/gimp.png)
 ***

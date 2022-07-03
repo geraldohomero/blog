@@ -11,5 +11,13 @@ draft: false
 ***
 ## Habilidades e Ferramentas
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hugo/hugo-original.svg" width="40" height="40"/>
+![VSCode](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg?width=40px&height=40px)
+![Linux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg?width=40px&height=40px)
+![Ubuntu](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg?width=40px&height=40px)
+![Bash](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg?width=40px&height=40px)
+![HTML](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg?width=40px&height=40px)
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg?width=40px&height=40px)
+![r](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg?width=40px&height=40px)
+![Gimp](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg?width=40px&height=40px)
+![Hugo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hugo/hugo-original.svg?width=40px&height=40px)
 ***

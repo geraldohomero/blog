@@ -15,6 +15,11 @@ draft: false
 
 - [Zotero + LibreOffice Integration on Linux](https://github.com/geraldohomero/Zotero-LibreOffice-Linux)
 - [Iriun Webcam Error (Linux)](https://github.com/geraldohomero/iriunwebcam_linux_error)
+<div>
+<a href="https://github.com/geraldohomero">
+<img height="140em" src="https://github-readme-stats.vercel.app/api?username=geraldohomero&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
 ***
 ## Design
 

@@ -13,6 +13,7 @@ draft: false
 ***
 ## GitHub
 
+- [Best Free and Open Source (not all) Software Alternatives (for Security and Privacy)](https://github.com/geraldohomero/best-foss-alternatives)
 - [Zotero + LibreOffice Integration on Linux](https://github.com/geraldohomero/Zotero-LibreOffice-Linux)
 - [Iriun Webcam Error (Linux)](https://github.com/geraldohomero/iriunwebcam_linux_error)
 ***

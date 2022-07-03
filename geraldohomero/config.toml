@@ -1,5 +1,5 @@
 baseurl = "http://geraldohomero.github.io"
-title = "Geraldo > _"
+title = "Geraldo >_"
 theme = "hugo-coder"
 languagecode = "pt"
 defaultcontentlanguage = "pt-br"

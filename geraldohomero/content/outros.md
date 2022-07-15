@@ -17,8 +17,8 @@ draft: false
 - Linux
 - Shell
 - HTML
-- Python
-- R
-- Gimp
+- CSS
+- JavaScript
+- GIMP
 - Hugo
 ***

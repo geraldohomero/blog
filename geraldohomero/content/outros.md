@@ -13,12 +13,13 @@ draft: false
 ***
 ## Habilidades
 
-- VS Code
+- VSCodium
 - Linux
-- Shell
 - HTML
 - CSS
 - JavaScript
-- GIMP
+- React
 - Hugo
+- Shell
+- GIMP
 ***

@@ -1,81 +1,147 @@
-baseurl = "http://geraldohomero.github.io"
-title = "Geraldo >_"
-theme = "hugo-coder"
-languagecode = "pt"
-defaultcontentlanguage = "pt-br"
+baseURL = "http://example.org/"
+theme = "loveit"
+title = "Geraldo Homero"
+languageCode = "pt"
+languageName = "Portuguese"
 
-
-[params]
-  author = "Geraldo Homero"
-  info = "Pesquisador - Front-end | HTML | CSS | JavaScript | React "
-  description = "Site pessoal - Geraldo Homero"
-  keywords = "blog,developer,personal"
-  avatarurl = "https://0.academia-photos.com/32223304/9633463/39049482/s200_geraldo_homero_do.couto_neto.jpg"
-  #gravatar = "john.doe@example.com"
-
-  favicon_32 = "/img/favicon-32x32.png"
-  favicon_16 = "/img/favicon-16x16.png"
-
-  colorScheme = "dark"
-  hidecolorschemetoggle = false
-
+[author]
+  name = "Geraldo Homero"
+  email = "geraldohomero@pm.me"
+  link = "https://github.com/geraldohomero"
 
 # Social links
-[[params.social]]
-  name = "Github"
-  icon = "fa fa-github fa-2x"
-  weight = 1
-  url = "https://github.com/geraldohomero/"
-[[params.social]]
-  name = "Instagram"
-  icon = "fa fa-instagram fa-2x"
-  weight = 2
-  url = "https://instagram.com/geraldohomero/"
-[[params.social]]
-  name = "Twitter"
-  icon = "fa fa-twitter fa-2x"
-  weight = 3
-  url = "https://twitter.com/geraldohomero/"
-[[params.social]]
-  name = "LinkedIn"
-  icon = "fa fa-linkedin fa-2x"
-  weight = 4
-  url = "https://linkedin.com/in/geraldohomero/"
-[[params.social]]
-  name = "Zotero"
-  icon = "fa fa-zotero fa-2x"
-  weight = 5
-  url = "https://zotero.org/geraldohomero/"
-[[params.social]]
-  name = "ORCID"
-  icon = "fa fa-orcid fa-2x"
-  weight = 7
-  url = "https://orcid.org/0000-0001-6686-7182"
+[params.social]
+    [params.social.Github]
+    weight = 0
+    id = "geraldohomero"
+    prefix = "https://github.com/"
+    title = "Github"
+    
+    [params.social.Instagram]
+    weight = 1
+    id = "geraldohomero"
+    prefix = "https://instagram.com/"
+    title = "Instagram"
 
-  
+    [params.social.Twitter]
+    weight = 2
+    id = "geraldohomero"
+    prefix = "https://twitter.com/"
+    title = "Twitter"
 
-# Menu links
+    [params.social.Linkedin]
+    weight = 3
+    id = "geraldohomero"
+    prefix = "https://linkedin.com/in/"
+    title = "LinkedIn"
+
+    [params.social.orcid]
+    weight = 4
+    id = "0000-0001-6686-7182"
+    prefix = "https://orcid.org/"
+    title = "ORCID"
+
+    [params.social.Zotero]
+    weight = 5
+    id = "geraldohomero"
+    prefix = "https://zotero.org/"
+    title = "Zotero"
+
+    
+
+[menu]
+  [[menu.main]]
+    weight = 1
+    identifier = "posts"
+    pre = ""
+    post = ""
+    name = "Sobre"
+    url = "/sobre/"
+    title = "Sobre"
+  [[menu.main]]
+    weight = 2
+    identifier = "producoes"
+    pre = ""
+    post = ""
+    name = "Produções"
+    url = "/producoes/"
+    title = "producoes"
+  [[menu.main]]
+    weight = 3
+    identifier = "projetos"
+    pre = ""
+    post = ""
+    name = "Projetos"
+    url = "/projetos/"
+    title = "projetos"
 [[menu.main]]
-  name = "Home"
-  weight = 1
-  url = "/"
+    weight = 4
+    identifier = "outros"
+    pre = ""
+    post = ""
+    name = "Outros"
+    url = "/outros/"
+    title = "Outros"
 [[menu.main]]
-  name = "Sobre"
-  weight = 2
-  url = "/sobre/"
-[[menu.main]]
-  name = "Produções"
-  weight = 3
-  url = "/producoes/"
-[[menu.main]]
-  name = "Projetos"
-  weight = 4
-  url = "/projetos/"
-[[menu.main]]
-  name = "Outros"
-  weight = 5
-  url = "/outros/"
-[[menu.main]]
-  name = "Contato"
-  weight = 6
-  url = "/contato/"
+    weight = 5
+    identifier = "contato"
+    pre = ""
+    post = ""
+    name = "Contato"
+    url = "/contato/"
+    title = "contato"
+
+[params]
+  defaultTheme = "dark"
+  gitRepo = "https://github.com/geraldohomero"
+  fingerprint = ""
+  dateFormat = "2006-01-02"
+  title = "Geraldo Homero"
+  description = "Site pessoal Geraldo Homero"
+  images = [""]
+
+ [params.home]
+    rss = 10
+    [params.home.profile]
+      enable = true
+      gravatarEmail = ""
+      avatarURL = "https://0.academia-photos.com/32223304/9633463/39049482/s200_geraldo_homero_do.couto_neto.jpg"
+      title = "Geraldo Homero"
+      subtitle = "Pesquisador em História Digital - Front-end | HTML | CSS | JavaScript | React "
+      typeit = false
+      social = true
+      disclaimer = ""
+    # Home page posts
+    [params.home.posts]
+      enable = false
+      paginate = 6
+      defaultHiddenFromHomePage = false
+
+  # Header config
+  [params.header]
+    desktopMode = "fixed"
+    mobileMode = "auto"
+    [params.header.title]
+      logo = ""
+      name = "Geraldo"
+      pre = ""
+      post = "| >_"
+      typeit = true
+
+ # Footer config
+  [params.footer]
+    enable = true
+    custom = 'Powered by Hugo | LoveIt'
+    hugo = false
+    copyright = false
+    author = true
+    since = 2022
+    icp = ""
+    license = '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
+
+
+
+
+
+
+

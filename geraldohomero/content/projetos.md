@@ -14,8 +14,14 @@ draft: false
 ## GitHub
 
 - [Best Free and Open Source (not all) Software Alternatives (for Security and Privacy)](https://github.com/geraldohomero/best-foss-alternatives)
+- [Shell script - Pop!_OS post-installation](https://github.com/geraldohomero/post-install-pop-os.sh)
+- [Shell script - Daily updates](https://github.com/geraldohomero/my-update.sh)
 - [Zotero + LibreOffice Integration on Linux](https://github.com/geraldohomero/Zotero-LibreOffice-Linux)
 - [Iriun Webcam Error (Linux)](https://github.com/geraldohomero/iriunwebcam_linux_error)
+***
+Sites:
+
+ - [Janaína Di Lourenço](https://janalourenci.github.io) | Feito com [Hugo](https://gougo.io) e [Hallo](https://github.com/EmielH/hallo-hugo/)
 ***
 ## Design
 

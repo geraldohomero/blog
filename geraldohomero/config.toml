@@ -50,16 +50,24 @@ languageName = "Portuguese"
     
 
 [menu]
-  [[menu.main]]
+ [[menu.main]]
     weight = 1
-    identifier = "posts"
+    identifier = "home"
+    pre = ""
+    post = ""
+    name = "Home"
+    url = ""
+    title = "Home"
+  [[menu.main]]
+    weight = 2
+    identifier = "sobre"
     pre = ""
     post = ""
     name = "Sobre"
     url = "/sobre/"
     title = "Sobre"
   [[menu.main]]
-    weight = 2
+    weight = 3
     identifier = "producoes"
     pre = ""
     post = ""
@@ -67,7 +75,7 @@ languageName = "Portuguese"
     url = "/producoes/"
     title = "producoes"
   [[menu.main]]
-    weight = 3
+    weight = 4
     identifier = "projetos"
     pre = ""
     post = ""
@@ -75,7 +83,7 @@ languageName = "Portuguese"
     url = "/projetos/"
     title = "projetos"
 [[menu.main]]
-    weight = 4
+    weight = 5
     identifier = "outros"
     pre = ""
     post = ""
@@ -83,7 +91,7 @@ languageName = "Portuguese"
     url = "/outros/"
     title = "Outros"
 [[menu.main]]
-    weight = 5
+    weight = 6
     identifier = "contato"
     pre = ""
     post = ""
@@ -125,8 +133,8 @@ languageName = "Portuguese"
       logo = ""
       name = "Geraldo"
       pre = ""
-      post = "| >_"
-      typeit = true
+      post = " >_"
+      typeit = false
 
  # Footer config
   [params.footer]

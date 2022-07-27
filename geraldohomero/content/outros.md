@@ -22,4 +22,5 @@ draft: false
 - Hugo
 - Shell
 - GIMP
+> [Certificação](https://cursos.alura.com.br/user/geraldohomero/fullCertificate/13c42315e61114a41ec62b452ebf9869)
 ***

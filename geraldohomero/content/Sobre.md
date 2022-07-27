@@ -14,6 +14,3 @@ Atuei como Arquivista e Gestor de documentação histórica e institucional da U
 - [LinkedIn](https://linkedin.com/in/geraldohomero)
 - [Academia.edu](https://ufjf.academia.edu/geraldo)
 - [Google Scholar](https://scholar.google.com/citations?hl=pt-BR&user=QcUrmPYAAAAJ)
-
-
-***

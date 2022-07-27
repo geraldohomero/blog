@@ -18,10 +18,10 @@ draft: false
 - [Shell script - Daily updates](https://github.com/geraldohomero/my-update.sh)
 - [Zotero + LibreOffice Integration on Linux](https://github.com/geraldohomero/Zotero-LibreOffice-Linux)
 - [Iriun Webcam Error (Linux)](https://github.com/geraldohomero/iriunwebcam_linux_error)
-***
-Sites:
 
- - [Janaína Di Lourenço](https://janalourenci.github.io) | Feito com [Hugo](https://gougo.io) e [Hallo](https://github.com/EmielH/hallo-hugo/)
+#### Sites:
+
+ - [Janaína Di Lourenço](https://janalourenci.github.io) | Feito com [Hugo](https://gougo.io) e [Hallo](https://github.com/EmielH/hallo-hugo/) | [Repositório Github](https://github.com/janalourenci/janalourenci.github.io)
 ***
 ## Design
 

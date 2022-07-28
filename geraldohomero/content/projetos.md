@@ -21,7 +21,7 @@ draft: false
 
 #### Sites:
 
- - [Janaína Di Lourenço](https://janalourenci.github.io) | Feito com [Hugo](https://gougo.io) e [Hallo](https://github.com/EmielH/hallo-hugo/) | [Repositório Github](https://github.com/janalourenci/janalourenci.github.io)
+ - [Janaína Di Lourenço](https://janalourenci.github.io) | Feito com [Hugo](https://gohugo.io) e [Hallo](https://github.com/EmielH/hallo-hugo/) | [Repositório Github](https://github.com/janalourenci/janalourenci.github.io)
 ***
 ## Design
 

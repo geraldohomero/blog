@@ -2,6 +2,29 @@
 
 NOS = Not Open Source
 
+<!--ts-->
+   * [Search engines](#Search-engines)
+   * [Browsers](#Browsers)
+   * [E-mails](#e-mails)
+   * [Authenticators](#Authenticators)
+   * [Password Managers](#password-managers)
+   * [Messaging apps](#Messaging-apps)
+   * [VPN](#VPN)
+   * [Calendar](#calendar)
+   * [To-do and notes](#To-do-and-notes)
+   * [Cloud and Sync](#Cloud-and-Sync)
+   * [Code Editors](#Code-Editors)
+   * [Office](#Office)
+   * [PDF](#PDF)
+   * [Mind-mapping](#Mind-mapping)
+   * [Image editors](#Image-editors)
+   * [Research Managers](#Research-Managers)
+   * [Maps](#Maps)
+   * [Readers RSS](readers-RSS)
+<!--te-->
+
+***
+
 ## Search engines
 - [Brave](https://search.brave.com/) / beta
 - [MetaGer](https://metager.org/)
@@ -124,7 +147,7 @@ NOS = Not Open Source
 - [OpenStreetMap](https://www.openstreetmap.org)
 - [OsmAnd](https://osmand.net/) - iOS / Android
 
-## Readers (Feed/RSS)
+## Readers RSS
 - [Raven](https://ravenreader.app/)
 - [Feeder](https://play.google.com/store/apps/details?id=com.nononsenseapps.feeder.play) - Android
 

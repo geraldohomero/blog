@@ -15,4 +15,44 @@ Atuei como Arquivista e Gestor de documentação histórica e institucional da U
 - [Academia.edu](https://ufjf.academia.edu/geraldo)
 - [Google Scholar](https://scholar.google.com/citations?hl=pt-BR&user=QcUrmPYAAAAJ)
 
+# Habilidades 
 > [Certificados](https://cursos.alura.com.br/user/geraldohomero/fullCertificate/13c42315e61114a41ec62b452ebf9869)
+
+`| Aprendendo * | Básico ** | Intermadiário *** | Avançado **** | Expert # |`
+
+- **Editores de código**
+    - Codium `****`
+    - Virtual Studio Code `****`
+    - Vim `****`
+    - Elipse `***`
+- **Front-end**
+    - HTML `****`
+    - CSS `****`
+        - Flexbox `****`
+        - Grid `****`
+    - JavaScript `***`
+        - React `**`
+        - Vue.js `*`
+        - Next.js `*`
+        - TypeScript `*`
+            - Angular `*`
+    - Git `****`
+        - Github `****`
+        - Gitlab `***`
+        - Bitbucket `*`
+    - Markdown `****`    
+    - Hugo `***`
+    - Jupyter Book `*`
+- **Linux**
+    - Shell script `***`
+    - Ubuntu Server `**`
+    - LPI Essentials `*`
+- **Design**
+    - GIMP `****`
+    - Photoshop `****`
+    - Figma `**`
+- **Office**
+    - MS Office `****`
+    - LibreOffice `****`
+    - Google Docs `****`
+

@@ -26,16 +26,17 @@ Atuei como Arquivista e Gestor de documentação histórica e institucional da U
     - Vim `****`
     - Elipse `***`
 - **Front-end**
-    - HTML `****`
-    - CSS `****`
-        - Flexbox `****`
-        - Grid `****`
     - JavaScript `***`
         - React `**`
         - Vue.js `*`
         - Next.js `*`
         - TypeScript `*`
             - Angular `*`
+    - HTML `****`
+    - CSS `****`
+        - Flexbox `****`
+        - Grid `***`
+    - SEO `**`
     - Git `****`
         - Github `****`
         - Gitlab `***`
@@ -47,6 +48,7 @@ Atuei como Arquivista e Gestor de documentação histórica e institucional da U
     - Shell script `***`
     - Ubuntu Server `**`
     - LPI Essentials `*`
+    - Docker `*`
 - **Design**
     - GIMP `****`
     - Photoshop `****`

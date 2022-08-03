@@ -19,7 +19,7 @@ draft: false
 
 - [Pop!_OS Wallpaper](https://www.pling.com/p/1770949/)
 
-![Pop_os](../resources/_gen/images/pop_os_wallpaper_papel_de_parede.jpg "papel de parede feito por mim baseado na distribuição linux pop os")
+![Pop_os](../resources/_gen/images/pop_os_wallpaper_papel_de_parede.jpg)
 ***
 ## Organização de eventos
 

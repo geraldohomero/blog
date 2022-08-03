@@ -67,7 +67,7 @@ languageName = "Portuguese"
     url = "/sobre/"
     title = "Sobre"
   [[menu.main]]
-    weight = 3
+    weight = 4
     identifier = "producoes"
     pre = ""
     post = ""
@@ -75,7 +75,7 @@ languageName = "Portuguese"
     url = "/producoes/"
     title = "producoes"
   [[menu.main]]
-    weight = 4
+    weight = 3
     identifier = "projetos"
     pre = ""
     post = ""

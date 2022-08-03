@@ -18,9 +18,9 @@ NOS = Not Open Source
    * [PDF](#pdf)
    * [Mind-mapping](#mind-mapping)
    * [Image editors](#image-editors)
-   * [Research Managers](#research-Managers)
+   * [Research Managers](#research-managers)
    * [Maps](#maps)
-   * [Readers RSS](#readers-RSS)
+   * [Readers RSS](#readers-rss)
 <!--te-->
 
 ***

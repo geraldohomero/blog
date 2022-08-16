@@ -4,13 +4,14 @@ date: 2022-06-30T11:48:17-03:00
 draft: false
 ---
 
-Pesquisador de História em nível de mestrado acadêmico na Universidade Federal de Juiz de Fora. Pesquiso principalmente sobre memória, redes sociais, algorítimo, YouTube, estudos críticos da internet, economia política da internet, infoespoliação, ditadura militar brasileira.
 
-Atuei como Arquivista e Gestor de documentação histórica e institucional da Universidade Federal de Juiz de Fora. Participei de Treinamentos Profissionais e de projetos de Extensão e Iniciação Científica, tendo atuado na preservação, aclimatação, restauro e processamento técnico de acervo documental. Enquanto pesquisador de Iniciação Científica construí banco de dados para os arquivos digitais das entrevistas em História Oral realizadas pelo projeto do LABHOI/Afrikas. 
+Sou mestre em História pela UFJF e estou em processo de transição de carreira para atuar como Desenvolvedor Web. Atualmente estou cursando Análise e Desenvolvimento de Sistemas pela PUC-Minas. 
+
+Como sempre fui muito curioso sobre tecnologia, meu mestrado teve como aporte teórico a História Digital, abordando temáticas como redes sociais, algorítimo, YouTube, estudos críticos da internet, economia política da internet, infoespoliação, big data e história da internet. Nesse processo, acabei me apaixonando pelo universo da tecnologia, o que me levou a aprender e me qualificar cada vez mais sobre o Desenvolvimento Web e programação, especialmente HTML, CSS, JavaScript, C# e React. 
+
 
 - [CV](http://lattes.cnpq.br/9924558848538635)
 - [Alura](https://cursos.alura.com.br/user/geraldohomero)
-- [ORCID](https://orcid.org/0000-0001-6686-7182)
 - [LinkedIn](https://linkedin.com/in/geraldohomero)
 - [Academia.edu](https://ufjf.academia.edu/geraldo)
 - [Google Scholar](https://scholar.google.com/citations?hl=pt-BR&user=QcUrmPYAAAAJ)
@@ -21,11 +22,12 @@ Atuei como Arquivista e Gestor de documentação histórica e institucional da U
 `| Aprendendo * | Básico ** | Intermadiário *** | Avançado **** | Expert # |`
 
 - **Editores de código**
-    - Codium `****`
-    - Virtual Studio Code `****`
+    - VS Codium `****`
+    - VS Code `****`
     - Vim `****`
     - Elipse `***`
 - **Front-end**
+    - C# `*`
     - JavaScript `***`
         - React `**`
         - Vue.js `*`

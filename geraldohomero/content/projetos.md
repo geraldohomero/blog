@@ -6,6 +6,7 @@ draft: false
 ## GitHub
 
 - [Best Free and Open Source (not all) Software Alternatives (for Security and Privacy)](https://github.com/geraldohomero/best-foss-alternatives)
+- [Regex Tester - Expressões regulares](https://geraldohomero.github.io/regex)
 - [Shell script - Pop!_OS post-installation](https://github.com/geraldohomero/post-install-pop-os.sh)
 - [Shell script - Daily updates](https://github.com/geraldohomero/my-update.sh)
 - [Zotero + LibreOffice Integration on Linux](https://github.com/geraldohomero/Zotero-LibreOffice-Linux)

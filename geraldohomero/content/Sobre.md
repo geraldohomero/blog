@@ -57,6 +57,21 @@ Como sempre fui muito curioso sobre tecnologia, meu mestrado teve como aporte te
     - Figma `**`
 - **Office**
     - MS Office `****`
-    - LibreOffice `****`
+    - MS Power Bi `*`
+    - LibreOffice `#`
     - Google Docs `****`
 
+
+# Formação
+
+## **PUC-Minas**
+- ### Análise e Desenvolvimento de Sistemas
+    - 2022 - 2024
+
+## **UFJF**
+- ### Mestrado em História
+    - 2019 - 2022
+- ### Licenciatura em História
+    - 2019 - 2021
+- ### Bacharelado em História
+    - 2014 - 2018

@@ -26,8 +26,10 @@ Como sempre fui muito curioso sobre tecnologia, meu mestrado teve como aporte te
     - VS Code `****`
     - Vim `****`
     - Elipse `***`
-- **Front-end**
+- **Desenvolvimento**
     - C# `*`
+    - .NET `*`
+    - Python `*`
     - JavaScript `***`
         - React `**`
         - Vue.js `*`
@@ -38,10 +40,10 @@ Como sempre fui muito curioso sobre tecnologia, meu mestrado teve como aporte te
     - CSS `****`
         - Flexbox `****`
         - Grid `***`
-    - SEO `**`
+    - SEO `***`
     - Git `****`
         - Github `****`
-        - Gitlab `***`
+        - Gitlab `**`
         - Bitbucket `*`
     - Markdown `****`    
     - Hugo `***`

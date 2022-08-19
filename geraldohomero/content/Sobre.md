@@ -64,11 +64,11 @@ Como sempre fui muito curioso sobre tecnologia, meu mestrado teve como aporte te
 
 # Formação
 
-## **PUC-Minas**
+### **PUC-Minas**
 - ### Análise e Desenvolvimento de Sistemas
     - 2022 - 2024
 
-## **UFJF**
+### **UFJF**
 - ### Mestrado em História
     - 2019 - 2022
 - ### Licenciatura em História

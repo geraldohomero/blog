@@ -45,6 +45,8 @@ Como sempre fui muito curioso sobre tecnologia, meu mestrado teve como aporte te
         - Github `****`
         - Gitlab `**`
         - Bitbucket `*`
+    - Azure DevOps `**`
+    - Docker `*`
     - Markdown `****`    
     - Hugo `***`
     - Jupyter Book `*`

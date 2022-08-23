@@ -61,7 +61,7 @@ Como sempre fui muito curioso sobre tecnologia, meu mestrado teve como aporte te
     - Figma `**`
 - **Office**
     - MS Office `****`
-    - MS Power Bi `*`
+    - MS Power BI `*`
     - LibreOffice `#`
     - Google Docs `****`
 

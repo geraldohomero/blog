@@ -577,6 +577,8 @@ zotero:
   Icon:
     Src: /svg/icons/zotero.svg 
     
+    
+    
 # Phone
 phone:
   Weight: 98

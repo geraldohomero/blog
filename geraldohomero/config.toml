@@ -18,31 +18,31 @@ languageName = "Portuguese"
     title = "Github"
     
     [params.social.Instagram]
-    weight = 1
+    weight = 2
     id = "geraldohomero"
     prefix = "https://instagram.com/"
     title = "Instagram"
 
     [params.social.Twitter]
-    weight = 2
+    weight = 3
     id = "geraldohomero"
     prefix = "https://twitter.com/"
     title = "Twitter"
 
     [params.social.Linkedin]
-    weight = 3
+    weight = 4
     id = "geraldohomero"
     prefix = "https://linkedin.com/in/"
     title = "LinkedIn"
 
     [params.social.orcid]
-    weight = 4
+    weight = 5
     id = "0000-0001-6686-7182"
     prefix = "https://orcid.org/"
     title = "ORCID"
 
     [params.social.Zotero]
-    weight = 5
+    weight = 6
     id = "geraldohomero"
     prefix = "https://zotero.org/"
     title = "Zotero"
@@ -115,7 +115,7 @@ languageName = "Portuguese"
       gravatarEmail = ""
       avatarURL = "https://0.academia-photos.com/32223304/9633463/39049482/s200_geraldo_homero_do.couto_neto.jpg"
       title = "Geraldo Homero"
-      subtitle = "Front-end | HTML | CSS | JavaScript | React - Pesquisador em História Digital"
+      subtitle = "Dev | HTML | CSS | JavaScript | React | C# | .NET <br>Análise e Desenv. de Sistemas (PUC-Minas) <br> Pesquisador em História Digital"
       typeit = false
       social = true
       disclaimer = ""

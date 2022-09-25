@@ -118,7 +118,7 @@ languageName = "Portuguese"
       subtitle = "Dev | HTML | CSS | JavaScript | React | .NET <br>Análise e Desenv. de Sistemas (PUC-Minas) <br> Pesquisador em História Digital"
       typeit = false
       social = true
-      disclaimer = ""
+      disclaimer = "" 
     # Home page posts
     [params.home.posts]
       enable = false

@@ -24,14 +24,16 @@ Como sempre fui muito curioso sobre tecnologia, meu mestrado teve como aporte te
 - **Editores de código**
     - VS Codium `****`
     - VS Code `****`
-    - Vim `****`
+    - Sublime Text `****`
+    - Vim `***`
     - Elipse `***`
 - **Desenvolvimento**
-    - C# `*`
-    - .NET `*`
+    - C# `**`
+    - .NET `**`
     - Python `*`
+    - R `*`
     - JavaScript `***`
-        - React `**`
+        - React `*`
         - Vue.js `*`
         - Next.js `*`
         - TypeScript `*`
@@ -53,7 +55,6 @@ Como sempre fui muito curioso sobre tecnologia, meu mestrado teve como aporte te
 - **Linux**
     - Shell script `***`
     - Ubuntu Server `**`
-    - LPI Essentials `*`
     - Docker `*`
 - **Design**
     - GIMP `****`
@@ -61,7 +62,7 @@ Como sempre fui muito curioso sobre tecnologia, meu mestrado teve como aporte te
     - Figma `**`
 - **Office**
     - MS Office `****`
-    - MS Power BI `*`
+    - MS Power BI `**`
     - LibreOffice `#`
     - Google Docs `****`
 

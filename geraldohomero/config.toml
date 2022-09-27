@@ -82,14 +82,14 @@ languageName = "Portuguese"
     name = "Projetos"
     url = "/projetos/"
     title = "projetos"
-[[menu.main]]
-    weight = 5
-    identifier = "outros"
-    pre = ""
-    post = ""
-    name = "Outros"
-    url = "/outros/"
-    title = "Outros"
+# [[menu.main]]
+#     weight = 5
+#     identifier = "outros"
+#     pre = ""
+#     post = ""
+#     name = "Outros"
+#     url = "/outros/"
+#     title = "Outros"
 [[menu.main]]
     weight = 6
     identifier = "contato"
@@ -113,7 +113,7 @@ languageName = "Portuguese"
     [params.home.profile]
       enable = true
       gravatarEmail = ""
-      avatarURL = "https://0.academia-photos.com/32223304/9633463/39049482/s200_geraldo_homero_do.couto_neto.jpg"
+      avatarURL = "https://avatars.githubusercontent.com/u/70844369?v=4"
       title = "Geraldo Homero"
       subtitle = "Dev | HTML | CSS | JavaScript | React | .NET <br>Análise e Desenv. de Sistemas (PUC-Minas) <br> Pesquisador em História Digital"
       typeit = false

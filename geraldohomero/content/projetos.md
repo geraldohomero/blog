@@ -5,6 +5,7 @@ draft: false
 ---
 ## GitHub
 
+- [PUC-Minas - Projeto Bares e Restaurantes/Desenvolvimento Web](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t9-bares-restaurantes)
 - [Best Free and Open Source (not all) Software Alternatives (for Security and Privacy)](https://github.com/geraldohomero/best-foss-alternatives)
 - [Regex Tester - Expressões regulares](https://github.com/geraldohomero/regex)
 - [Shell script - Pop!_OS post-installation](https://github.com/geraldohomero/post-install-pop-os.sh)

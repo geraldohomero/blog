@@ -22,7 +22,6 @@ Como sempre fui muito curioso sobre tecnologia, meu mestrado teve como aporte te
 `| Aprendendo * | Básico ** | Intermadiário *** | Avançado **** | Expert # |`
 
 - **Editores de código**
-    - VS Codium `****`
     - VS Code `****`
     - Sublime Text `****`
     - Vim `***`
@@ -34,7 +33,6 @@ Como sempre fui muito curioso sobre tecnologia, meu mestrado teve como aporte te
     - R `*`
     - JavaScript `***`
         - React `*`
-        - Vue.js `*`
         - Next.js `*`
         - TypeScript `*`
             - Angular `*`
@@ -51,10 +49,11 @@ Como sempre fui muito curioso sobre tecnologia, meu mestrado teve como aporte te
     - Docker `*`
     - Markdown `****`    
     - Hugo `***`
-    - Jupyter Book `*`
 - **Linux**
     - Shell script `***`
-    - Ubuntu Server `**`
+    - Ubuntu Server `***`
+    - Red Hat Enterprise `**`
+    - WSL `**`
     - Docker `*`
 - **Design**
     - GIMP `****`
@@ -73,7 +72,7 @@ Como sempre fui muito curioso sobre tecnologia, meu mestrado teve como aporte te
 - ### Análise e Desenvolvimento de Sistemas
     - 2022 - 2024
 
-### **UFJF**
+### **Universidade Federal de Juiz de Fora**
 - ### Mestrado em História
     - 2019 - 2022
 - ### Licenciatura em História

@@ -64,6 +64,17 @@ Como sempre fui muito curioso sobre tecnologia, meu mestrado teve como aporte te
     - MS Power BI `**`
     - LibreOffice `#`
     - Google Docs `****`
+- **Outros**
+    - Edição de vídeo
+        - Adobe Premiere Pro `***`
+        - DaVince Resolve `****`
+        - Kdenlive `***`
+    - Digital Audio Workstations (DAW)
+        - LMMS `***`
+        - Reaper `****`
+        - Audacity `****`
+        - Pro Tools `**`
+        - Ardour `**`
 
 
 # Formação

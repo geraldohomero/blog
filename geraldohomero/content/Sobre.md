@@ -71,7 +71,7 @@ Como sempre fui muito curioso sobre tecnologia, meu mestrado teve como aporte te
         - Kdenlive `***`
     - Digital Audio Workstations (DAW)
         - LMMS `***`
-        - Reaper `****`
+        - Reaper `#`
         - Audacity `****`
         - Pro Tools `**`
         - Ardour `**`

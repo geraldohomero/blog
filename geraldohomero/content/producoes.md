@@ -17,7 +17,7 @@ draft: "false"
 
 ## Monografia (Licenciatura/UFJF)
 
-[Negacionismo da Ditadura em sala de aula: entre a história e a memória](https://drive.google.com/file/d/1wOziNnl0mgOj5bJhTqTE5U8nvbsIwh7w/view?usp=sharing)
+[Negacionismo da Ditadura em sala de aula: entre a memória e a história](https://drive.google.com/file/d/1wOziNnl0mgOj5bJhTqTE5U8nvbsIwh7w/view?usp=sharing)
 
 ***
 

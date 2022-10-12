@@ -19,7 +19,9 @@ Como sempre fui muito curioso sobre tecnologia, meu mestrado teve como aporte te
 # Habilidades 
 > [Certificados](https://cursos.alura.com.br/user/geraldohomero/fullCertificate/13c42315e61114a41ec62b452ebf9869)
 
-`| Aprendendo * | Básico ** | Intermadiário *** | Avançado **** | Expert # |`
+
+|`Aprendendo *` | `Básico **` | `Intermediário ***` | `Avançado ****` | `Expert #`| 
+|---------------|-------------|---------------------|-----------------|-----------|
 
 - **Editores de código**
     - VS Code `****`

@@ -4,10 +4,9 @@ date: 2022-06-30T11:48:17-03:00
 draft: false
 ---
 
+<p align="justify"> Sou mestre em História pela UFJF e estou em processo de transição de carreira para atuar como Desenvolvedor Web. Atualmente estou cursando Análise e Desenvolvimento de Sistemas pela PUC-Minas.
 
-Sou mestre em História pela UFJF e estou em processo de transição de carreira para atuar como Desenvolvedor Web. Atualmente estou cursando Análise e Desenvolvimento de Sistemas pela PUC-Minas. 
-
-Como sempre fui muito curioso sobre tecnologia, meu mestrado teve como aporte teórico a História Digital, abordando temáticas como redes sociais, algorítimo, YouTube, estudos críticos da internet, economia política da internet, infoespoliação, big data e história da internet. Nesse processo, acabei me apaixonando pelo universo da tecnologia, o que me levou a aprender e me qualificar cada vez mais sobre o Desenvolvimento Web e programação, especialmente HTML, CSS, JavaScript, React e .NET. 
+<p align="justify"> Como sempre fui muito curioso sobre tecnologia, meu mestrado teve como aporte teórico a História Digital, abordando temáticas como redes sociais, algorítimo, YouTube, estudos críticos da internet, economia política da internet, infoespoliação, big data e história da internet. Nesse processo, acabei me apaixonando pelo universo da tecnologia, o que me levou a aprender e me qualificar cada vez mais sobre o Desenvolvimento Web e programação, especialmente HTML, CSS, JavaScript, React e .NET. 
 
 
 - [CV](http://lattes.cnpq.br/9924558848538635)

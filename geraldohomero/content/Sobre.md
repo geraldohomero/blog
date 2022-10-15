@@ -51,8 +51,8 @@ Como sempre fui muito curioso sobre tecnologia, meu mestrado teve como aporte te
 - **Linux**
     - Shell script `***`
     - Ubuntu Server `***`
-    - Red Hat Enterprise `**`
     - WSL `***`
+    - Red Hat Enterprise `**`
     - Docker `**`
     - Distrobox `**`
 - **Design**

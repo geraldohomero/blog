@@ -19,7 +19,7 @@ Como sempre fui muito curioso sobre tecnologia, meu mestrado teve como aporte te
 > [Certificados](https://cursos.alura.com.br/user/geraldohomero/fullCertificate/13c42315e61114a41ec62b452ebf9869)
 
 
-| Aprendendo `*` | Básico `**` | Intermediário `***` | Avançado `****` | Expert `#` |
+| Aprendendo `*` | Básico `**` | Intermediário `***` | Avançado `****` |
 
 - **Editores de código**
     - VS Code `****`
@@ -46,33 +46,35 @@ Como sempre fui muito curioso sobre tecnologia, meu mestrado teve como aporte te
         - Gitlab `**`
         - Bitbucket `*`
     - Azure DevOps `**`
-    - Docker `*`
     - Markdown `****`    
     - Hugo `***`
 - **Linux**
     - Shell script `***`
     - Ubuntu Server `***`
     - Red Hat Enterprise `**`
-    - WSL `**`
-    - Docker `*`
+    - WSL `***`
+    - Docker `**`
+    - Distrobox `**`
 - **Design**
     - GIMP `****`
-    - Photoshop `****`
+    - Photoshop `***`
+    - Penpot `***`
+    - MarvelApp `**`
     - Figma `**`
 - **Office**
     - MS Office `****`
-    - MS Power BI `**`
-    - LibreOffice `#`
+    - LibreOffice `****`
     - Google Docs `****`
+    - MS Power BI `**`
 - **Outros**
     - Edição de vídeo
-        - Adobe Premiere Pro `***`
         - DaVince Resolve `****`
-        - Kdenlive `***`
+        - Kdenlive `****`
+        - Adobe Premiere Pro `***`
     - Digital Audio Workstations (DAW)
-        - LMMS `***`
-        - Reaper `#`
+        - Reaper `****`
         - Audacity `****`
+        - LMMS `***`
         - Pro Tools `**`
         - Ardour `**`
 

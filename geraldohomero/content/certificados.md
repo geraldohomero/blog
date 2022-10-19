@@ -4,8 +4,6 @@ date: 2022-06-30T11:48:17-03:00
 draft: false
 ---
 
-# Certificados
-
 ## Alura
 
 - [Formação Front-end](https://cursos.alura.com.br/degree/certificate/9f7ce0b0-5455-4b3c-bc15-999a9e2495a8)

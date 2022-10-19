@@ -1,3 +1,9 @@
+---
+title: "Certificados"
+date: 2022-06-30T11:48:17-03:00
+draft: false
+---
+
 # Certificados
 
 ## Alura
@@ -8,7 +14,8 @@
 - [Scrum parte 1](https://cursos.alura.com.br/certificate/697d28bd-c291-4aeb-afd5-01f655c7f435)
 
 ## Cisco
-- [Linux Unhatched](../resources/_gen/certification/cisco-certificado-linux.pdf)
+
+- [Linux Unhatched](https://drive.google.com/file/d/1BNoGh5qU-NvsOMN0JTY-naAupSKv41ys/view?usp=sharing)
 
 ## Diolinux
 - [Terminal Linux](https://watch.diolinux.com.br/api/public/certificates/2ed72c07-0ca2-4a81-b75e-c1525995c154/share)

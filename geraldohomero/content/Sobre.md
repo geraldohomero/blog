@@ -15,9 +15,10 @@ Como sempre fui muito curioso sobre tecnologia, meu mestrado teve como aporte te
 - [Academia.edu](https://ufjf.academia.edu/geraldo)
 - [Google Scholar](https://scholar.google.com/citations?hl=pt-BR&user=QcUrmPYAAAAJ)
 
-> [Certificados](./certificados.md)
-
 # Habilidades 
+
+> [Certificados](/certificados/)
+
 | Aprendendo `*` | Básico `**` | Intermediário `***` | Avançado `****` |
 
 - **Editores de código**

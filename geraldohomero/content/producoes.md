@@ -6,7 +6,7 @@ draft: "false"
 
 ## Dissertação (Mestrado/UFJF)
 
-[(Des)fazendo História na Internet: visões acerca da Ditadura Militar Brasileira em canais da “nova direita” no YouTube (2013-2018)](https://www.researchgate.net/publication/364262783_Desfazendo_Historia_na_Internet_visoes_acerca_da_Ditadura_Militar_Brasileira_em_canais_da_nova_direita_no_YouTube_2013-2018?channel=doi&linkId=63418fa0ff870c55ce0e6a88&showFulltext=true)
+[(Des)fazendo História na Internet: visões acerca da Ditadura Militar Brasileira em canais da “nova direita” no YouTube (2013-2018)](https://repositorio.ufjf.br/jspui/handle/ufjf/14568)
 
 > **Resumo**: Esta dissertação tem como objetivo analisar vídeos de grandes canais da nova direita brasileira no YouTube que abarcam o tema da ditadura militar brasileira, bem como seus respectivos comentários. Trabalharemos com o recorte temporal de junho de 2013 até o ano de 2018, pelo fato de as manifestações de junho terem criado um terreno propício para a difusão de ideias “liberais na economia e conservadoras nos costumes” da nova direita, o que coincide, justamente, com o seu aparecimento mais ativo na esfera pública e digital. A partir disso, buscaremos entender como esses sujeitos interpretam, discutem e compartilham o passado, assim como identificar as inconsistências dos conteúdos defendidos, para, então, problematizar suas visões revisionistas e negacionistas sobre a ditadura, em contraposição ao que há de consolidado na historiografia brasileira sobre o tema. Tal estudo nos possibilita uma reflexão acerca do papel do historiador frente às novas mídias, tendo em vista o seu grande poder de alcance de público, e aos desafios proporcionados pelas disputas ocorridas esfera pública em torno das memórias da ditadura militar brasileira.
 

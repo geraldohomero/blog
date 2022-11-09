@@ -63,10 +63,10 @@ Como sempre fui muito curioso sobre tecnologia, meu mestrado teve como aporte te
     - MarvelApp `**`
     - Figma `**`
 - **Office**
-    - MS Office `****`
+    - Microsoft Office `****`
     - LibreOffice `****`
     - Google Docs `****`
-    - MS Power BI `**`
+    - Microsoft Power BI `**`
 - **Outros**
     - Edição de vídeo
         - DaVince Resolve `****`
@@ -75,8 +75,8 @@ Como sempre fui muito curioso sobre tecnologia, meu mestrado teve como aporte te
     - Digital Audio Workstations (DAW)
         - Reaper `****`
         - Audacity `****`
-        - LMMS `***`
-        - Pro Tools `**`
+        - LMMS `**`
+        - Pro Tools `***`
         - Ardour `**`
 
 

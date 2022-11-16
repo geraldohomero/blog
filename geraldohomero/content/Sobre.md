@@ -10,7 +10,7 @@ Como sempre fui muito curioso sobre tecnologia, meu mestrado teve como aporte te
 
 
 - [CV](http://lattes.cnpq.br/9924558848538635)
-- [Alura](https://cursos.alura.com.br/user/geraldohomero)
+- [Alura](https://cursos.alura.com.br/vitrinedev/geraldohomero)
 - [LinkedIn](https://linkedin.com/in/geraldohomero)
 - [ResearchGate](https://www.researchgate.net/profile/Geraldo-Couto-Neto)
 - [Academia.edu](https://ufjf.academia.edu/geraldo)

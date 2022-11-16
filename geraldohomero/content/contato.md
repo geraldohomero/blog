@@ -9,10 +9,5 @@ draft: false
 - geraldo.couto@sga.pucminas.br
 - geraldohomero@proton.me
 ***
-### Redes:
 
-- [Twitter](https://twitter.com/geraldohomero)
-- [Instagram](https://instagram.com/geraldohomero)
-- [LinkedIn](https://linkedin.com/in/geraldohomero)
-***
 

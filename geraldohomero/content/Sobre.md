@@ -23,7 +23,8 @@ Como sempre fui muito curioso sobre tecnologia, meu mestrado teve como aporte te
 | Aprendendo `*` | Básico `**` | Intermediário `***` | Avançado `****` |
 
 - **Editores de código**
-    - VS Code `****`
+    - Visual Studio Code `****`
+    - Visual Studio `***`
     - Sublime Text `****`
     - Vim `***`
     - Elipse `***`

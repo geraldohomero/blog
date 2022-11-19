@@ -16,6 +16,12 @@ languageName = "Portuguese"
     id = "geraldohomero"
     prefix = "https://github.com/"
     title = "Github"
+
+    [params.social.Gitlab]
+    weight = 0
+    id = "geraldohomero"
+    prefix = "https://gitlab.com/"
+    title = "Gitlab"
     
     [params.social.Instagram]
     weight = 2

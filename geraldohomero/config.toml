@@ -18,7 +18,7 @@ languageName = "Portuguese"
     title = "Github"
 
     [params.social.Gitlab]
-    weight = 0
+    weight = 1
     id = "geraldohomero"
     prefix = "https://gitlab.com/"
     title = "Gitlab"

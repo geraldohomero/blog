@@ -5,11 +5,13 @@ draft: false
 ---
 ## GitHub
 
-- [PUC-Minas - Projeto Bares e Restaurantes/Desenvolvimento Web](https://user-images.githubusercontent.com/70844369/204166694-7f0994c9-4a70-4806-a6da-58f473975912.png)
+- [PUC-Minas - Projeto Bares e Restaurantes/Desenvolvimento Web](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t9-bares-restaurantes)
 
->HTML, CSS, JavaScript, JSON, MarvelApp, Trello, VSCode
+    - Tecnologias: HTML, CSS, JavaScript, JSON, MarvelApp, Trello, VSCode
 
-![imagem-projeto-pucminas](../../geraldohomero/resources/_gen/images/Captura%20de%20tela%20de%202022-11-28%2010-32-51.png)
+    - [Link Github pages do projeto](https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-2-e1-proj-web-t9-bares-restaurantes/)
+
+![imagem-projeto-pucminas](https://user-images.githubusercontent.com/70844369/204166694-7f0994c9-4a70-4806-a6da-58f473975912.png)
 
 - [Best Free and Open Source (not all) Software Alternatives (for Security and Privacy)](https://github.com/geraldohomero/best-foss-alternatives)
 - [Regex Tester - Expressões regulares](https://github.com/geraldohomero/regex)

@@ -5,7 +5,7 @@ draft: false
 ---
 ## GitHub
 
-- [PUC-Minas - Projeto Bares e Restaurantes/Desenvolvimento Web](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t9-bares-restaurantes)
+- [PUC-Minas - Projeto Bares e Restaurantes/Desenvolvimento Web](https://user-images.githubusercontent.com/70844369/204166694-7f0994c9-4a70-4806-a6da-58f473975912.png)
 
 >HTML, CSS, JavaScript, JSON, MarvelApp, Trello, VSCode
 

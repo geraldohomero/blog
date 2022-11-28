@@ -10,7 +10,6 @@ Como sempre fui muito curioso sobre tecnologia, meu mestrado teve como aporte te
 
 
 - [CV](http://lattes.cnpq.br/9924558848538635)
-- [Alura](https://cursos.alura.com.br/vitrinedev/geraldohomero)
 - [LinkedIn](https://linkedin.com/in/geraldohomero)
 - [ResearchGate](https://www.researchgate.net/profile/Geraldo-Couto-Neto)
 - [Academia.edu](https://ufjf.academia.edu/geraldo)
@@ -24,22 +23,23 @@ Como sempre fui muito curioso sobre tecnologia, meu mestrado teve como aporte te
 
 - **Editores de código**
     - Visual Studio Code `****`
-    - Visual Studio `***`
+    - Visual Studio Community `***`
     - Sublime Text `****`
-    - Vim `***`
     - Elipse `***`
+    - Vim `***`
+    - Android Studio `**`
 - **Desenvolvimento**
-    - C# `**`
+    - C# `***`
     - .NET `**`
     - Python `*`
     - R `*`
-    - JavaScript `***`
+    - JavaScript `**`
         - React `*`
-        - Next.js `*`
-        - TypeScript `*`
-            - Angular `*`
+        - Vue.js `*`
+    - TypeScript `*`
     - HTML `****`
     - CSS `****`
+        - Sass `**`
         - Flexbox `****`
         - Grid `***`
     - SEO `***`
@@ -47,16 +47,17 @@ Como sempre fui muito curioso sobre tecnologia, meu mestrado teve como aporte te
         - Github `****`
         - Gitlab `**`
         - Bitbucket `*`
-    - Azure DevOps `**`
     - Markdown `****`    
     - Hugo `***`
+    - Azure DevOps `**`
 - **Linux**
-    - Shell script `***`
     - Ubuntu Server `***`
+    - Shell script `***`
     - WSL `***`
     - Red Hat Enterprise `**`
     - Docker `**`
     - Distrobox `**`
+    - TrueNAS `**`
 - **Design**
     - GIMP `****`
     - Photoshop `***`
@@ -76,8 +77,8 @@ Como sempre fui muito curioso sobre tecnologia, meu mestrado teve como aporte te
     - Digital Audio Workstations (DAW)
         - Reaper `****`
         - Audacity `****`
-        - LMMS `**`
         - Pro Tools `***`
+        - LMMS `**`
         - Ardour `**`
 
 

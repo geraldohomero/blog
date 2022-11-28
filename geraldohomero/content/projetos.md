@@ -6,6 +6,11 @@ draft: false
 ## GitHub
 
 - [PUC-Minas - Projeto Bares e Restaurantes/Desenvolvimento Web](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t9-bares-restaurantes)
+
+>HTML, CSS, JavaScript, JSON, MarvelApp, Trello, VSCode
+
+![imagem-projeto-pucminas](../../geraldohomero/resources/_gen/images/Captura%20de%20tela%20de%202022-11-28%2010-32-51.png)
+
 - [Best Free and Open Source (not all) Software Alternatives (for Security and Privacy)](https://github.com/geraldohomero/best-foss-alternatives)
 - [Regex Tester - Expressões regulares](https://github.com/geraldohomero/regex)
 - [Shell script - Pop!_OS post-installation](https://github.com/geraldohomero/post-install-pop-os.sh)

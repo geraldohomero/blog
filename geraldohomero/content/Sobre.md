@@ -22,37 +22,36 @@ Como sempre fui muito curioso sobre tecnologia, meu mestrado teve como aporte te
 | Aprendendo `*` | Básico `**` | Intermediário `***` | Avançado `****` |
 
 - **Editores de código**
-    - Visual Studio Code `****`
-    - Visual Studio Community `***`
+    - VS Code `****`
+    - VS Community `***`
     - Sublime Text `****`
-    - Elipse `***`
     - Vim `***`
     - Android Studio `**`
 - **Desenvolvimento**
-    - C# `***`
-    - .NET `**`
-    - Python `*`
-    - R `*`
-    - JavaScript `**`
-        - React `*`
-        - Vue.js `*`
-    - TypeScript `*`
     - HTML `****`
     - CSS `****`
         - Sass `**`
         - Flexbox `****`
         - Grid `***`
-    - SEO `***`
+    - JavaScript `**`
+        - React `*`
+        - Vue.js `*`
+    - C# `***`
+    - .NET `**`
+        - ASP.NET `*`
+    - TypeScript `*`
+    - Python `*`
     - Git `****`
         - Github `****`
         - Gitlab `**`
         - Bitbucket `*`
+    - SEO `***`
     - Markdown `****`    
     - Hugo `***`
     - Azure DevOps `**`
 - **Linux**
-    - Ubuntu Server `***`
     - Shell script `***`
+    - Ubuntu Server `***`
     - WSL `***`
     - Red Hat Enterprise `**`
     - Docker `**`
@@ -64,11 +63,12 @@ Como sempre fui muito curioso sobre tecnologia, meu mestrado teve como aporte te
     - Penpot `***`
     - MarvelApp `**`
     - Figma `**`
+- **Dados**
+    - Microsoft Power BI `**`
 - **Office**
     - Microsoft Office `****`
     - LibreOffice `****`
     - Google Docs `****`
-    - Microsoft Power BI `**`
 - **Outros**
     - Edição de vídeo
         - DaVince Resolve `****`

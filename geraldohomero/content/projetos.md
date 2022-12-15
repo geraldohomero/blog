@@ -14,6 +14,7 @@ draft: false
 ![imagem-projeto-pucminas](https://user-images.githubusercontent.com/70844369/204166694-7f0994c9-4a70-4806-a6da-58f473975912.png)
 
 - [Best Free and Open Source (not all) Software Alternatives (for Security and Privacy)](https://github.com/geraldohomero/best-foss-alternatives)
+- [Notas Algoritmo C#](https://github.com/geraldohomero/notas-algoritmo-csharp)
 - [Regex Tester - Expressões regulares](https://github.com/geraldohomero/regex)
 - [Shell script - Pop!_OS post-installation](https://github.com/geraldohomero/post-install-pop-os.sh)
 - [Shell script - Daily updates](https://github.com/geraldohomero/my-update.sh)

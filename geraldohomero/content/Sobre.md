@@ -10,9 +10,9 @@ Como sempre fui muito curioso sobre tecnologia, meu mestrado teve como aporte te
 
 
 - [CV](http://lattes.cnpq.br/9924558848538635)
+- [ORCID](https://orcid.org/0000-0001-6686-7182)
 - [LinkedIn](https://linkedin.com/in/geraldohomero)
 - [ResearchGate](https://www.researchgate.net/profile/Geraldo-Couto-Neto)
-- [Academia.edu](https://ufjf.academia.edu/geraldo)
 - [Google Scholar](https://scholar.google.com/citations?hl=pt-BR&user=QcUrmPYAAAAJ)
 
 # Habilidades 

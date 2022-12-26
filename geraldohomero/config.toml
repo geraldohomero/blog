@@ -11,49 +11,12 @@ languageName = "Portuguese"
 
 # Social links
 [params.social]
-    [params.social.Github]
-    weight = 0
-    id = "geraldohomero"
-    prefix = "https://github.com/"
-    title = "Github"
-
-    [params.social.Gitlab]
-    weight = 1
-    id = "geraldohomero"
-    prefix = "https://gitlab.com/"
-    title = "Gitlab"
-    
-    [params.social.Instagram]
-    weight = 2
-    id = "geraldohomero"
-    prefix = "https://instagram.com/"
-    title = "Instagram"
-
-    [params.social.Twitter]
-    weight = 3
-    id = "geraldohomero"
-    prefix = "https://twitter.com/"
-    title = "Twitter"
-
-    [params.social.Linkedin]
-    weight = 4
-    id = "geraldohomero"
-    prefix = "https://linkedin.com/in/"
-    title = "LinkedIn"
-
-    [params.social.orcid]
-    weight = 5
-    id = "0000-0001-6686-7182"
-    prefix = "https://orcid.org/"
-    title = "ORCID"
-
-    [params.social.Zotero]
-    weight = 6
-    id = "geraldohomero"
-    prefix = "https://zotero.org/"
-    title = "Zotero"
-
-    
+    GitHub = "geraldohomero"
+    Linkedin = "geraldohomero"
+    Twitter = "geraldohomero"
+    Instagram = "geraldohomero"
+    Gitlab = "geraldohomero"
+    Mastodon = "@geraldohomero"
 
 [menu]
  [[menu.main]]
@@ -121,10 +84,10 @@ languageName = "Portuguese"
       gravatarEmail = ""
       avatarURL = "https://avatars.githubusercontent.com/u/70844369?v=4"
       title = "<br>Geraldo Homero"
-      subtitle = "HTML | CSS | JavaScript | React | .NET | C# <br>Análise e Desenv. de Sistemas (PUC-Minas) <br> Pesquisador em História Digital"
+      subtitle = 'HTML | CSS | JavaScript | React | .NET | C#'
       typeit = false
       social = true
-      disclaimer = "" 
+      disclaimer = '<br><font size="2"><b> Análise e Desenv. de Sistemas (PUC-Minas) <br></font>'
     # Home page posts
     [params.home.posts]
       enable = false

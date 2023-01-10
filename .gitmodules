@@ -1,6 +1,6 @@
 [submodule "geraldohomero/public"]
 	path = geraldohomero/public
-	url = https://github.com/geraldohomero/geraldohomero.github.io.git
+	url = https://github.com/geraldohomero/geraldohomero.github.io
 	branch = main
 [submodule "geraldohomero/public1"]
 	path = geraldohomero/public1

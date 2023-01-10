@@ -29,7 +29,7 @@ Como sempre fui muito curioso sobre tecnologia, meu mestrado teve como aporte te
     - Android Studio `**`
 - **Desenvolvimento**
     - HTML `****`
-    - CSS `****`
+    - CSS `***`
         - Sass `**`
         - Flexbox `***`
         - Grid `***`

@@ -30,7 +30,7 @@ Como sempre fui muito curioso sobre tecnologia, meu mestrado teve como aporte te
 - **Desenvolvimento**
     - HTML `****`
     - CSS `***`
-        - Sass `**`
+        - Sass `***`
         - Flexbox `***`
         - Grid `***`
     - JavaScript `***`

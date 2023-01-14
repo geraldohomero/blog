@@ -26,7 +26,7 @@ Como sempre fui muito curioso sobre tecnologia, meu mestrado teve como aporte te
     - VS Community `***`
     - Sublime Text `****`
     - Vim `***`
-    - Android Studio `**`
+    - Android Studio `*`
 - **Desenvolvimento**
     - HTML `****`
     - CSS `***`

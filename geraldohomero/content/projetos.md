@@ -5,12 +5,10 @@ draft: false
 ---
 ## GitHub
 
-- [PUC-Minas - Projeto Bares e Restaurantes/Desenvolvimento Web](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t9-bares-restaurantes)
-
-    - Tecnologias: HTML, CSS, JavaScript, JSON, MarvelApp, Trello, VSCode
-    - [Link Github pages do projeto](https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-2-e1-proj-web-t9-bares-restaurantes/)
-
-![imagem-projeto-pucminas](https://user-images.githubusercontent.com/70844369/204166694-7f0994c9-4a70-4806-a6da-58f473975912.png)
+>- [PUC-Minas - Projeto Bares e Restaurantes/Desenvolvimento Web](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t9-bares-restaurantes)
+>- Tecnologias: HTML, CSS, JavaScript, JSON, MarvelApp, Trello e VSCode
+> - [Link Github pages do projeto](https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-2-e1-proj-web-t9-bares-restaurantes/)
+>![imagem-projeto-pucminas](https://user-images.githubusercontent.com/70844369/204166694-7f0994c9-4a70-4806-a6da-58f473975912.png)
 
 - [Best Free and Open Source (not all) Software Alternatives (for Security and Privacy)](https://github.com/geraldohomero/best-foss-alternatives)
 - [Notas Algoritmo C#](https://github.com/geraldohomero/notas-algoritmo-csharp)

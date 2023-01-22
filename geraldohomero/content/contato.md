@@ -5,7 +5,6 @@ draft: false
 ---
 ### E-mail:
 
-- geraldo.homero@ich.ufjf.br
 - geraldo.couto@sga.pucminas.br
 - geraldohomero@proton.me
 ***

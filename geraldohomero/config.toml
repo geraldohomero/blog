@@ -69,7 +69,7 @@ languageName = "Portuguese"
     title = "contato"
 
 [params]
-  defaultTheme = "dark"
+  defaultTheme = 'dark'
   gitRepo = "https://github.com/geraldohomero"
   fingerprint = ""
   dateFormat = "2006-01-02"

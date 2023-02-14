@@ -8,6 +8,7 @@ draft: false
 
 - [Formação Front-end](https://cursos.alura.com.br/degree/certificate/9f7ce0b0-5455-4b3c-bc15-999a9e2495a8)
 - [Iniciante em Programação](https://cursos.alura.com.br/degree/certificate/97dc5b78-76f0-4e68-b922-6dd166fcef43)
+- [C#: Explorando a linguagem](https://cursos.alura.com.br/certificate/ddcdd2df-fc5c-453a-abff-560c2b4131bd)
 - [CSS: Flexbox e Grid](https://cursos.alura.com.br/user/geraldohomero/course/css-dispondo-elementos-flexbox-grid/certificate)
 - [Organização de equipes ágeis](https://cursos.alura.com.br/certificate/a8dd8a54-06c2-4256-8993-8da653fe4bbc)
 - [Scrum parte 1](https://cursos.alura.com.br/certificate/697d28bd-c291-4aeb-afd5-01f655c7f435)

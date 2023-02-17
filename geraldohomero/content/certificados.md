@@ -16,13 +16,13 @@ draft: false
 
 ## Cisco
 
-- [Linux Unhatched](https://github.com/geraldohomero/blog/blob/a3c467daa3a0331b52d033a54cd7110620ec3f37/geraldohomero/resources/_gen/images/certificados/cisco_certificado_linux.pdf)
+- [Linux Unhatched](https://github.com/geraldohomero/blog/blob/main/geraldohomero/resources/_gen/images/certificados/cisco_certificado_linux.pdf)
 
 ## Diolinux
-- [Terminal Linux](https://github.com/geraldohomero/blog/blob/a3c467daa3a0331b52d033a54cd7110620ec3f37/geraldohomero/resources/_gen/images/certificados/diolinux_certificado_terminal.png)
+- [Terminal Linux](https://github.com/geraldohomero/blog/blob/main/geraldohomero/resources/_gen/images/certificados/diolinux_certificado_terminal.png)
 
 <!-- (https://watch.diolinux.com.br/api/public/certificates/2ed72c07-0ca2-4a81-b75e-c1525995c154/share) -->
 
-- [Shell script](https://github.com/geraldohomero/blog/blob/a3c467daa3a0331b52d033a54cd7110620ec3f37/geraldohomero/resources/_gen/images/certificados/diolinux_certificado_shellscript.png)
+- [Shell script](https://github.com/geraldohomero/blog/blob/main/geraldohomero/resources/_gen/images/certificados/diolinux_certificado_shellscript.png)
 
 <!-- (https://watch.diolinux.com.br/api/public/certificates/51881de4-7fb1-4615-a4cb-7790e4a9729d/share) -->

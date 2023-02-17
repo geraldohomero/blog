@@ -19,6 +19,11 @@ draft: false
 - [Linux Unhatched](https://drive.google.com/file/d/1BNoGh5qU-NvsOMN0JTY-naAupSKv41ys/view?usp=sharing)
 
 ## Diolinux
-- [Terminal Linux](https://watch.diolinux.com.br/api/public/certificates/2ed72c07-0ca2-4a81-b75e-c1525995c154/share)
 
-- [Shell script](https://watch.diolinux.com.br/api/public/certificates/51881de4-7fb1-4615-a4cb-7790e4a9729d/share)
+- [Terminal Linux](../resources/_gen/images/diolinux_certificado_terminal.png)
+
+<!-- (https://watch.diolinux.com.br/api/public/certificates/2ed72c07-0ca2-4a81-b75e-c1525995c154/share) -->
+
+- [Shell script](../resources/_gen/images/diolinux_certificado_shellscript.png)
+
+<!-- (https://watch.diolinux.com.br/api/public/certificates/51881de4-7fb1-4615-a4cb-7790e4a9729d/share) -->

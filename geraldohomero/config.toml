@@ -108,7 +108,7 @@ languageName = "Portuguese"
  # Footer config
   [params.footer]
     enable = true
-    custom = 'Powered by <a href="https://gohugo.io" target="_blank">Hugo</a> | <a href="https://hugoloveit.com/" target="_blank">LoveIt</a>'
+    custom = '&#x1F12F Powered by <a href="https://gohugo.io" target="_blank">Hugo</a> | <a href="https://hugoloveit.com/" target="_blank">LoveIt</a>'
     hugo = false
     copyright = false
     author = true

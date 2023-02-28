@@ -1,7 +1,7 @@
 baseURL = "http://example.org/"
 theme = "loveit"
 title = "Geraldo Homero"
-languageCode = "pt"
+languageCode = "pt-br"
 languageName = "Portuguese"
 
 [author]

@@ -5,11 +5,14 @@ draft: false
 ---
 ## GitHub
 
->- [PUC-Minas - Projeto Bares e Restaurantes/Desenvolvimento Web](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t9-bares-restaurantes)
+>- [PUC-Minas - Projeto Banco Universitário/Aplicação Interativa (Eixo 2/2023.1)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t04-g4-banco-universitario)
+>- Tecnologias: HTML, CSS, JavaScript, C#, .NET Core, UML, VSCode, Visual Studio Community
+***
+>- [PUC-Minas - Projeto Bares e Restaurantes/Desenvolvimento Web (Eixo 1/2022.2)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t9-bares-restaurantes)
 >- Tecnologias: HTML, CSS, JavaScript, JSON, MarvelApp, Trello e VSCode
-> - [Link Github pages do projeto](https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-2-e1-proj-web-t9-bares-restaurantes/)
+> - [Link Github-Pages do projeto](https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-2-e1-proj-web-t9-bares-restaurantes/)
 >![imagem-projeto-pucminas](https://user-images.githubusercontent.com/70844369/204166694-7f0994c9-4a70-4806-a6da-58f473975912.png)
-
+***
 - [Best Free and Open Source (not all) Software Alternatives (for Security and Privacy)](https://github.com/geraldohomero/best-foss-alternatives)
 - [Notas Algoritmo C#](https://github.com/geraldohomero/notas-algoritmo-csharp)
 - [Regex Tester - Expressões regulares](https://github.com/geraldohomero/regex)

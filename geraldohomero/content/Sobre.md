@@ -33,6 +33,7 @@ Sempre fui muito curioso sobre tecnologia e ao longo dos anos meu interesse se t
         - Flexbox `***`
         - Grid `***`
     - JavaScript `***`
+        - Node `*`
         - React `*`
         - Vue.js `*`
     - C# `***`
@@ -64,6 +65,7 @@ Sempre fui muito curioso sobre tecnologia e ao longo dos anos meu interesse se t
     - Figma `**`
 - **Dados**
     - Microsoft Power BI `**`
+    - GNU PSPP `**`
 - **Office**
     - Microsoft Office `****`
     - LibreOffice `****`

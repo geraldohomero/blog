@@ -29,13 +29,13 @@ Sempre fui muito curioso sobre tecnologia e ao longo dos anos meu interesse se t
 - **Desenvolvimento**
     - HTML `****`
     - CSS `***`
-        - Sass `**`
+        - Bootstrap `***`
         - Flexbox `***`
         - Grid `***`
+        - Sass `**`
     - JavaScript `***`
-        - Node `*`
-        - React `*`
-        - Vue.js `*`
+        - Node.js `*`
+        - React.js `*`
     - C# `***`
     - .NET `**`
         - ASP.NET `*`

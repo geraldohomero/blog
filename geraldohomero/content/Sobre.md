@@ -103,7 +103,7 @@ Sempre fui muito curioso sobre tecnologia e ao longo dos anos meu interesse se t
 
 Monitor da disciplina Desenvolvimento web Front-end e de Projeto de desenvolvimento de aplicação Front-end do curso de Análise e Desenvolvimento de Sistemas.
 
-**Habilidades**: JavaScript · Desenvolvimento web front-end · HTML · CSS
+**Habilidades**: JavaScript ·  HTML · CSS · Desenvolvimento Front-end · Engenharia de Software
 
 ### **Pesquisador (Mestrado/UFJF)** · 2019 - 2022
 

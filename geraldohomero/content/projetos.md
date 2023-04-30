@@ -5,16 +5,18 @@ draft: false
 ---
 ## GitHub
 
->- [PUC-Minas - Projeto Banco Universitário/Aplicação Interativa (Eixo 2/2023.1)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t04-g4-banco-universitario)
->- Tecnologias: HTML, CSS, JavaScript, C#, .NET Core, UML, VSCode, Visual Studio Community
-***
->- [PUC-Minas - Projeto Bares e Restaurantes/Desenvolvimento Web (Eixo 1/2022.2)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t9-bares-restaurantes)
->- Tecnologias: HTML, CSS, JavaScript, JSON, MarvelApp, Trello e VSCode
-> - [Link Github-Pages do projeto](https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-2-e1-proj-web-t9-bares-restaurantes/)
->![imagem-projeto-pucminas](https://user-images.githubusercontent.com/70844369/204166694-7f0994c9-4a70-4806-a6da-58f473975912.png)
-***
+### [PUC-Minas - Projeto Banco Universitário/Aplicação Interativa (Eixo 2/2023.1)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t04-g4-banco-universitario)
+**Tecnologias utilizadas**: HTML, CSS, Bootstrap, Tailwind, Sass, JavaScript, C#, ASP.NET Core (MVC), UML, VSCode, Visual Studio 2022, MySQL, MySQL Workbench, DBeaver, Figma,
+
+### [Consumo de Veículos](https://github.com/geraldohomero/app-web-backend-dotnet5-vs2019)
+**Tecnologias utilizadas**: ASP.NET Core (MVC), C#, Visual Studio 2022, HTML, CSS, Bootstrap, EntityFramework 5.0.17, BCrypt, Microsoft SQL Server (com Data Annotations)
+
+### [PUC-Minas - Projeto Bares e Restaurantes/Desenvolvimento Web (Eixo 1/2022.2)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t9-bares-restaurantes) | [Demo](https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-2-e1-proj-web-t9-bares-restaurantes/)
+**Tecnologias utilizadas**: HTML, CSS, JavaScript, JSON, MarvelApp, Trello e VSCode
+
+
 - [Best Free and Open Source (not all) Software Alternatives (for Security and Privacy)](https://github.com/geraldohomero/best-foss-alternatives)
-- [Notas Algoritmo C#](https://github.com/geraldohomero/notas-algoritmo-csharp)
+- [Algoritmo C#](https://github.com/geraldohomero/notas-algoritmo-csharp)
 - [Regex Tester - Expressões regulares](https://github.com/geraldohomero/regex)
 - [Shell script - Pop!_OS post-installation](https://github.com/geraldohomero/post-install-pop-os.sh)
 - [Shell script - Daily updates](https://github.com/geraldohomero/my-update.sh)

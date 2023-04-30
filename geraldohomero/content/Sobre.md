@@ -21,41 +21,41 @@ Sempre fui muito curioso sobre tecnologia e ao longo dos anos meu interesse se t
 | Aprendendo `*` | Básico `**` | Intermediário `***` | Avançado `****` |
 
 - **Editores de código**
-    - VS Code `****`
-    - VS Community `***`
-    - Sublime Text `****`
-    - Vim `***`
+    - Visual Studio Code `****`
+    - Visual Studio Community `***`
+    - Sublime Text `***`
     - Android Studio `*`
 - **Desenvolvimento**
-    - HTML `****`
+    - HTML `***`
     - CSS `***`
         - Bootstrap `***`
         - Flexbox `***`
         - Grid `***`
         - Sass `**`
+        - Tailwind `*`
     - JavaScript `***`
-        - Node.js `*`
         - React.js `*`
+        - Node.js `*`
     - C# `***`
     - .NET `**`
-        - ASP.NET `*`
-    - TypeScript `*`
+        - ASP.NET Core `**`
+    - MySQL `**`
+    - SQL Server `**`
+    - DBeaver `*`
     - Python `*`
     - Git `****`
         - Github `****`
         - Gitlab `**`
         - Bitbucket `*`
-    - SEO `***`
-    - Markdown `****`    
     - Hugo `***`
-    - Azure DevOps `**`
+    - SEO `***`   
+    - Azure `**`
 - **Linux**
     - Shell script `***`
     - Ubuntu Server `***`
     - WSL `***`
     - Red Hat Enterprise `**`
     - Docker `**`
-    - Distrobox `**`
     - TrueNAS `**`
 - **Design**
     - GIMP `****`
@@ -72,16 +72,12 @@ Sempre fui muito curioso sobre tecnologia e ao longo dos anos meu interesse se t
     - Google Docs `****`
 - **Outros**
     - Edição de vídeo
-        - DaVince Resolve `****`
-        - Kdenlive `****`
         - Adobe Premiere Pro `***`
+        - DaVince Resolve `***`
+        - Kdenlive `***`
     - Digital Audio Workstations (DAW)
-        - Reaper `****`
-        - Audacity `****`
-        - Pro Tools `***`
-        - LMMS `**`
-        - Ardour `**`
-
+        - Reaper `***`
+        - Pro Tools `**`
 
 # Formação
 
@@ -103,7 +99,7 @@ Sempre fui muito curioso sobre tecnologia e ao longo dos anos meu interesse se t
 
 Monitor da disciplina Desenvolvimento web Front-end e de Projeto de desenvolvimento de aplicação Front-end do curso de Análise e Desenvolvimento de Sistemas.
 
-**Habilidades**: JavaScript ·  HTML · CSS · Desenvolvimento Front-end · Engenharia de Software
+**Habilidades**: Desenvolvimento de software · Desenvolvimento de sistemas · JavaScript · HTML · CSS · Bootstrap · Desenvolvimento de front-end · Engenharia de sistemas de software · Trabalho em equipe · Resolução de problemas · Suporte
 
 ### **Pesquisador (Mestrado/UFJF)** · 2019 - 2022
 
@@ -117,7 +113,7 @@ Pesquisador no Programa de Pós-Graduação em História da UFJF, na linha de pe
 - Pesquisa sobre sociedade em rede, redes sociais, economia de dados, infraestrutura e linguagem
 - Análise de dados digitais e desenvolvimento metodológico para realização de projetos
 
-**Habilidade**: Pesquisa · Gestão de tempo · Resolução de problemas · Comunicação · Capacidade analítica · Capacidade de organização · Capacidade de adaptação · Pensamento crítico · História · História Digital · Git · Python · R · GitHub · Linux · Shell script · Bash · Docker · Análise de dados · Microsoft Power BI · Operações de TI · Microsoft Office · Diagramação · Revisão de texto · Tecnologia da informação
+**Habilidade**: Pesquisa · Gestão de tempo · Resolução de problemas · Comunicação · Capacidade analítica · Capacidade de organização · Capacidade de adaptação · Pensamento crítico · História · História Digital · Git · Python · R · GitHub · Linux · Shell script · Bash · Docker · Análise de dados · Microsoft Power BI · Microsoft Office · Diagramação · Revisão de texto
 
 ### **Pesquisador (Iniciação Científica/UFJF)** · 2018 - 2019
 
@@ -153,6 +149,6 @@ Bolsista de Treinamento Profissional no projeto "Processamento Técnico de Acerv
 - Indexação por vocabulário controlado
 - Diagramação de documentos digitais
 
-**Habilidades**: NAS · Banco de dados · digitalização · patrimônio histórico · 
+**Habilidades**: NAS · Banco de dados · digitalização/diagramação · patrimônio histórico · 
 
 

@@ -30,7 +30,7 @@ slug = "academic"
 
 - [Memory, History, and Cinema: Miguel Littín, Clandestine Filmmaker in Chile in 1985](https://www.academia.edu/33837941/Mem%C3%B3ria_Hist%C3%B3ria_e_Cinema_Miguel_Litt%C3%ADn_cineasta_clandestino_no_Chile_de_1985)
 
-## Organization of events
+## Event management
 
 - XXXIV History Week of UFJF - Gender, race, sexuality, and class: intersectional potentialities from the historical perspective - (2018)
 >[Formatting and standardization of event conference proceedings](https://www.ufjf.br/semanadehistoria/files/2010/02/Anais-2018.pdf)

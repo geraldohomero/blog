@@ -1,9 +1,9 @@
-baseURL = "http://example.org/"
+baseURL = "http://geraldohomero.github.io"
 theme = "loveit"
 title = "Geraldo Homero"
 defaultContentLanguage = "pt-br"
-languageCode = "pt-BR"
-languageName = "pt-BR"
+languageCode = "pt-br"
+languageName = "Português"
 
 [author]
   name = "Geraldo Homero"
@@ -23,8 +23,8 @@ languageName = "pt-BR"
 [languages.en]
     weight = 1
     title = "Geraldo Homero"
-    languageCode = "en-US"
-    languageName = "en-US"
+    languageCode = "en"
+    languageName = "English"
     hasCJKLanguage = false
  [[languages.en.menu.main]]
     weight = 1
@@ -71,15 +71,15 @@ languageName = "pt-BR"
     identifier = "contact"
     pre = ""
     post = ""
-    name = "Contact"
+    name = "Contact me"
     url = "/contact/"
     title = ""
 
 [languages.pt-br]
     weight = 2
     title = "Geraldo Homero"
-    languageCode = "pt-BR"
-    languageName = "pt-BR"
+    languageCode = "pt-br"
+    languageName = "Português"
     hasCJKLanguage = false
     [[languages.pt-br.menu.main]]
       weight = 1

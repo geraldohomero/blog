@@ -1,8 +1,7 @@
----
-title: "Produções"
-date: 2022-06-30T11:58:11-03:00
-draft: "false"
----
++++
+title = "Produções Acadêmicas"
+slug = "academic"
++++
 
 ## Dissertação (Mestrado/UFJF)
 

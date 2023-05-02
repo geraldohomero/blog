@@ -1,8 +1,9 @@
 baseURL = "http://example.org/"
 theme = "loveit"
 title = "Geraldo Homero"
-languageCode = "pt-br"
-languageName = "Portuguese"
+defaultContentLanguage = "pt-br"
+languageCode = "pt-BR"
+languageName = "pt-BR"
 
 [author]
   name = "Geraldo Homero"
@@ -19,7 +20,14 @@ languageName = "Portuguese"
     Mastodon = "@geraldohomero"
 
 [menu]
- [[menu.main]]
+[languages.en]
+    weight = 1
+
+    title = "Geraldo Homero"
+    languageCode = "en-US"
+    languageName = "en-US"
+    hasCJKLanguage = false
+ [[languages.en.menu.main]]
     weight = 1
     identifier = "home"
     pre = ""
@@ -27,46 +35,93 @@ languageName = "Portuguese"
     name = "Home"
     url = ""
     title = "Home"
-  [[menu.main]]
+  [[languages.en.menu.main]]
     weight = 2
-    identifier = "sobre"
+    identifier = "About"
     pre = ""
     post = ""
-    name = "Sobre"
-    url = "/sobre/"
-    title = "Sobre"
-  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    title = ""
+  [[languages.en.menu.main]]
     weight = 4
-    identifier = "producoes"
+    identifier = "academic"
     pre = ""
     post = ""
-    name = "Produções"
-    url = "/producoes/"
-    title = "producoes"
-  [[menu.main]]
+    name = "Academic"
+    url = "/academic/"
+    title = ""
+  [[languages.en.menu.main]]
     weight = 3
-    identifier = "projetos"
+    identifier = "projects"
     pre = ""
     post = ""
-    name = "Projetos"
-    url = "/projetos/"
-    title = "projetos"
-# [[menu.main]]
+    name = "Projects"
+    url = "/projects/"
+    title = ""
+# [[languages.en.menu.main]]
 #     weight = 5
 #     identifier = "outros"
 #     pre = ""
 #     post = ""
 #     name = "Outros"
 #     url = "/outros/"
-#     title = "Outros"
-[[menu.main]]
+#     title = ""
+[[languages.en.menu.main]]
     weight = 6
-    identifier = "contato"
+    identifier = "contact"
     pre = ""
     post = ""
-    name = "Contato"
-    url = "/contato/"
-    title = "contato"
+    name = "Contact"
+    url = "/contact/"
+    title = ""
+
+[languages.pt-br]
+    weight = 2
+    title = "Geraldo Homero"
+    languageCode = "pt-BR"
+    languageName = "pt-BR"
+    hasCJKLanguage = false
+    [[languages.pt-br.menu.main]]
+      weight = 1
+      identifier = "home"
+      pre = ""
+      post = ""
+      name = "Home"
+      url = ""
+      title = ""
+    [[languages.pt-br.menu.main]]
+      weight = 2
+      identifier = "about"
+      pre = ""
+      post = ""
+      name = "Sobre"
+      url = "/about/"
+      title = ""
+    [[languages.pt-br.menu.main]]
+      weight = 3
+      identifier = "projects"
+      pre = ""
+      post = ""
+      name = "Projetos"
+      url = "/projects/"
+      title = ""
+    [[languages.pt-br.menu.main]]
+      weight = 4
+      identifier = "academic"
+      pre = ""
+      post = ""
+      name = "Produções"
+      url = "/academic/"
+      title = ""
+    [[languages.pt-br.menu.main]]
+      weight = 5
+      identifier = "contact"
+      pre = ""
+      post = ""
+      name = "Contato"
+      url = "/contact/"
+      title = ""
 
 [params]
   defaultTheme = 'dark'
@@ -87,7 +142,7 @@ languageName = "Portuguese"
       subtitle = 'HTML | CSS | JavaScript | React | .NET | C#'
       typeit = false
       social = true
-      disclaimer = '<br><font size="2"><b> Análise e Desenv. de Sistemas (PUC-Minas) <br> Mestrado em História (UFJF) </font>'
+      #disclaimer = '<br><font size="2"><b> Análise e Desenv. de Sistemas (PUC-Minas) <br> Mestrado em História (UFJF) </font>'
     # Home page posts
     [params.home.posts]
       enable = false

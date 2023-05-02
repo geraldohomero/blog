@@ -22,7 +22,6 @@ languageName = "pt-BR"
 [menu]
 [languages.en]
     weight = 1
-
     title = "Geraldo Homero"
     languageCode = "en-US"
     languageName = "en-US"

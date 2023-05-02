@@ -87,7 +87,7 @@ languageName = "Portuguese"
       subtitle = 'HTML | CSS | JavaScript | React | .NET | C#'
       typeit = false
       social = true
-      disclaimer = '<br><font size="2"><b> Análise e Desenv. de Sistemas (PUC-Minas)</font>'
+      disclaimer = '<br><font size="2"><b> Análise e Desenv. de Sistemas (PUC-Minas) <br> Mestrado em História (UFJF) </font>'
     # Home page posts
     [params.home.posts]
       enable = false

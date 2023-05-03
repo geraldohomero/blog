@@ -86,7 +86,7 @@ I have always been very curious about technology and over the years my interest 
 - ### Associate degree: Analysis and Systems Development
     - 2022 - 2024
 
-### **Universidade Federal de Juiz de Fora**
+### **Federal University of Juiz de Fora**
 - ### Master's degree (History)
     - 2019 - 2022
 - ### Undergraduate degree (Teaching History)
@@ -117,7 +117,7 @@ Researcher in the Graduate Program in History at UFJF, in the research line "Pow
 
 **Skills**: Research · Time management · Problem solving · Communication · Analytical skills · Organizational skills · Adaptability · Critical thinking · History · Digital History · Git · Python · R · GitHub · Linux · Shell scripting · Bash · Docker · Data analysis · Microsoft Power BI · Microsoft Office · Typesetting · Text editing
 
-### **Undergraduate researcher fellow (UFJF)** · 2018 - 2019
+### **Undergraduate research fellow (UFJF)** · 2018 - 2019
 
 Undergraduate research fellow in the research project "Passados Presentes: comunidades remanescentes de quilombo e memória da escravidão na Zona da Mata Mineira" at the Oral History and Image Laboratory (LABHOI-UFJF) and the AFRIKAS group.
 

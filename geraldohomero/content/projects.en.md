@@ -24,7 +24,7 @@ slug = "projects"
 
 #### Websites:
 
- - [Janaína Di Lourenço](https://janalourenci.github.io) | Feito com [Hugo](https://gohugo.io) e [Hallo](https://github.com/EmielH/hallo-hugo/) | [Github Repo](https://github.com/janalourenci/janalourenci.github.io)
+ - [Janaína Di Lourenço](https://janalourenci.github.io) | Made with [Hugo](https://gohugo.io) and [Hallo](https://github.com/EmielH/hallo-hugo/) | [Github Repo](https://github.com/janalourenci/janalourenci.github.io)
 
 ## Design
 

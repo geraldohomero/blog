@@ -4,13 +4,16 @@ slug = "projects"
 +++
 ## GitHub
 
-### [PUC-Minas - University Discount Project/Interactive Application(2/2023.1)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t04-g4-banco-universitario)
+### [PUC-Minas - University Discount Project/Interactive Application (2023.1)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t04-g4-banco-universitario)
 **Technologies**: HTML, CSS, Bootstrap, Tailwind, Sass, JavaScript, C#, ASP.NET Core (MVC), UML, VSCode, Visual Studio 2022, MySQL, MySQL Workbench, DBeaver, Figma,
 
 ### [Fuel Consumption](https://github.com/geraldohomero/app-web-backend-dotnet5-vs2019)
 **Technologies**: ASP.NET Core (MVC), C#, Visual Studio 2022, HTML, CSS, Bootstrap, EntityFramework 5.0.17, BCrypt, Microsoft SQL Server (com Data Annotations)
 
-### [PUC-Minas - Bars and Restaurants Project/Web Development(1/2022.2)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t9-bares-restaurantes) | [Demo](https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-2-e1-proj-web-t9-bares-restaurantes/)
+### [PUC-Minas - Bars and Restaurants Project/Web Development (2022.2)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t9-bares-restaurantes)
+
+- [Demo](https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-2-e1-proj-web-t9-bares-restaurantes/)
+
 **Technologies**: HTML, CSS, JavaScript, JSON, MarvelApp, Trello e VSCode
 
 

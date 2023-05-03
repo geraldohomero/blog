@@ -82,11 +82,11 @@ I have always been very curious about technology and over the years my interest 
 
 # Education
 
-### **PUC-Minas**
+### **Pontifical Catholic University of Minas Gerais (PUC-Minas)**
 - ### Associate degree: Analysis and Systems Development
     - 2022 - 2024
 
-### **Federal University of Juiz de Fora**
+### **Federal University of Juiz de Fora (UFJF)**
 - ### Master's degree (History)
     - 2019 - 2022
 - ### Undergraduate degree (Teaching History)
@@ -104,7 +104,7 @@ Scholarship TA holder for the Front-end Web Development and Front-end Applicatio
 
 ### **Research Fellow (Master/UFJF)** · 2019 - 2022
 
-Researcher in the Graduate Program in History at UFJF, in the research line "Power, market and labor", with funding from CAPES.
+Researcher in the [History Graduate Program](https://www2.ufjf.br/ppghistoria/) at UFJF, in the research line "Power, market and labor", with funding from CAPES.
 
 - Execution of research project on Digital History
 - Discourse analysis using Python and R programming languages with the IRaMuTeQ tool
@@ -119,7 +119,7 @@ Researcher in the Graduate Program in History at UFJF, in the research line "Pow
 
 ### **Undergraduate research fellow (UFJF)** · 2018 - 2019
 
-Undergraduate research fellow in the research project "Passados Presentes: comunidades remanescentes de quilombo e memória da escravidão na Zona da Mata Mineira" at the Oral History and Image Laboratory (LABHOI-UFJF) and the AFRIKAS group.
+Undergraduate research fellow in the [research project](https://www.ufjf.br/labhoi/juiz-de-fora-cidade-negra-centro-de-referencia-sobre-a-memoria-negra-em-juiz-de-fora/indice-acervo-juiz-de-fora-cidade-negra/) "Past Presents: remnant quilombo communities and memory of slavery in the Zona da Mata region of Minas Gerais" at the [Oral History and Image Laboratory (LABHOI-UFJF)](https://www.ufjf.br/labhoi/) and the AFRIKAS group.
 
 - Conducting interviews
 - Video editing
@@ -133,7 +133,7 @@ Undergraduate research fellow in the research project "Passados Presentes: comun
 
 ### **Archivist (Extension/UFJF)** · 2017-2018
 
-Extension Scholarship Holder in the project "History of UFJF", at the Cultural Heritage Laboratory (LAPA), working at the Memory Conservation Center (CECOM).
+Extension Scholarship Holder in the project "History of UFJF" at the [Cultural Heritage Laboratory (LAPA)](https://www.ufjf.br/lapa/), working at the [Memory Conservation Center (CECOM)](https://www2.ufjf.br/cecom/).
 
 Organization, restoration, acclimatization, and preservation of historical document archive.
 
@@ -141,7 +141,7 @@ Organization, restoration, acclimatization, and preservation of historical docum
 
 ### **Archivist (Professional Trainning/UFJF)** · 2016-2017
 
-Professional Training Scholarship holder in the project "Technical Processing of Collection" at the Central Archive (Historical) of UFJF.
+Professional Training Scholarship holder in the project "Technical Processing of Collection" at the [Central Archive (Historical)](https://www2.ufjf.br/arquivocentral/) of UFJF.
 
 - Technical archival processing
 - Organization of documentary collection

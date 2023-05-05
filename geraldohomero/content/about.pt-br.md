@@ -102,7 +102,7 @@ Monitor da disciplina Desenvolvimento web Front-end e de Projeto de desenvolvime
 
 ### **Pesquisador (Mestrado/UFJF)** · 2019 - 2022
 
-Pesquisador no Programa de Pós-Graduação em História da UFJF, na linha de pesquisa "Poder, mercado e trabalho", com financiamento CAPES.
+Pesquisador no [Programa de Pós-graduação em História da UFJF](https://www2.ufjf.br/ppghistoria/), na linha de pesquisa "História, Cultura e Poder", com financiamento [CAPES](https://www.gov.br/capes/).
 
 - Execução de projeto de pesquisa sobre História Digital
 - Análise discursiva a partir de Python e R (linguagem de programação) com a ferramente IRaMuTeQ
@@ -116,7 +116,7 @@ Pesquisador no Programa de Pós-Graduação em História da UFJF, na linha de pe
 
 ### **Pesquisador (Iniciação Científica/UFJF)** · 2018 - 2019
 
-Bolsista de iniciação científica no projeto de pesquisa "Passados Presentes: comunidades remanescentes de quilombo e memória da escravidão na Zona da Mata Mineira", do Laboratório de História Oral e Imagem (LABHOI-UFJF) e do grupo AFRIKAS.
+Bolsista de iniciação científica no [projeto de pesquisa](https://www.ufjf.br/labhoi/juiz-de-fora-cidade-negra-centro-de-referencia-sobre-a-memoria-negra-em-juiz-de-fora/indice-acervo-juiz-de-fora-cidade-negra/) "Passados Presentes: comunidades remanescentes de quilombo e memória da escravidão na Zona da Mata Mineira", do [Laboratório de História Oral e Imagem (LABHOI-UFJF)](https://www.ufjf.br/labhoi/) e do grupo AFRIKAS.
 
 - Realização de entrevistas
 - Edição de vídeo
@@ -130,7 +130,7 @@ Bolsista de iniciação científica no projeto de pesquisa "Passados Presentes: 
 
 ### **Arquivista (Extensão/UFJF)** · 2017-2018
 
-Bolsista de Extensão no projeto "História da UFJF", do Laboratório de Patrimônios Culturais (LAPA), atuando no Centro de Conservação da Memória (CECOM).
+Bolsista de Extensão no projeto "História da UFJF", do [Laboratório de Patrimônios Culturais (LAPA)](https://www.ufjf.br/lapa/), atuando no [Centro de Conservação da Memória (CECOM)](https://www2.ufjf.br/cecom/).
 
 - Organização, restauração, aclimatação e preservação de arquivo documental histórico.
 
@@ -138,7 +138,7 @@ Bolsista de Extensão no projeto "História da UFJF", do Laboratório de Patrim�
 
 ### **Arquivista (Treinamento Profissional/UFJF)** · 2016-2017
 
-Bolsista de Treinamento Profissional no projeto "Processamento Técnico de Acervo" no Arquivo Central (Histórico) da UFJF.
+Bolsista de Treinamento Profissional no projeto "Processamento Técnico de Acervo" no [Arquivo Central](https://www2.ufjf.br/arquivocentral/) (Histórico) da UFJF.
 
 - Processamento técnico arquivístico
 - Organização de acervo documental 

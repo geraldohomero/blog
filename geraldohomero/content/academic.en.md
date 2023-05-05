@@ -28,7 +28,7 @@ slug = "academic"
 
 - [So Happy (We Never Were): The Memory of the Armed Struggle in the Brazilian Military Dictatorship from the film "We Were Never So Happy" (1984, Murilo Salles)](https://www.academia.edu/40287763/T%C3%A3o_felizes_nunca_fomos_a_mem%C3%B3ria_da_luta_armada_na_ditadura_militar_brasileira_a_partir_do_filme_Nunca_Fomos_T%C3%A3o_Felizes_1984_Murilo_Salles_)
 
-- [Memory, History, and Cinema: Miguel Littín, Clandestine Filmmaker in Chile in 1985](https://www.academia.edu/33837941/Mem%C3%B3ria_Hist%C3%B3ria_e_Cinema_Miguel_Litt%C3%ADn_cineasta_clandestino_no_Chile_de_1985)
+- [Memory, History, and Cinema: Miguel Littín - The Clandestine Filmmaker in 1985 Chile](https://www.academia.edu/33837941/Mem%C3%B3ria_Hist%C3%B3ria_e_Cinema_Miguel_Litt%C3%ADn_cineasta_clandestino_no_Chile_de_1985)
 
 ## Event management
 

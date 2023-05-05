@@ -104,7 +104,7 @@ Scholarship TA holder for the Front-end Web Development and Front-end Applicatio
 
 ### **Research Fellow (Master/UFJF)** · 2019 - 2022
 
-Researcher in the [History Graduate Program](https://www2.ufjf.br/ppghistoria/) at UFJF, in the research line "Power, market and labor", with funding from CAPES.
+Researcher in the [History Graduate Program](https://www2.ufjf.br/ppghistoria/) at UFJF, in the research line "History, Culture and Power", with funding from [CAPES](https://www.gov.br/capes/).
 
 - Execution of research project on Digital History
 - Discourse analysis using Python and R programming languages with the IRaMuTeQ tool

@@ -96,7 +96,19 @@ I have always been very curious about technology and over the years my interest 
 ***
 # Experience
 
-### **Peer tutor (PUC-Minas)** · 2023 - today
+
+### **Data Analyst (Tristão - Electrical Panels)** 2023 - present
+
+Business intelligence intern.
+
+- Analyzing strategically important data for the sector
+- Assisting in lead generation for the sales team
+- Utilizing Google Data Studio to create interactive dashboards
+- Using Python to develop web scrapers and analysis optimization tools
+
+**Skills**: Python · Data Analysis · Scrum · Agile Methodologies · Problem-solving · Analytical skills · Organizational skills
+
+### **Peer tutor (PUC-Minas)** · 2023 - present
 
 Scholarship TA holder for the Front-end Web Development and Front-end Application Development Project disciplines of the Systems Analysis and Development course at PUC Minas
 
@@ -151,7 +163,7 @@ Professional Training Scholarship holder in the project "Technical Processing of
 - Controlled vocabulary indexing
 - Digital document formatting
 
-**Skills**: NAS · Database management · scanning/formatting · historical heritage ·
+**Skills**: NAS · Database management · scanning/formatting · historical heritage
 
 
 

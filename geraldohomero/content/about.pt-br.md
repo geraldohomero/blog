@@ -94,6 +94,17 @@ Sempre fui muito curioso sobre tecnologia e ao longo dos anos meu interesse se t
 ***
 # Experiência
 
+### **Analista de Dados (Tristão - Painéis Elétricos)** 2023 - atualmente
+
+Estagiário na área de inteligência de mercado. 
+
+- Análise de dados de importância estratégica para o setor
+- Ajudando na criação de leads para a equipe de vendas
+- Utilização de Google Data Studio para a criação de Dashboards interativos
+- Python na criação de web scrapers e otimizadores de análise
+
+**Habilidade**: Python · Análise de dados · Scrum · Metodologias Agile · Resolução de problemas · Capacidade analítica · Capacidade de organização
+
 ### **Monitoria (PUC-Minas)** · 2023 - atualmente
 
 Monitor da disciplina Desenvolvimento web Front-end e de Projeto de desenvolvimento de aplicação Front-end do curso de Análise e Desenvolvimento de Sistemas.
@@ -148,7 +159,7 @@ Bolsista de Treinamento Profissional no projeto "Processamento Técnico de Acerv
 - Indexação por vocabulário controlado
 - Diagramação de documentos digitais
 
-**Habilidades**: NAS · Banco de dados · digitalização/diagramação · patrimônio histórico · 
+**Habilidades**: NAS · Banco de dados · digitalização/diagramação · patrimônio histórico
 
 
 

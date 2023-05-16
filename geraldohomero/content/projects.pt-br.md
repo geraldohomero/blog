@@ -17,7 +17,6 @@ slug = "projects"
 
 
 - [Best Free and Open Source (not all) Software Alternatives (for Security and Privacy)](https://github.com/geraldohomero/best-foss-alternatives)
-- [Algoritmo C#](https://github.com/geraldohomero/notas-algoritmo-csharp)
 - [Regex Tester - Expressões regulares](https://github.com/geraldohomero/regex)
 - [Shell script - Pop!_OS post-installation](https://github.com/geraldohomero/post-install-pop-os.sh)
 - [Shell script - Daily updates](https://github.com/geraldohomero/my-update.sh)

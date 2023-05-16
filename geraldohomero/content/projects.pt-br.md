@@ -5,7 +5,7 @@ slug = "projects"
 ## GitHub
 
 ### [PUC-Minas - Projeto Banco Universitário/Aplicação Interativa (Eixo 2/2023.1)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t04-g4-banco-universitario)
-**Tecnologias utilizadas**: HTML, CSS, Bootstrap, Tailwind, Sass, JavaScript, C#, ASP.NET Core (MVC), UML, VSCode, Visual Studio 2022, MySQL, MySQL Workbench, DBeaver, Figma,
+**Tecnologias utilizadas**: HTML, CSS, Bootstrap, Tailwind, Sass, JavaScript, C#, ASP.NET Core (MVC), UML, VSCode, Visual Studio 2022, MySQL, MySQL Workbench, DBeaver, Figma
 
 ### [Consumo de Veículos](https://github.com/geraldohomero/app-web-backend-dotnet5-vs2019)
 **Tecnologias utilizadas**: ASP.NET Core (MVC), C#, Visual Studio 2022, HTML, CSS, Bootstrap, EntityFramework 5.0.17, BCrypt, Microsoft SQL Server (com Data Annotations)

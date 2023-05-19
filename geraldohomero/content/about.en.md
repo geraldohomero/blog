@@ -99,7 +99,7 @@ I have always been very curious about technology and over the years my interest 
 
 ### **Data Analyst (Tristão - Electrical Panels)** 2023 - present
 
-Business intelligence intern.
+Business intelligence intern at [Tristão - Electrical Panels](https://tristao.ind.br)
 
 - Analyzing strategically important data for the sector
 - Assisting in lead generation for the sales team

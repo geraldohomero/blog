@@ -96,7 +96,7 @@ Sempre fui muito curioso sobre tecnologia e ao longo dos anos meu interesse se t
 
 ### **Analista de Dados (Tristão - Painéis Elétricos)** 2023 - atualmente
 
-Estagiário na área de inteligência de mercado. 
+Estagiário na área de inteligência de mercado na [Tristão - Painéis Elétricos](https://tristao.ind.br)
 
 - Análise de dados de importância estratégica para o setor
 - Ajudando na criação de leads para a equipe de vendas

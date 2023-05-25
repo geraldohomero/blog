@@ -10,7 +10,7 @@ I have always been very curious about technology and over the years my interest 
 
 - [CV](http://lattes.cnpq.br/9924558848538635)
 - [ORCID](https://orcid.org/0000-0001-6686-7182)
-- [LinkedIn](https://linkedin.com/in/geraldohomero)
+- [LinkedIn](https://linkedin.com/in/geraldohomero/?locale=en_US)
 - [ResearchGate](https://www.researchgate.net/profile/Geraldo-Couto-Neto)
 - [Google Scholar](https://scholar.google.com/citations?hl=pt-BR&user=QcUrmPYAAAAJ)
 

@@ -141,12 +141,13 @@ languageName = "Português"
       subtitle = 'HTML | CSS | JavaScript | React | .NET | C#'
       typeit = false
       social = true
-      #disclaimer = '<br><font size="2"><b> Análise e Desenv. de Sistemas (PUC-Minas) <br> Mestrado em História (UFJF) </font>'
+      #disclaimer = '<br><font size="2"><br> Análise e Desenv. de Sistemas (PUC-Minas) <br> Mestrado em História (UFJF) </font>'
     # Home page posts
     [params.home.posts]
       enable = false
       paginate = 6
       defaultHiddenFromHomePage = false
+
 
   # Header config
   [params.header]
@@ -154,15 +155,15 @@ languageName = "Português"
     mobileMode = "auto"
     [params.header.title]
       logo = ""
-      name = "Geraldo"
+      name = "geraldo@pop-os:~$  "
       pre = ""
-      post = " >_"
-      typeit = false
+      post = ""
+      typeit = true
 
  # Footer config
   [params.footer]
     enable = true
-    custom = '&#x1F12F Powered by <a href="https://gohugo.io" target="_blank">Hugo</a> | <a href="https://hugoloveit.com/" target="_blank">LoveIt</a>'
+    custom = '2023 &#x1F12F Powered by <a href="https://gohugo.io" target="_blank">Hugo</a> | <a href="https://hugoloveit.com/" target="_blank">LoveIt</a>'
     hugo = false
     copyright = false
     author = true

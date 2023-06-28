@@ -1,0 +1,11 @@
+{
+    "name": "Geraldo Homero",
+    "image" : "img/geraldohomero.jpg",
+    "bio": "Dev",
+    "social": [
+        { "linkedin": "https://linkedin.com/in/geraldohomero" },
+        { "twitter": "https://twitter.com/geraldohomero" },
+        { "instagram": "https://instagram.com/geraldohomero" },
+        { "github": "https://github.com/geraldohomero" }        
+    ]
+}

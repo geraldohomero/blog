@@ -16,7 +16,7 @@ title = "Geraldo Homero >_"
 [author]
   name = "Geraldo Homero"
   image = "img/geraldohomero.jpg"
-  headline = "Dev | JavaScript | React.js | .NET | C# | Tailwind CSS"
+  headline = "JavaScript | React.js | .NET | C# | Tailwind"
   bio = "Hi"
   links = [
     { linkedin = "https://linkedin.com/in/geraldohomero" },

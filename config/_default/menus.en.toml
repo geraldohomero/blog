@@ -34,10 +34,10 @@
   pageRef = "contact"
   weight = 40
 
-#[[main]]
-#  name = "Users"
-#  pageRef = "users"
-#  weight = 90
+[[main]]
+  name = "Posts"
+  pageRef = "posts"
+  weight = 90
 
 #[[main]]
 #  name = "Merch"

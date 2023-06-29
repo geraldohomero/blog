@@ -18,9 +18,9 @@ Sempre fui muito curioso sobre tecnologia e ao longo dos anos meu interesse se t
 - [ResearchGate](https://www.researchgate.net/profile/Geraldo-Couto-Neto)
 - [Google Scholar](https://scholar.google.com/citations?hl=pt-BR&user=QcUrmPYAAAAJ)
 
-## Skills 
+## Habilidades 
 
-> [Certificates](../certificates/)
+> [Certificados](../certificates/)
 
 | Aprendendo `*` | Básico `**` | Intermediário `***` | Avançado `****` |
 
@@ -36,8 +36,6 @@ Sempre fui muito curioso sobre tecnologia e ao longo dos anos meu interesse se t
   - HTML `***`
   - CSS `***`
       - Bootstrap `***`
-      - Flexbox `***`
-      - Grid `***`
       - Sass `**`
       - Tailwind `*`
   - JavaScript `***`
@@ -48,7 +46,6 @@ Sempre fui muito curioso sobre tecnologia e ao longo dos anos meu interesse se t
       - ASP.NET Core `**`
   - MySQL `**`
   - SQL Server `**`
-  - DBeaver `*`
   - Python `*`
   - Git `****`
       - Github `****`
@@ -61,6 +58,7 @@ Sempre fui muito curioso sobre tecnologia e ao longo dos anos meu interesse se t
   - Shell script `***`
   - Ubuntu Server `***`
   - WSL `***`
+  - NixOS `**`
   - Red Hat Enterprise `**`
   - Docker `**`
   - TrueNAS `**`
@@ -89,15 +87,14 @@ Sempre fui muito curioso sobre tecnologia e ao longo dos anos meu interesse se t
 ## Educação
 
 ### **PUC-Minas:**
->Análise e Desenvolvimento de Sistemas| 2022 - 2024
+>Análise e Desenvolvimento de Sistemas | 2022 - 2024
 ### **Universidade Federal de Juiz de Fora:**
->Mestrado em História| 2019 - 2022
+>Mestrado em História | 2019 - 2022
 
->Licenciatura em História| 2019 - 2021
+>Licenciatura em História | 2019 - 2021
 
 >Bacharelado em História | 2014 - 2018
 
-***
 ## Experiência
 
 ### **Analista de Dados (Tristão - Painéis Elétricos)** 2023 - atualmente
@@ -106,10 +103,11 @@ Estagiário na área de inteligência de mercado na [Tristão - Painéis Elétri
 
 - Análise de dados de importância estratégica para o setor
 - Ajudando na criação de leads para a equipe de vendas
-- Utilização de Google Data Studio para a criação de Dashboards interativos
+- Utilização de Google Data Studio (Looker Studio) e MS Power BI para a criação de Dashboards interativos
+- Banco de dados MS Access
 - Python na criação de web scrapers e otimizadores de análise
 
-**Habilidade**: Python · Análise de dados · Scrum · Metodologias Agile · Resolução de problemas · Capacidade analítica · Capacidade de organização
+**Habilidade**: Power BI · Python · Análise de dados · Scrum · Metodologias Agile · Resolução de problemas · Capacidade analítica · Capacidade de organização
 
 ### **Monitoria (PUC-Minas)** · 2023 - atualmente
 
@@ -144,29 +142,3 @@ Bolsista de iniciação científica no [projeto de pesquisa](https://www.ufjf.br
 - Decupagem e estruturação de dados
 
 **Habilidade**: WordPress · CSS · HTML · GitHub · Análise de dados · Operações de TI · Microsoft Office · Tecnologia da informação
-
-### **Arquivista (Extensão/UFJF)** · 2017-2018
-
-Bolsista de Extensão no projeto "História da UFJF", do [Laboratório de Patrimônios Culturais (LAPA)](https://www.ufjf.br/lapa/), atuando no [Centro de Conservação da Memória (CECOM)](https://www2.ufjf.br/cecom/).
-
-- Organização, restauração, aclimatação e preservação de arquivo documental histórico.
-
-**Habilidades**: História · Patrimônio Histórico · Pesquisa
-
-### **Arquivista (Treinamento Profissional/UFJF)** · 2016-2017
-
-Bolsista de Treinamento Profissional no projeto "Processamento Técnico de Acervo" no [Arquivo Central](https://www2.ufjf.br/arquivocentral/) (Histórico) da UFJF.
-
-- Processamento técnico arquivístico
-- Organização de acervo documental 
-- Digitalização de arquivos
-- Disponibilização de documentação jurídica
-- Gestão de banco de dados: backup NAS (TrueNAS)
-- Indexação por vocabulário controlado
-- Diagramação de documentos digitais
-
-**Habilidades**: NAS · Banco de dados · digitalização/diagramação · patrimônio histórico
-
-
-
-

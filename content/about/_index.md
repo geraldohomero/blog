@@ -39,8 +39,6 @@ I have always been very curious about technology and over the years my interest 
   - HTML `***`
   - CSS `***`
       - Bootstrap `***`
-      - Flexbox `***`
-      - Grid `***`
       - Sass `**`
       - Tailwind `*`
   - JavaScript `***`
@@ -51,7 +49,6 @@ I have always been very curious about technology and over the years my interest 
       - ASP.NET Core `**`
   - MySQL `**`
   - SQL Server `**`
-  - DBeaver `*`
   - Python `*`
   - Git `****`
       - Github `****`
@@ -64,6 +61,7 @@ I have always been very curious about technology and over the years my interest 
   - Shell script `***`
   - Ubuntu Server `***`
   - WSL `***`
+  - NixOS `**`
   - Red Hat Enterprise `**`
   - Docker `**`
   - TrueNAS `**`
@@ -100,7 +98,7 @@ I have always been very curious about technology and over the years my interest 
 
 >Bachelor's degree (History) | 2014 - 2018
 
-***
+
 ## Experience
 
 
@@ -108,12 +106,13 @@ I have always been very curious about technology and over the years my interest 
 
 Business intelligence intern at [Tristão - Electrical Panels](https://tristao.ind.br)
 
-- Analyzing strategically important data for the sector
-- Assisting in lead generation for the sales team
-- Utilizing Google Data Studio to create interactive dashboards
-- Using Python to develop web scrapers and analysis optimization tools
+- Strategic data analysis for the sector
+- Helping create leads for the sales team
+- Use of Google Data Studio (Looker Studio) and MS Power BI for creating interactive dashboards
+- MS Access Database
+- Python in creating web scrapers and analysis optimizers
 
-**Skills**: Python · Data Analysis · Scrum · Agile Methodologies · Problem-solving · Analytical skills · Organizational skills
+**Skills**: Power BI · Python · Data Analysis · Scrum · Agile Methodologies · Problem Solving · Analytical Capacity · Organizational Capacity 1.
 
 ### **Peer tutor (PUC-Minas)** · 2023 - present
 
@@ -149,27 +148,3 @@ Undergraduate research fellow in the [research project](https://www.ufjf.br/labh
 - Data transcription and structuring
 
 **Skills**: WordPress · CSS · HTML · GitHub · Data analysis · IT operations · Microsoft Office · Information technology
-
-### **Archivist (Extension/UFJF)** · 2017-2018
-
-Extension Scholarship Holder in the project "History of UFJF" at the [Cultural Heritage Laboratory (LAPA)](https://www.ufjf.br/lapa/), working at the [Memory Conservation Center (CECOM)](https://www2.ufjf.br/cecom/).
-
-Organization, restoration, acclimatization, and preservation of historical document archive.
-
-**Skills**: History · Historical Heritage · Research
-
-### **Archivist (Professional Trainning/UFJF)** · 2016-2017
-
-Professional Training Scholarship holder in the project "Technical Processing of Collection" at the [Central Archive (Historical)](https://www2.ufjf.br/arquivocentral/) of UFJF.
-
-- Technical archival processing
-- Organization of documentary collection
-- File scanning
-- Legal document availability
-- Database management: NAS backup (TrueNAS)
-- Controlled vocabulary indexing
-- Digital document formatting
-
-**Skills**: NAS · Database management · scanning/formatting · historical heritage
-
-

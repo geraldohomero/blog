@@ -1,4 +1,5 @@
 ---
-title: "Welcome to Blowfish! :tada:"
-description: "This is a demo of the Blowfish theme for Hugo."
 ---
+
+Systems Analysis and Development (PUC-Minas) <br> 
+M.A. in History (UFJF)

@@ -1,8 +1,8 @@
-[submodule "geraldohomero/public"]
-	path = geraldohomero/public
+[submodule "/public"]
+	path = public
 	url = https://github.com/geraldohomero/geraldohomero.github.io
 	branch = main
-[submodule "geraldohomero/public1"]
-	path = geraldohomero/public1
+[submodule "/public1"]
+	path = /public1
 	url = https://github.com/geraldohomero/geraldohomero.github.io
 	branch = main

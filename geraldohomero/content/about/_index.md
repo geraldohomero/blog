@@ -10,6 +10,8 @@ cascade:
 ---
 
 
+
+
 I have always been very curious about technology and over the years my interest has turned into a passion. During my master's degree in History at the Federal University of Juiz de Fora, I had the opportunity to study Digital History, which helped me to understand the impact of technology on our lives and led me to dive even deeper into the universe of Web Development, especially HTML, CSS, JavaScript, .NET, and C#. Currently, I am studying Systems Analysis and Development at PUC-Minas and improving my skills in SQL, React, and Docker.
 
 

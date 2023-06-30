@@ -17,8 +17,8 @@ mainSections = ["docs"]
 
 disableImageOptimization = false
 
-defaultBackgroundImage = "/img/jameswebb.jpg"
-defaultFeaturedImage = "/img/jameswebb.jpg"
+defaultBackgroundImage = "/img/jameswebb.jpeg" 
+defaultFeaturedImage = "/img/jameswebb.jpeg" 
 
 highlightCurrentMenuArea = true
 smartTOC = true
@@ -36,7 +36,7 @@ smartTOCHideUnfocusedChildren = true
 
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "/img/jameswebb.jpg" # used in: hero, and card
+  homepageImage = "/img/jameswebb.jpeg" # used in: hero, and card
   showRecent = false
   showRecentItems = 6
   showMoreLink = false

@@ -16,14 +16,14 @@ title = "Geraldo Homero >_"
 [author]
   name = "Geraldo Homero"
   image = "img/geraldohomero.jpg"
-  headline = "JavaScript | React.js | .NET | C# | Tailwind"
+  headline = "C# | .NET | JavaScript | React.js"
   bio = "Hi"
   links = [
     { linkedin = "https://linkedin.com/in/geraldohomero" },
+    { github = "https://github.com/geraldohomero" },
     { twitter = "https://twitter.com/geraldohomero" },
-    { mastodon = "https://mastodon.social/@geraldohomero" },
-    { instagram = "https://instagram.com/geraldohomero" },
-    { github = "https://github.com/geraldohomero" }
+    { instagram = "https://instagram.com/geraldohomero" }
   ]
+
 
   

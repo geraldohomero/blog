@@ -14,33 +14,6 @@ cascade:
 
 > NOS = Not Open Source
 
-<!--ts-->
-   * [Search engines](#search-engines)
-   * [Browsers](#browsers)
-   * [E-mails](#e-mails)
-   * [Authenticators](#authenticators)
-   * [Password Managers](#password-managers)
-   * [Messaging apps](#messaging-apps)
-   * [VPN](#vpn)
-   * [Calendar](#calendar)
-   * [To-do and notes](#to-do-and-notes)
-   * [Cloud and Sync](#cloud-and-sync)
-   * [Media Servers](#media-servers)
-   * [Torrent Clients](#torrent-clients)
-   * [Code Editors](#code-editors)
-   * [Office](#office)
-   * [PDF](#pdf)
-   * [Mind-mapping](#mind-mapping)
-   * [UML](#uml)
-   * [Image editors](#image-editors)
-   * [Video editors](#video-editors)
-   * [Digital Audio Workstation](#digital-audio-workstation)
-   * [Research Managers](#research-managers)
-   * [Maps](#maps)
-   * [Readers RSS](#readers-RSS)
-<!--te-->
-
-***
 ## Search engines
 - [Brave](https://search.brave.com/) / beta
 - [DuckDuckGo](https://duckduckgo.com)

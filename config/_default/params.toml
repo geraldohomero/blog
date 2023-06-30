@@ -41,7 +41,7 @@ smartTOCHideUnfocusedChildren = true
   showRecentItems = 6
   showMoreLink = false
   showMoreLinkDest = "docs"
-  cardView = false
+  cardView = true
   cardViewScreenWidth = false
   layoutBackgroundBlur = true # only used when layout equals background
 

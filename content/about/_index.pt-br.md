@@ -105,7 +105,6 @@ Estagiário na área de inteligência de mercado na [Tristão - Painéis Elétri
 - Ajudando na criação de leads para a equipe de vendas
 - Utilização de Google Data Studio (Looker Studio) e MS Power BI para a criação de Dashboards interativos
 - Banco de dados MS Access
-- Python na criação de web scrapers e otimizadores de análise
 
 **Habilidade**: Power BI · Python · Análise de dados · Scrum · Metodologias Agile · Resolução de problemas · Capacidade analítica · Capacidade de organização
 

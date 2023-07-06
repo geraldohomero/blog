@@ -20,7 +20,7 @@ Sempre fui muito curioso sobre tecnologia e ao longo dos anos meu interesse se t
 
 ## Habilidades 
 
-> [Certificados](../certificates/)
+> [Certificados](../certificates)
 
 | Aprendendo `*` | Básico `**` | Intermediário `***` | Avançado `****` |
 

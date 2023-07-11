@@ -57,12 +57,6 @@
   weight = 100
 
 [[main]]
-  identifier = "twitter"
-  pre = "twitter"
-  url = "https://twitter.com/geraldohomero"
-  weight = 200
-
-[[main]]
   identifier = "github"
   pre = "github"
   url = "https://github.com/geraldohomero"

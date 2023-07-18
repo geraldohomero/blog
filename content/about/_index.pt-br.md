@@ -58,8 +58,8 @@ Sempre fui muito curioso sobre tecnologia e ao longo dos anos meu interesse se t
   - Shell script `***`
   - Ubuntu Server `***`
   - WSL `***`
+  - Debian `***`
   - NixOS `**`
-  - Red Hat Enterprise `**`
   - Docker `**`
   - TrueNAS `**`
 ### **Design**

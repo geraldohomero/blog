@@ -95,6 +95,7 @@ cascade:
 ## Media Servers
 - [Jellyfin](https://jellyfin.org/)
 - [Kodi](https://kodi.tv/)
+- [Stremio](https://www.stremio.com/)
 - [Universal Media Server](https://www.universalmediaserver.com/)
 
 ## Torrent Clients

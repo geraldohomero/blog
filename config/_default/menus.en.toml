@@ -10,10 +10,16 @@
 # overridden by providing a weight value. The menu will then be
 # ordered by weight from lowest to highest.
 
+
+[[main]]
+  name = "Home"
+  pageRef = "/"
+  weight = 10
+
 [[main]]
   name = "About"
   pageRef = "about"
-  weight = 10
+  weight = 11
 
 #[[main]]
 #  name = "Examples"
@@ -38,11 +44,6 @@
   name = "Posts"
   pageRef = "posts"
   weight = 90
-
-#[[main]]
-#  name = "Merch"
-#  url = "http://tee.pub/lic/qwSlWVBL5zc"
-#  weight = 100
 
 #[[main]]
 #  name = "Test"

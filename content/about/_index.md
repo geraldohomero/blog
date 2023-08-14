@@ -25,67 +25,41 @@ I have always been very curious about technology and over the years my interest 
 
 > [Certificates](../certificates/)
 
-| Learning `*` | Basic `**` | Mid-level `***` | Advanced `****` |
-
-
  ### **Code Editors**
 
-  - Visual Studio Code `****`
-  - Visual Studio Community `***`
-  - Sublime Text `***`
-  - Android Studio `*`
+  - Visual Studio Code 
+  - Visual Studio
+  - Android Studio 
+  - Expo.dev
 
 ### **Development**
-  - HTML `***`
-  - CSS `***`
-      - Bootstrap `***`
-      - Sass `**`
-      - Tailwind `*`
-  - JavaScript `***`
-      - React.js `*`
-      - Node.js `*`
-  - C# `***`
-  - .NET `**`
-      - ASP.NET Core `**`
-  - MySQL `**`
-  - SQL Server `**`
-  - Python `*`
-  - Git `****`
-      - Github `****`
-      - Gitlab `**`
-      - Bitbucket `*`
-  - Hugo `***`
-  - SEO `***`   
-  - Azure `**`
+  - HTML - CSS | Bootstrap | Sass | Tailwind 
+  - JavaScript | React.js | Node.js | React Native 
+  - C# | .NET | ASP.NET Core 
+  - SQL | MySQL | SQL Server 
+  - Python 
+  - Git | Github | Gitlab | Bitbucket 
+  - Hugo    
+  - Azure 
 ### **Linux**
-  - Shell script `***`
-  - Ubuntu Server `***`
-  - WSL `***`
-  - Debian `***`
-  - NixOS `**`
-  - Docker `**`
-  - TrueNAS `**`
+  - Shell script 
+  - Debian 
+  - NixOS 
+  - Ubuntu Server 
+  - Docker 
+  - WSL 
 ### **Design**
-  - GIMP `****`
-  - Photoshop `***`
-  - Penpot `***`
-  - MarvelApp `**`
-  - Figma `**`
+  - Figma 
+  - Photoshop 
+  - Penpot 
 ### **Data**
-  - Microsoft Power BI `**`
-  - GNU PSPP `**`
+  - Microsoft Power BI 
+  - GNU PSPP
+  - Google Looker Studio 
 ### **Office**
-  - Microsoft Office `****`
-  - LibreOffice `****`
-  - Google Docs `****`
-### **Others**
-  - Video editors
-      - Adobe Premiere Pro `***`
-      - DaVince Resolve `***`
-      - Kdenlive `***`
-  - Digital Audio Workstations (DAW)
-      - Reaper `***`
-      - Pro Tools `**`
+  - Microsoft Office 
+  - LibreOffice 
+  - Google Docs 
 
 ## Education
 

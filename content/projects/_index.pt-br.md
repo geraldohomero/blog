@@ -11,6 +11,11 @@ cascade:
 
 ## GitHub
 
+### [Fuel Manager - CalcFlex](https://github.com/geraldohomero/CalcFlex)
+**Tecnologias utilizadas**: JavaScript, React Native, Expo, JSON Server, VSCode, SQLite
+
+![Img](/img/calcFlex1.png) 
+
 ### [PUC-Minas - Projeto Banco Universitário/Aplicação Interativa (Eixo 2/2023.1)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t04-g4-banco-universitario)
 **Tecnologias utilizadas**: HTML, CSS, Bootstrap, Tailwind, Sass, JavaScript, C#, ASP.NET Core (MVC), UML, VSCode, Visual Studio 2022, MySQL, MySQL Workbench, DBeaver, Figma
 

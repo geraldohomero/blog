@@ -84,8 +84,9 @@ Business intelligence intern at [Tristão - Electrical Panels](https://tristao.i
 - Helping create leads for the sales team
 - Use of Google Data Studio (Looker Studio) and MS Power BI for creating interactive dashboards
 - MS Access Database
+- MS Project
 
-**Skills**: Power BI · Python · Data Analysis · Scrum · Agile Methodologies · Problem Solving · Analytical Capacity · Organizational Capacity 1
+**Skills**: Power BI · Python · Data Analysis · Scrum · Agile Methodologies · Problem Solving · Analytical Capacity · Organizational Capacity · MS Project
 
 ### **Peer tutor (PUC-Minas)** · 2023 - present
 

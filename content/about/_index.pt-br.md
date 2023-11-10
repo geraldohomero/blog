@@ -71,7 +71,13 @@ Sempre fui muito curioso sobre tecnologia e ao longo dos anos meu interesse se t
 
 ## Experiência
 
-### **Analista de Dados (Tristão - Painéis Elétricos)** 2023 - atualmente
+### **Monitoria (PUC-Minas)** mar. 2023 - atualmente
+
+Monitor da disciplina Desenvolvimento web Front-end e de Projeto de desenvolvimento de aplicação Front-end do curso de Análise e Desenvolvimento de Sistemas.
+
+**Habilidades**: Desenvolvimento de software · Desenvolvimento de sistemas · JavaScript · HTML · CSS · Bootstrap · Desenvolvimento de front-end · Engenharia de sistemas de software · Trabalho em equipe · Resolução de problemas · Suporte
+
+### **Analista de Dados (Tristão - Painéis Elétricos)** maio 2023 - nov. 2023
 
 Estagiário na área de inteligência de mercado na [Tristão - Painéis Elétricos](https://tristao.ind.br)
 
@@ -80,16 +86,11 @@ Estagiário na área de inteligência de mercado na [Tristão - Painéis Elétri
 - Utilização de Google Data Studio (Looker Studio) e MS Power BI para a criação de Dashboards interativos
 - Banco de dados MS Access
 - MS Project
+- Kanban
 
-**Habilidade**: Power BI · Python · Análise de dados · Scrum · Metodologias Agile · Resolução de problemas · Capacidade analítica · Capacidade de organização · MS Project
+**Habilidade**: Power BI · Python · Análise de dados · Scrum · Metodologias Agile · Resolução de problemas · Capacidade analítica · Capacidade de organização · MS Project · Trabalho em equipe
 
-### **Monitoria (PUC-Minas)** · 2023 - atualmente
-
-Monitor da disciplina Desenvolvimento web Front-end e de Projeto de desenvolvimento de aplicação Front-end do curso de Análise e Desenvolvimento de Sistemas.
-
-**Habilidades**: Desenvolvimento de software · Desenvolvimento de sistemas · JavaScript · HTML · CSS · Bootstrap · Desenvolvimento de front-end · Engenharia de sistemas de software · Trabalho em equipe · Resolução de problemas · Suporte
-
-### **Pesquisador (Mestrado/UFJF)** · 2019 - 2022
+### **Pesquisador (Mestrado/UFJF)** 2019 - 2022
 
 Pesquisador no [Programa de Pós-graduação em História da UFJF](https://www2.ufjf.br/ppghistoria/), na linha de pesquisa "História, Cultura e Poder", com financiamento [CAPES](https://www.gov.br/capes/).
 
@@ -103,7 +104,7 @@ Pesquisador no [Programa de Pós-graduação em História da UFJF](https://www2.
 
 **Habilidade**: Pesquisa · Gestão de tempo · Resolução de problemas · Comunicação · Capacidade analítica · Capacidade de organização · Capacidade de adaptação · Pensamento crítico · História · História Digital · Git · Python · R · GitHub · Linux · Shell script · Bash · Docker · Análise de dados · Microsoft Power BI · Microsoft Office · Diagramação · Revisão de texto
 
-### **Pesquisador (Iniciação Científica/UFJF)** · 2018 - 2019
+### **Pesquisador (Iniciação Científica/UFJF)** 2018 - 2019
 
 Bolsista de iniciação científica no [projeto de pesquisa](https://www.ufjf.br/labhoi/juiz-de-fora-cidade-negra-centro-de-referencia-sobre-a-memoria-negra-em-juiz-de-fora/indice-acervo-juiz-de-fora-cidade-negra/) "Passados Presentes: comunidades remanescentes de quilombo e memória da escravidão na Zona da Mata Mineira", do [Laboratório de História Oral e Imagem (LABHOI-UFJF)](https://www.ufjf.br/labhoi/) e do grupo AFRIKAS.
 

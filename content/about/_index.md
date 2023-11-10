@@ -72,11 +72,15 @@ I have always been very curious about technology and over the years my interest 
 
 >Bachelor's degree (History) | 2014 - 2018
 
-
 ## Experience
 
+### **Peer tutor (PUC-Minas)** · Mar. 2023 - present
 
-### **Data Analyst (Tristão - Electrical Panels)** 2023 - present
+Scholarship TA holder for the Front-end Web Development and Front-end Application Development Project disciplines of the Systems Analysis and Development course at PUC Minas
+
+**Skills**: Software development · System development · JavaScript · HTML · CSS · Bootstrap · Front-end · Software Eng. · Team work · Problem solving · Support
+
+### **Data Analyst (Tristão - Electrical Panels)** May 2023 - Nov. 2023
 
 Business intelligence intern at [Tristão - Electrical Panels](https://tristao.ind.br)
 
@@ -85,16 +89,11 @@ Business intelligence intern at [Tristão - Electrical Panels](https://tristao.i
 - Use of Google Data Studio (Looker Studio) and MS Power BI for creating interactive dashboards
 - MS Access Database
 - MS Project
+- Kanban
 
-**Skills**: Power BI · Python · Data Analysis · Scrum · Agile Methodologies · Problem Solving · Analytical Capacity · Organizational Capacity · MS Project
+**Skills**: Power BI · Python · Data Analysis · Scrum · Agile Methodologies · Problem Solving · Analytical Capacity · Organizational Capacity · MS Project · Teamwork
 
-### **Peer tutor (PUC-Minas)** · 2023 - present
-
-Scholarship TA holder for the Front-end Web Development and Front-end Application Development Project disciplines of the Systems Analysis and Development course at PUC Minas
-
-**Skills**: Software development · System development · JavaScript · HTML · CSS · Bootstrap · Front-end · Software Eng. · Team work · Problem solving · Support
-
-### **Research Fellow (Master/UFJF)** · 2019 - 2022
+### **Research Fellow (Master/UFJF)** 2019 - 2022
 
 Researcher in the [History Graduate Program](https://www2.ufjf.br/ppghistoria/) at UFJF, in the research line "History, Culture and Power", with funding from [CAPES](https://www.gov.br/capes/).
 
@@ -109,7 +108,8 @@ Researcher in the [History Graduate Program](https://www2.ufjf.br/ppghistoria/) 
 
 **Skills**: Research · Time management · Problem solving · Communication · Analytical skills · Organizational skills · Adaptability · Critical thinking · History · Digital History · Git · Python · R · GitHub · Linux · Shell scripting · Bash · Docker · Data analysis · Microsoft Power BI · Microsoft Office · Typesetting · Text editing
 
-### **Undergraduate research fellow (UFJF)** · 2018 - 2019
+### **Undergraduate research fellow (UFJF)**
+- Kanban 2018 - 2019
 
 Undergraduate research fellow in the [research project](https://www.ufjf.br/labhoi/juiz-de-fora-cidade-negra-centro-de-referencia-sobre-a-memoria-negra-em-juiz-de-fora/indice-acervo-juiz-de-fora-cidade-negra/) "Past Presents: remnant quilombo communities and memory of slavery in the Zona da Mata region of Minas Gerais" at the [Oral History and Image Laboratory (LABHOI-UFJF)](https://www.ufjf.br/labhoi/) and the AFRIKAS group.
 

@@ -109,7 +109,6 @@ Researcher in the [History Graduate Program](https://www2.ufjf.br/ppghistoria/) 
 **Skills**: Research · Time management · Problem solving · Communication · Analytical skills · Organizational skills · Adaptability · Critical thinking · History · Digital History · Git · Python · R · GitHub · Linux · Shell scripting · Bash · Docker · Data analysis · Microsoft Power BI · Microsoft Office · Typesetting · Text editing
 
 ### **Undergraduate research fellow (UFJF)**
-- Kanban 2018 - 2019
 
 Undergraduate research fellow in the [research project](https://www.ufjf.br/labhoi/juiz-de-fora-cidade-negra-centro-de-referencia-sobre-a-memoria-negra-em-juiz-de-fora/indice-acervo-juiz-de-fora-cidade-negra/) "Past Presents: remnant quilombo communities and memory of slavery in the Zona da Mata region of Minas Gerais" at the [Oral History and Image Laboratory (LABHOI-UFJF)](https://www.ufjf.br/labhoi/) and the AFRIKAS group.
 

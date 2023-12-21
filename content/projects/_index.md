@@ -13,7 +13,7 @@ cascade:
 ## GitHub
 
 ### [Fuel Manager](https://github.com/geraldohomero/CalcFlex)
-**Technologies**: JavaScript, React Native, Expo, JSON Server, VSCode, SQLite, REST
+**Technologies**: JavaScript, React Native, Expo, JSON Server, VSCode, SQLite, REST.
 
 ![Img](/img/calcFlex1.png) 
 

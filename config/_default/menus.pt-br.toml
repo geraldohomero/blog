@@ -40,10 +40,10 @@
 #  pageRef = "guides"
 #  weight = 40
 
-[[main]]
-  name = "Posts"
-  pageRef = "Posts"
-  weight = 90
+#[[main]]
+#  name = "Posts"
+#  pageRef = "Posts"
+#  weight = 90
 
 #[[main]]
 #  name = "Merch"

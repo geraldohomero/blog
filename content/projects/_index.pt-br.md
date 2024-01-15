@@ -9,29 +9,52 @@ cascade:
   invertPagination: true
 ---
 
-## GitHub
+
+### [WorstGameEver](https://github.com/geraldohomero/WorstGameEver)
+**Tecnologias utilizadas**: JavaScript, Node.js, React.js, Next.js, MySQL, DBeaver, Github, VSCode, REST
+
+<details style="cursor:pointer"><summary>Visualizar</summary>
+  <img src="https://private-user-images.githubusercontent.com/70844369/295443240-2a85688f-a47e-483d-9934-04a43f8f0d6b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDUzNTU5NTMsIm5iZiI6MTcwNTM1NTY1MywicGF0aCI6Ii83MDg0NDM2OS8yOTU0NDMyNDAtMmE4NTY4OGYtYTQ3ZS00ODNkLTk5MzQtMDRhNDNmOGYwZDZiLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTE1VDIxNTQxM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTJmZmM1ZDgxYmE0YWFiZTRmMGYyNzE0Y2I5ZmJhM2U1MWY2YjYxMjc0MWQzNDdlNDgxNmM5ZTBkMjQ1OTQzMDYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.1Z0tCtVCg4JEy63Zat5pLYKDAn1pVlamUIO-23zly9c" style="border-radius:2%">
+</details>
+
+### [PUC-Minas - Projeto TaskBook (Eixo 3/2023.2)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t3-time2-app)
+**Tecnologias utilizadas**: React Native, Expo, JavaScript, VSCode, SQLite, REST, JSON Server, MySQL
+
+<details style="cursor:pointer"><summary>Visualizar</summary>
+  <img src="https://raw.githubusercontent.com/geraldohomero/blog/main/assets/img/taskbook.png" style="border-radius:2%">
+</details>
 
 ### [Fuel Manager - CalcFlex](https://github.com/geraldohomero/CalcFlex)
 **Tecnologias utilizadas**: JavaScript, React Native, Expo, JSON Server, VSCode, SQLite, REST
 
-![Img](/img/calcFlex1.png) 
+<details style="cursor:pointer"><summary>Visualizar</summary>
+  <img src="https://raw.githubusercontent.com/geraldohomero/blog/main/assets/img/calcFlex1.png" style="border-radius:2%">
+</details>
 
 ### [PUC-Minas - Projeto Banco Universitário/Aplicação Interativa (Eixo 2/2023.1)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t04-g4-banco-universitario)
 **Tecnologias utilizadas**: HTML, CSS, Bootstrap, Tailwind, Sass, JavaScript, C#, ASP.NET Core (MVC), UML, VSCode, Visual Studio 2022, MySQL, MySQL Workbench, DBeaver, Figma
 
-![Img](/img/eixo2-pucminas.png)
+<details style="cursor:pointer"><summary>Visualizar</summary>
+  <img src="https://raw.githubusercontent.com/geraldohomero/blog/main/assets/img/eixo2-pucminas.png" style="border-radius:2%">
+</details>
 
 ### [Consumo de Veículos](https://github.com/geraldohomero/app-web-backend-dotnet5-vs2019)
 **Tecnologias utilizadas**: ASP.NET Core (MVC), C#, Visual Studio 2022, HTML, CSS, Bootstrap, EntityFramework 5.0.17, BCrypt, Microsoft SQL Server (com Data Annotations)
 
-![Img](/img/eixo2-class-puc.png)
+<details style="cursor:pointer"><summary>Visualizar</summary>
+  <img src="https://raw.githubusercontent.com/geraldohomero/blog/main/assets/img/eixo2-class-puc.png" style="border-radius:2%">
+</details>
 
 ### [PUC-Minas - Projeto Bares e Restaurantes/Desenvolvimento Web (Eixo 1/2022.2)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t9-bares-restaurantes)
 - [Demo](https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-2-e1-proj-web-t9-bares-restaurantes/)
 
 **Tecnologias utilizadas**: HTML, CSS, JavaScript, JSON, MarvelApp, Trello e VSCode
 
-![Img](/img/eixo1-pucminas.png)
+<details style="cursor:pointer"><summary>Visualizar</summary>
+  <img src="https://raw.githubusercontent.com/geraldohomero/blog/main/assets/img/eixo1-pucminas.png" style="border-radius:2%">
+</details>
+
+## Outros
 
 - [Best Free and Open Source (not all) Software Alternatives (for Security and Privacy)](https://github.com/geraldohomero/best-foss-alternatives)
 - [Regex Tester - Expressões regulares](https://github.com/geraldohomero/regex)
@@ -48,5 +71,7 @@ cascade:
 
 - [Pop!_OS Wallpaper](https://www.pling.com/p/1770949/)
 
-![Pop_os](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0ff68a18-d342-45b0-807b-d1311e1c0fd1/df3ycrs-ca46e3ff-2e10-4724-ba4d-c75f899d648e.png/v1/fill/w_1280,h_536,q_80,strp/pop__os_wallpaper_ultrawide_by_mandjoca6_df3ycrs-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTM2IiwicGF0aCI6IlwvZlwvMGZmNjhhMTgtZDM0Mi00NWIwLTgwN2ItZDEzMTFlMWMwZmQxXC9kZjN5Y3JzLWNhNDZlM2ZmLTJlMTAtNDcyNC1iYTRkLWM3NWY4OTlkNjQ4ZS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19._Nt4xwTR7AhDVz-05Ns8dqUlkNtH5iQYgfhRdLc-lI0)
+<details style="cursor:pointer"><summary>Visualizar</summary>
+  <img src="https://raw.githubusercontent.com/geraldohomero/blog/main/assets/img/pop_os.png">
+</details>
 

@@ -12,7 +12,7 @@ cascade:
 ### [WorstGameEver](https://github.com/geraldohomero/WorstGameEver)
 **Technologies**: JavaScript, Node.js, React.js, Next.js, MySQL, DBeaver, Github, VSCode, REST
 
-<details style="cursor:pointer"><summary>Visualizar</summary>
+<details style="cursor:pointer"><summary>Preview</summary>
   <img src="https://raw.githubusercontent.com/geraldohomero/blog/main/assets/img/wge.png" style="border-radius:2%">
 </details>
 

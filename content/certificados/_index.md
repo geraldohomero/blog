@@ -20,3 +20,7 @@
 - [Shell script](https://github.com/geraldohomero/blog/blob/main/resources/_gen/images/certificados/diolinux_certificado_shellscript.png)
 
 <!-- (https://watch.diolinux.com.br/api/public/certificates/51881de4-7fb1-4615-a4cb-7790e4a9729d/share) -->
+
+## Microsoft Learn
+
+- [Achievements](https://learn.microsoft.com/en-us/users/geraldohomero-7680/achievements)

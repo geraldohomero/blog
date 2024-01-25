@@ -81,12 +81,12 @@ Monitor da disciplina Desenvolvimento web Front-end e de Projeto de desenvolvime
 
 Estagiário na área de inteligência de mercado na [Tristão - Painéis Elétricos](https://tristao.ind.br)
 
-- Análise de dados de importância estratégica para o setor
-- Ajudando na criação de leads para a equipe de vendas
-- Utilização de Google Data Studio (Looker Studio) e MS Power BI para a criação de Dashboards interativos
-- Banco de dados MS Access
-- MS Project
-- Kanban
+- Análise de dados de grande importância para o setor de energia renovável, sustentabilidade e projetos de energia;
+- Criação de dashboards interativos com dados do MS Project usando o Microsoft Power BI, Google Looker Studio e banco de dados MS Access;
+- Automação de tarefas específicas com Python;
+- Implementação da metodologia Kanban;
+- Desenvolvimento de uma aplicação web (versão beta) para calcular o gasto energético de painéis solares usando JavaScript, Bootstrap e HTML;
+- Aperfeiçoamento de uma aplicação em Python para extrair e-mails de vários tipos de arquivos (.csv, .pdf, .docx, etc).
 
 **Habilidade**: Power BI · Python · Análise de dados · Scrum · Metodologias Agile · Resolução de problemas · Capacidade analítica · Capacidade de organização · MS Project · Trabalho em equipe
 

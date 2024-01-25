@@ -84,12 +84,12 @@ Scholarship TA holder for the Front-end Web Development and Front-end Applicatio
 
 Business intelligence intern at [Tristão - Electrical Panels](https://tristao.ind.br)
 
-- Strategic data analysis for the sector
-- Helping create leads for the sales team
-- Use of Google Data Studio (Looker Studio) and MS Power BI for creating interactive dashboards
-- MS Access Database
-- MS Project
+- Analysis of data of significant importance for the renewable energy, sustainability, and project sector;
+- Creation of interactive dashboards from MS Project data using Microsoft Power BI, Google Looker Studio and MS Access database;
+- Python for automating certain tasks.
 - Kanban
+- Development of a web application (beta version) for calculating the energy expenditure of solar panels (JavaScript, Bootstrap, and HTML).
+- Refinement of a Python application to extract emails from various types of files (.csv, .pdf, .docx, etc).
 
 **Skills**: Power BI · Python · Data Analysis · Scrum · Agile Methodologies · Problem Solving · Analytical Capacity · Organizational Capacity · MS Project · Teamwork
 

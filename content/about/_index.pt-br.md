@@ -9,34 +9,31 @@ cascade:
   invertPagination: true
 ---
 
-Sempre fui muito curioso sobre tecnologia e ao longo dos anos meu interesse se transformou em paixão. Durante meu mestrado em História (Universidade Federal de Juiz de Fora), tive a oportunidade de estudar História Digital, e isso me ajudou a entender o impacto da tecnologia em nossas vidas me levando a mergulhar ainda mais no universo de Desenvolvimento Web, especialmente HTML, CSS, JavaScript, .NET e C#. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na PUC-Minas e me aprimorando em SQL, SQL Server, React e Docker.
+Sempre fui muito curioso sobre tecnologia e ao longo dos anos meu interesse se transformou em paixão. Durante meu mestrado e graduação em História, tive a oportunidade de estudar História Digital, o que me colocou em contato com o mundo Linux e Open Source. Entender o impacto da tecnologia em nossas vidas foi me deixando cada vez mais intrigado. 
 
+Em 2018, migrei completamente para o Linux e não me arrependo! Com o Linux, aprendi coisas valiosas, sendo a principal: não existe problema sem solução. Em 2022, iniciei meus estudos em Desenvolvimento Web na PUC Minas e venho me aprimorando constantemente em HTML, CSS, JavaScript, React, React Native, MySQL, C#, .NET, ASP.NET e NoSQL. Além disso, estou estudando por conta própria algumas tecnologias que me chamaram atenção, como Rust, Vue.js, Docker e Kubernetes.
 
-- [ORCID](https://orcid.org/0000-0001-6686-7182)
-- [Lattes](http://lattes.cnpq.br/9924558848538635)
-- [LinkedIn](https://linkedin.com/in/geraldohomero/?locale=en_US)
-- [ResearchGate](https://www.researchgate.net/profile/Geraldo-Couto-Neto)
-- [Google Scholar](https://scholar.google.com/citations?hl=pt-BR&user=QcUrmPYAAAAJ)
+> [Certificados](../certificates)
 
 ## Habilidades 
 
-> [Certificados](../certificates)
 
  ### **Editores de Código**
 
   - Visual Studio Code 
   - Visual Studio
-  - Android Studio 
   - Expo.dev
+  - Rider
 
 ### **Desenvolvimento**
   - HTML - CSS | Bootstrap | Sass | Tailwind 
   - JavaScript | React.js | Node.js | React Native 
-  - C# | .NET | ASP.NET Core 
-  - SQL | MySQL | SQL Server 
-  - Python 
+  - C# | .NET | ASP.NET Core | MVC
+  - SQL | MySQL | MSSQLServer | SQLite
+  - NoSQL | MongoDB 
   - Git | Github | Gitlab | Bitbucket 
-  - Hugo    
+  - Python 
+  - Rust   
   - Azure 
 ### **Linux**
   - Shell script 
@@ -53,14 +50,10 @@ Sempre fui muito curioso sobre tecnologia e ao longo dos anos meu interesse se t
   - Microsoft Power BI 
   - GNU PSPP
   - Google Looker Studio 
-### **Office**
-  - Microsoft Office 
-  - LibreOffice 
-  - Google Docs 
 
 ## Educação
 
-### **PUC-Minas:**
+### **PUC Minas:**
 >Análise e Desenvolvimento de Sistemas | 2022 - 2024
 ### **Universidade Federal de Juiz de Fora:**
 >Mestrado em História | 2019 - 2022
@@ -71,7 +64,7 @@ Sempre fui muito curioso sobre tecnologia e ao longo dos anos meu interesse se t
 
 ## Experiência
 
-### **Monitoria (PUC-Minas)** mar. 2023 - atualmente
+### **Monitoria (PUC Minas)** mar. 2023 - atualmente
 
 Monitor da disciplina Desenvolvimento web Front-end e de Projeto de desenvolvimento de aplicação Front-end do curso de Análise e Desenvolvimento de Sistemas.
 

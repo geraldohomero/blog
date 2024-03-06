@@ -9,37 +9,33 @@ cascade:
   invertPagination: true
 ---
 
+I've always been deeply curious about technology, and over the years, my interest has blossomed into a full-fledged passion. During my undergraduate and graduate studies in History, I had the opportunity to delve into the world of Digital History, which introduced me to Linux and the open-source community. Witnessing the profound impact of technology on our lives fueled my intrigue even further.
 
+In 2018, I made the complete switch to Linux, a decision I have never regretted! Through my Linux journey, I have acquired invaluable lessons, the most important being that there is no problem without a solution.
+In 2022, I embarked on my journey in Web Development at PUC Minas, diligently honing my skills in HTML, CSS, JavaScript, React, React Native, MySQL, C#, .NET, ASP.NET Core, and MongoDB. Additionally, I have been actively pursuing self-study in various technologies that have piqued my interest, such as Rust, Vue.js, Docker, and Kubernetes.
 
-
-I have always been very curious about technology and over the years my interest has turned into a passion. During my master's degree in History at the Federal University of Juiz de Fora, I had the opportunity to study Digital History, which helped me to understand the impact of technology on our lives and led me to dive even deeper into the universe of Web Development, especially HTML, CSS, JavaScript, .NET, and C#. Currently, I am studying Systems Analysis and Development at PUC-Minas and improving my skills in SQL, React, and Docker.
-
-
-- [ORCID](https://orcid.org/0000-0001-6686-7182)
-- [Lattes](http://lattes.cnpq.br/9924558848538635)
-- [LinkedIn](https://linkedin.com/in/geraldohomero/?locale=en_US)
-- [ResearchGate](https://www.researchgate.net/profile/Geraldo-Couto-Neto)
-- [Google Scholar](https://scholar.google.com/citations?hl=pt-BR&user=QcUrmPYAAAAJ)
+> [Certificates](../certificates/)
 
 ## Skills 
 
-> [Certificates](../certificates/)
 
  ### **Code Editors**
 
   - Visual Studio Code 
   - Visual Studio
-  - Android Studio 
   - Expo.dev
+  - Rider
+
 
 ### **Development**
   - HTML - CSS | Bootstrap | Sass | Tailwind 
   - JavaScript | React.js | Node.js | React Native 
-  - C# | .NET | ASP.NET Core 
-  - SQL | MySQL | SQL Server 
-  - Python 
+  - C# | .NET | ASP.NET Core | MVC
+  - SQL | MySQL | MSSQLServer | SQLite
+  - NoSQL | MongoDB 
   - Git | Github | Gitlab | Bitbucket 
-  - Hugo    
+  - Python
+  - Rust   
   - Azure 
 ### **Linux**
   - Shell script 
@@ -55,15 +51,11 @@ I have always been very curious about technology and over the years my interest 
 ### **Data**
   - Microsoft Power BI 
   - GNU PSPP
-  - Google Looker Studio 
-### **Office**
-  - Microsoft Office 
-  - LibreOffice 
-  - Google Docs 
+  - Google Looker Studio  
 
 ## Education
 
-### **Pontifical Catholic University of Minas Gerais (PUC-Minas):**
+### **Pontifical Catholic University of Minas Gerais (PUC Minas):**
 >Associate degree: Analysis and Systems Development | 2022 - 2024
 ### **Federal University of Juiz de Fora (UFJF):**
 >Master's degree (History) | 2019 - 2022
@@ -74,7 +66,7 @@ I have always been very curious about technology and over the years my interest 
 
 ## Experience
 
-### **Peer tutor (PUC-Minas)** · Mar. 2023 - present
+### **Peer tutor (PUC Minas)** · Mar. 2023 - present
 
 Scholarship TA holder for the Front-end Web Development and Front-end Application Development Project disciplines of the Systems Analysis and Development course at PUC Minas
 

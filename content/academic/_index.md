@@ -9,6 +9,11 @@ cascade:
   invertPagination: true
 ---
 
+- [ORCID](https://orcid.org/0000-0001-6686-7182)
+- [Lattes](http://lattes.cnpq.br/9924558848538635)
+- [ResearchGate](https://www.researchgate.net/profile/Geraldo-Couto-Neto)
+- [Google Scholar](https://scholar.google.com/citations?hl=pt-BR&user=QcUrmPYAAAAJ)
+
 ## Dissertation (Master's/UFJF)
 [(De)constructing History on the Internet: Views on the Brazilian Military Dictatorship in channels of the "new right" on YouTube (2013-2018)](https://repositorio.ufjf.br/jspui/handle/ufjf/14568)
 

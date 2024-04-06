@@ -9,12 +9,18 @@ cascade:
   invertPagination: true
 ---
 
-
 ### [WorstGameEver](https://github.com/geraldohomero/WorstGameEver)
 **Tecnologias utilizadas**: JavaScript, Node.js, React.js, Next.js, MySQL, DBeaver, Github, VSCode, REST
 
 <details style="cursor:pointer"><summary>Visualizar</summary>
   <img src="https://raw.githubusercontent.com/geraldohomero/blog/main/assets/img/wge.png" style="border-radius:2%">
+</details>
+
+### [PUC-Minas - Projeto Mei a Mei (Eixo 4/2024.1)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-dad-t3-mei)
+**Tecnologias utilizadas**: C#, .NET, ASP.NET Core, React.js, React Native, MongoDB, MongoDB Atlas, MongoDB Compass, RESTful API, Swagger, Postman, Visual Studio 2022, VSCode, Rider, Figma, Trello, Git, Github, NUnit, XUnit
+
+<details style="cursor:pointer"><summary>Visualizar</summary>
+  <p>Não disponível</p>
 </details>
 
 ### [PUC-Minas - Projeto TaskBook (Eixo 3/2023.2)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t3-time2-app)

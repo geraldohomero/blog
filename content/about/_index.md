@@ -18,15 +18,6 @@ In 2022, I embarked on my journey in Web Development at PUC Minas, diligently ho
 
 ## Skills 
 
-
- ### **Code Editors**
-
-  - Visual Studio Code 
-  - Visual Studio
-  - Expo.dev
-  - Rider
-
-
 ### **Development**
   - HTML - CSS | Bootstrap | Sass | Tailwind 
   - JavaScript | React.js | Node.js | React Native 
@@ -34,9 +25,10 @@ In 2022, I embarked on my journey in Web Development at PUC Minas, diligently ho
   - SQL | MySQL | MSSQLServer | SQLite
   - NoSQL | MongoDB 
   - Git | Github | Gitlab | Bitbucket 
+  - AI | Llama | Gemini
   - Python
   - Rust   
-  - Azure 
+  - Azure
 ### **Linux**
   - Shell script 
   - Debian 

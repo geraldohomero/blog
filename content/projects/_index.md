@@ -16,6 +16,14 @@ cascade:
   <img src="https://raw.githubusercontent.com/geraldohomero/blog/main/assets/img/wge.png" style="border-radius:2%">
 </details>
 
+### [PUC-Minas - "Mei a Mei" Project (2024.1)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-dad-t3-mei)
+**Technologies**: C#, .NET, ASP.NET Core, React.js, React Native, MongoDB, MongoDB Atlas, MongoDB Compass, RESTful API, Swagger, Postman, Visual Studio 2022, VSCode, Rider, Figma, Trello, Git, Github, NUnit, XUnit
+
+<details style="cursor:pointer"><summary>Preview</summary>
+  <p>No preview yet</p>
+</details>
+
+
 
 ### [PUC-Minas - TaskBook Project (2023.2)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t3-time2-app)
 **Technologies**: React Native, Expo, JavaScript, VSCode, SQLite, REST, JSON Server, MySQL

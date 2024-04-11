@@ -1,4 +1,4 @@
-languageCode = "en"
+languageCode = "en-us"
 languageName = "English"
 weight = 1
 title = "Geraldo Homero >_"
@@ -21,6 +21,7 @@ title = "Geraldo Homero >_"
   links = [
     { linkedin = "https://linkedin.com/in/geraldohomero" },
     { github = "https://github.com/geraldohomero" },
+    { gitlab = "https://gitlab.com/geraldohomero"},
     { mastodon = "https://mastodon.social/@geraldohomero"},
     { twitter = "https://twitter.com/geraldohomero" },
     { instagram = "https://instagram.com/geraldohomero" }

@@ -22,7 +22,7 @@ In 2022, I embarked on my journey in Web Development at PUC Minas, diligently ho
   - HTML - CSS | Bootstrap | Sass | Tailwind 
   - JavaScript | React.js | Node.js | React Native 
   - C# | .NET | ASP.NET Core | MVC
-  - SQL | MySQL | MSSQLServer | SQLite
+  - SQL | MySQL | SQLServer | SQLite
   - NoSQL | MongoDB 
   - Git | Github | Gitlab | Bitbucket 
   - AI | Llama | Gemini
@@ -105,3 +105,4 @@ Undergraduate research fellow in the [research project](https://www.ufjf.br/labh
 - Data transcription and structuring
 
 **Skills**: WordPress · CSS · HTML · GitHub · Data analysis · IT operations · Microsoft Office · Information technology
+

@@ -21,7 +21,7 @@ Em 2018, migrei completamente para o Linux e não me arrependo! Com o Linux, apr
   - HTML - CSS | Bootstrap | Sass | Tailwind 
   - JavaScript | React.js | Node.js | React Native 
   - C# | .NET | ASP.NET Core | MVC
-  - SQL | MySQL | MSSQLServer | SQLite
+  - SQL | MySQL | SQLServer | SQLite
   - NoSQL | MongoDB 
   - Git | Github | Gitlab | Bitbucket
   - AI | Llama | Gemini

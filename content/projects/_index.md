@@ -80,7 +80,7 @@ cascade:
 
 ***
 
-## PUC-Minas - Bars and Restaurants Project/Web Development (2022.2)
+## PUC-Minas - Bars and Restaurants Project (2022.2)
 
 {{< github repo="ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t9-bares-restaurantes" >}}
 

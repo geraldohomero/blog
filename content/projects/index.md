@@ -106,7 +106,7 @@ tags: ["projects", "tech", "study"]
 <br>
 {{< github repo="geraldohomero/Zotero-LibreOffice-Linux" >}}
 <br>
-{{< github repo="geraldohomero/iriunwebcam_linux_error" >}}
+{{< github repo="geraldohomero/iriunwebcam-linux-error" >}}
 
 ### Websites:
 

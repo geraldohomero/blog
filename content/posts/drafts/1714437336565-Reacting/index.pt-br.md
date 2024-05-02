@@ -1,7 +1,7 @@
 ---
 title: "Reacting - Reajamento - Reação - Reagiabilidade"
 date: 2024-04-30
-draft: false
+draft: true
 description: "uma descrição"
 tags: [reaja, estudo, javascript]
 ---

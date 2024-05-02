@@ -13,10 +13,10 @@ tags: ["projects", "tech", "study"]
 **Technologies**: JavaScript, Node.js, React.js, Next.js, MySQL, DBeaver, Github, VSCode, REST
 
 <details style="cursor:pointer"><summary>Preview</summary>
-  <img src="https://raw.githubusercontent.com/geraldohomero/blog/main/assets/img/wge.png" style="border-radius:2%">
+  <img src="./img/wge.png" style="border-radius:2%">
 </details>
 
-***
+
 
 ## PUC-Minas - "Mei a Mei" Project 
 ***First Semester of 2024***
@@ -39,7 +39,7 @@ tags: ["projects", "tech", "study"]
 **Technologies**: React Native, Expo, JavaScript, VSCode, SQLite, REST, JSON Server, MySQL
 
 <details style="cursor:pointer"><summary>Preview</summary>
-  <img src="https://raw.githubusercontent.com/geraldohomero/blog/main/assets/img/taskbook.png" style="border-radius:2%">
+  <img src="./img/taskbook.png" style="border-radius:2%">
 </details>
 
 ***
@@ -50,7 +50,7 @@ tags: ["projects", "tech", "study"]
 
 **Technologies**: JavaScript, React Native, Expo, JSON Server, VSCode, SQLite, REST
 <details style="cursor:pointer"><summary>Preview</summary>
-  <img src="https://raw.githubusercontent.com/geraldohomero/blog/main/assets/img/calcFlex1.png" style="border-radius:2%">
+  <img src="./img/CalcFlex.png" style="border-radius:2%">
 </details>
 
 ***
@@ -63,7 +63,7 @@ tags: ["projects", "tech", "study"]
 **Technologies**: HTML, CSS, Bootstrap, Tailwind, Sass, JavaScript, C#, ASP.NET Core (MVC), UML, VSCode, Visual Studio 2022, MySQL, MySQL Workbench, DBeaver, Figma
 
 <details style="cursor:pointer"><summary>Preview</summary>
-  <img src="https://raw.githubusercontent.com/geraldohomero/blog/main/assets/img/eixo2-pucminas.png" style="border-radius:2%">
+  <img src="./img/descEstud.png" style="border-radius:2%">
 </details>
 
 ***
@@ -75,7 +75,7 @@ tags: ["projects", "tech", "study"]
 **Technologies**: ASP.NET Core (MVC), C#, Visual Studio 2022, HTML, CSS, Bootstrap, EntityFramework 5.0.17, BCrypt, Microsoft SQL Server (com Data Annotations)
 
 <details style="cursor:pointer"><summary>Preview</summary>
-  <img src="https://raw.githubusercontent.com/geraldohomero/blog/main/assets/img/eixo2-class-puc.png" style="border-radius:2%">
+  <img src="./img/Fuel.png" style="border-radius:2%">
 </details>
 
 ***
@@ -90,7 +90,7 @@ tags: ["projects", "tech", "study"]
 **Technologies**: HTML, CSS, JavaScript, JSON, MarvelApp, Trello e VSCode
 
 <details style="cursor:pointer"><summary>Preview</summary>
-  <img src="https://raw.githubusercontent.com/geraldohomero/blog/main/assets/img/eixo1-pucminas.png" style="border-radius:2%">
+  <img src="./img/BarERest.png" style="border-radius:2%">
 </details>
 
 ***
@@ -116,6 +116,6 @@ tags: ["projects", "tech", "study"]
 
 - [Pop!_OS Wallpaper](https://www.pling.com/p/1770949/)
 <details style="cursor:pointer"><summary>Preview</summary>
-  <img src="https://raw.githubusercontent.com/geraldohomero/blog/main/assets/img/pop_os.png">
+  <img src="./img/pop-wallpaper-ultrawide.png">
 </details>
 

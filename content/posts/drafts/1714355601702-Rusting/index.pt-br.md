@@ -1,10 +1,10 @@
 ---
-title: "Rusting"
+title: "Enferrujando"
 date: 2024-04-29
-draft: false
+draft: true
 description: "My Rust adventure"
 tags: ["rust", "study", "cargo"]
 ---
-**My journey with ***Rust*** programming language**
- 
+**Minha jornada com** ***Rust*** 
+
 {{< github repo="geraldohomero/rusting" >}}

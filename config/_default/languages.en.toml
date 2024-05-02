@@ -1,32 +1,25 @@
-languageCode = "en-us"
+languageCode = "en"
 languageName = "English"
 weight = 1
 title = "Geraldo Homero >_"
 
 [params]
-  displayName = "EN"
-  isoCode = "en"
-  rtl = false
-  dateFormat = "2 January 2006"
-  #logo = "img/blowfish_logo_transparent.png"
-  # secondaryLogo = "PATH"
-  description = "Geraldo's personal website"
-  # copyright = "Copy, _right?_ :thinking_face:"
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
 
 [author]
-  name = "Geraldo Homero"
-  image = "img/geraldohomero.jpg"
-  headline = "C# | .NET | JavaScript | React.js"
-  bio = "Hi"
-  links = [
-    { linkedin = "https://linkedin.com/in/geraldohomero" },
-    { github = "https://github.com/geraldohomero" },
-    { gitlab = "https://gitlab.com/geraldohomero"},
-    { orcid = "https://orcid.org/0000-0001-6686-7182"},
-    { mastodon = "https://mastodon.social/@geraldohomero"},
-    { twitter = "https://twitter.com/geraldohomero" },
-    { instagram = "https://instagram.com/geraldohomero" }
-  ]
-
-
-  
+name = "Geraldo Homero"
+headline = "Teacher Assistant @ PUC Minas  <br>  C# | .NET | JavaScript | React.js <br> "
+links = [
+  { linkedin = "https://www.linkedin.com/in/geraldohomero/" },
+  { github = "https://github.com/geraldohomero" },
+  { gitlab = "https://gitlab.com/geraldohomero" },
+  { orcid = "https://orcid.org/0000-0002-0002-0002"},
+  { mastodon = "https://mastodon.social/@geraldohomero"},
+  { twitter = "https://twitter.com/geraldohomero" },
+  { instagram = "https://www.instagram.com/geraldohomero/" },
+]
+bio = "**Developer** | C# | .NET | JavaScript | React.js | Rust | Python <br> **Researcher** | Digital History | Digital Humanities | Data Analysis"
+image = "geraldohomero.jpg"

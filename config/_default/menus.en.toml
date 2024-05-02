@@ -1,78 +1,53 @@
-# -- Main Menu --
-# The main menu is displayed in the header at the top of the page.
-# Acceptable parameters are name, pageRef, page, url, title, weight.
-# 
-# The simplest menu configuration is to provide:
-#   name = The name to be displayed for this menu link
-#   pageRef = The identifier of the page or section to link to
-#
-# By default the menu is ordered alphabetically. This can be
-# overridden by providing a weight value. The menu will then be
-# ordered by weight from lowest to highest.
-
+[[main]]
+none = "none"
 
 [[main]]
-  name = "Home"
-  pageRef = "/"
-  weight = 10
+name = "Home"
+pageRef = "/"
+identifier = "BIEPhK0TJV"
+weight = 1
 
 [[main]]
-  name = "About"
-  pageRef = "about"
-  weight = 11
+name = "About"
+pageRef = "/about"
+identifier = "uWJeay3VG8"
+weight = 2
+
+[[main]]
+name = "Projects"
+pageRef = "projects"
+identifier = "8NfIvq6D4C"
+weight = 3
+
+[[main]]
+name = "Academic"
+pageRef = "academic"
+identifier = "uJjKb2rFuO"
+weight = 4
 
 #[[main]]
-#  name = "Examples"
-#  weight = 20
+#name = "Posts"
+#pageRef = "posts"
+#identifier = "CsX5EYuCL2"
+#weight = 5
 
 [[main]]
-  name = "Projects"
-  pageRef = "projects"
-  weight = 20
+pre = "linkedin"
+url = "https://linkedin.com/in/geraldohomero"
+identifier = "eeoCMXECZk"
+weight = 7
 
 [[main]]
-  name = "Academic"
-  pageRef = "academic"
-  weight = 30
+pre = "github"
+url = "https://github.com/geraldohomero"
+identifier = "eeoCMXEfZk"
+weight = 7
 
-[[main]]
-  name = "Contact me"
-  pageRef = "contact"
-  weight = 40
+[[footer]]
+none = "none"
 
-#[[main]]
-#  name = "Posts"
-#  pageRef = "posts"
-#  weight = 90
-
-#[[main]]
-#  name = "Test"
-#  pageRef = "pagTest"
-#  weight = 1000
-
-[[main]]
-  identifier = "linkedin"
-  pre = "linkedin"
-  url = "https://linkedin.com/in/geraldohomero"
-  weight = 100
-
-[[main]]
-  identifier = "github"
-  pre = "github"
-  url = "https://github.com/geraldohomero"
-  weight = 400
-
-# -- Footer Menu --
-# The footer menu is displayed at the bottom of the page, just before
-# the copyright notice. Configure as per the main menu above.
-
-
- #[[footer]]
- #  name = "Tags"
- #  pageRef = "tags"
- #  weight = 10
-
- #[[footer]]
- #  name = "Authors"
- #  pageRef = "authors"
- #  weight = 20
+[[footer]]
+name = "tags"
+pageRef = "tags"
+identifier = "mYVU27jzZj"
+weight = 9999

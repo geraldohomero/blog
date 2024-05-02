@@ -1,0 +1,25 @@
+languageCode = "pt-br"
+languageName = "pt-br"
+weight = 1
+title = "Geraldo Homero >_"
+
+[params]
+displayName = "PT-BT"
+isoCode = "pt-br"
+rtl = false
+dateFormat = "2 January 2006"
+
+[author]
+name = "Geraldo Homero"
+headline = "Monitor Front-end @ PUC Minas  <br>  C# | .NET | JavaScript | React.js <br> "
+links = [
+  { linkedin = "https://www.linkedin.com/in/geraldohomero/" },
+  { github = "https://github.com/geraldohomero" },
+  { gitlab = "https://gitlab.com/geraldohomero" },
+  { orcid = "https://orcid.org/0000-0002-0002-0002"},
+  { mastodon = "https://mastodon.social/@geraldohomero"},
+  { twitter = "https://twitter.com/geraldohomero" },
+  { instagram = "https://www.instagram.com/geraldohomero/" },
+]
+bio = "**Desenvolvedor** | C# | .NET | JavaScript | React.js | Rust | Python <br> **Pesquisador** | História Digital | Humanidades Digitais | Análise de Dados"
+image = "geraldohomero.jpg"

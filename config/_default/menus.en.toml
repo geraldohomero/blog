@@ -47,7 +47,13 @@ weight = 7
 none = "none"
 
 [[footer]]
+name = "Posts"
+pageRef = "posts"
+identifier = "CsX5EYuCL2"
+weight = 2
+
+[[footer]]
 name = "tags"
 pageRef = "tags"
 identifier = "mYVU27jzZj"
-weight = 9999
+weight = 1

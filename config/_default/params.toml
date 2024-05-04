@@ -1,7 +1,7 @@
 colorScheme = "blowfish"
 defaultAppearance = "dark"
 autoSwitchAppearance = true
-enableSearch = true
+enableSearch = false
 enableCodeCopy = true
 disableImageOptimization = false
 disableTextInHeader = false

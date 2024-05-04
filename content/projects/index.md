@@ -26,7 +26,7 @@ tags: ["projects", "tech", "study"]
 **Technologies**: C#, .NET, ASP.NET Core, React.js, React Native, MongoDB, MongoDB Atlas, MongoDB Compass, RESTful API, Swagger, Postman, Visual Studio 2022, VSCode, Rider, Figma, Trello, Git, Github, NUnit, XUnit
 
 <details style="cursor:pointer"><summary>Preview</summary>
-  <p>No preview yet</p>
+  <img src="./img/MeiAMei.png"" style="border-radius:2%">
 </details>
 
 ***

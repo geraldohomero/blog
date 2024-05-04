@@ -1,10 +1,10 @@
 languageCode = "pt-br"
 languageName = "pt-br"
-weight = 1
+weight = 2
 title = "Geraldo Homero >_"
 
 [params]
-displayName = "PT-BT"
+displayName = "PT-BR"
 isoCode = "pt-br"
 rtl = false
 dateFormat = "2 January 2006"

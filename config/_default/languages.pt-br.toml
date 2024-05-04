@@ -4,7 +4,7 @@ weight = 2
 title = "Geraldo Homero >_"
 
 [params]
-displayName = "PT-BR"
+displayName = "Português"
 isoCode = "pt-br"
 rtl = false
 dateFormat = "2 January 2006"
@@ -16,8 +16,9 @@ links = [
   { linkedin = "https://www.linkedin.com/in/geraldohomero/" },
   { github = "https://github.com/geraldohomero" },
   { gitlab = "https://gitlab.com/geraldohomero" },
-  { orcid = "https://orcid.org/0000-0001-6686-7182"},
-  { mastodon = "https://mastodon.social/@geraldohomero"},
+  { orcid = "https://orcid.org/0000-0001-6686-7182" },
+  { researchgate = "https://www.researchgate.net/profile/Geraldo-Couto-Neto" },
+  { mastodon = "https://mastodon.social/@geraldohomero" },
   { twitter = "https://twitter.com/geraldohomero" },
   { instagram = "https://www.instagram.com/geraldohomero/" },
 ]

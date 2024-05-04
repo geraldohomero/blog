@@ -4,7 +4,7 @@ weight = 1
 title = "Geraldo Homero >_"
 
 [params]
-displayName = "EN"
+displayName = "English"
 isoCode = "en"
 rtl = false
 dateFormat = "2 January 2006"

@@ -25,12 +25,6 @@ pageRef = "academic"
 identifier = "uJjKb2rFuO"
 weight = 4
 
-#[[main]]
-#name = "Posts"
-#pageRef = "posts"
-#identifier = "CsX5EYuCL2"
-#weight = 5
-
 [[main]]
 pre = "linkedin"
 url = "https://linkedin.com/in/geraldohomero"
@@ -41,13 +35,13 @@ weight = 7
 pre = "github"
 url = "https://github.com/geraldohomero"
 identifier = "eeoCMXEfZk"
-weight = 7
+weight = 8
 
 [[footer]]
 none = "none"
 
 [[footer]]
-name = "Posts"
+name = "posts"
 pageRef = "posts"
 identifier = "CsX5EYuCL2"
 weight = 2

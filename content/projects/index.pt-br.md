@@ -5,19 +5,6 @@ draft: false
 description: "a description"
 tags: ["projects", "tech", "study"]
 ---
-
-## WorstGameEver
-
-{{< github repo="geraldohomero/WorstGameEver" >}}
-
-**Tecnologias**: JavaScript, Node.js, React.js, Next.js, MySQL, DBeaver, Github, VSCode, REST
-
-<details style="cursor:pointer"><summary>Visualizar</summary>
-  <img src="./img/wge.png"" style="border-radius:2%">
-</details>
-
-***
-
 ## PUC Minas - Mei a Mei (Eixo 4)
 ***2024.1***
 
@@ -27,6 +14,17 @@ tags: ["projects", "tech", "study"]
 
 <details style="cursor:pointer"><summary>Visualizar</summary>
   <img src="./img/MeiAMei.png"" style="border-radius:2%">
+</details>
+
+***
+## WorstGameEver
+
+{{< github repo="geraldohomero/WorstGameEver" >}}
+
+**Tecnologias**: JavaScript, Node.js, React.js, Next.js, MySQL, DBeaver, Github, VSCode, REST
+
+<details style="cursor:pointer"><summary>Visualizar</summary>
+  <img src="./img/wge.png"" style="border-radius:2%">
 </details>
 
 ***

@@ -13,8 +13,7 @@ This is a list of the best free and open source software alternatives for securi
 Feel free to [contribute](https://github.com/geraldohomero/best-foss-alternatives/blob/main/CONTRIBUTING.md) to the list!
 
 > NOS = Not Open Source
-> 
-> Ref = Refer a friend, affiliate link
+
 ***
 ## Authenticators
 - [AndOPT](https://github.com/andOTP/andOTP) - Android
@@ -42,7 +41,7 @@ Feel free to [contribute](https://github.com/geraldohomero/best-foss-alternative
 - [Nextcloud Calendar](https://nextcloud.com)
 - [Posteo](https://posteo.de/en)
 - [Proton Calendar](https://proton.me/calendar)
-- [Tuta](https://tuta.com) - [Ref](https://app.tuta.com/signup?ref=M2JORzJzRGc)
+- [Tuta](https://tuta.com)
 
 ## Cloud and Sync
 - [Cryptomator](https://cryptomator.org/)
@@ -77,7 +76,7 @@ Feel free to [contribute](https://github.com/geraldohomero/best-foss-alternative
 - [Posteo](https://posteo.de/en)
 - [ProtonMail](https://proton.me)
 - [RiseUp](https://riseup.net)
-- [Tuta](https://tutanota.com) - [Ref](https://app.tuta.com/signup?ref=M2JORzJzRGc)
+- [Tuta](https://tutanota.com)
 
 ## Image editors
 - [GIMP](https://www.gimp.org/)
@@ -143,6 +142,7 @@ Feel free to [contribute](https://github.com/geraldohomero/best-foss-alternative
 - [YaCy](https://yacy.net/)
 
 ## To-do and notes
+- [AppFlowy](https://www.appflowy.io/) - Notion Alternative
 - [CherryTree](https://www.giuspen.com/cherrytree/)
 - [Joplin](https://joplinapp.org/)
 - [OpenProject](https://www.openproject.org/)
@@ -168,7 +168,7 @@ Feel free to [contribute](https://github.com/geraldohomero/best-foss-alternative
 - [Private Internet Access](https://www.privateinternetaccess.com/)
 - [Proton VPN](https://protonvpn.com/)
 - [RiseUp VPN](https://riseup.net/vpn)
-- [Surfshark](https://surfshark.com/) - [Ref](https://surfshark.club/friend/U2Z3SH5u) - NOS 
+- [Surfshark](https://surfshark.com/) - NOS 
 - [Windscribe](https://windscribe.com/)
 
 > 

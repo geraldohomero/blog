@@ -13,8 +13,7 @@ Esta é uma lista dos melhores softwares livres e de código aberto para seguran
 Sinta-se à vontade para [contribuir](https://github.com/geraldohomero/best-foss-alternatives/blob/main/CONTRIBUTING.md) para a lista!
 
 > NOS = Não de Código Aberto
-> 
-> Ref = Indique um amigo, link de afiliado
+
 ***
 ## Autenticadores
 - [AndOPT](https://github.com/andOTP/andOTP) - Android
@@ -42,7 +41,7 @@ Sinta-se à vontade para [contribuir](https://github.com/geraldohomero/best-foss
 - [Nextcloud Calendar](https://nextcloud.com)
 - [Posteo](https://posteo.de/en)
 - [Proton Calendar](https://proton.me/calendar)
-- [Tuta](https://tuta.com) - [Ref](https://app.tuta.com/signup?ref=M2JORzJzRGc)
+- [Tuta](https://tuta.com)
 
 ## Nuvem e Sincronização
 - [Cryptomator](https://cryptomator.org/)
@@ -77,7 +76,7 @@ Sinta-se à vontade para [contribuir](https://github.com/geraldohomero/best-foss
 - [Posteo](https://posteo.de/en)
 - [ProtonMail](https://proton.me)
 - [RiseUp](https://riseup.net)
-- [Tuta](https://tutanota.com) - [Ref](https://app.tuta.com/signup?ref=M2JORzJzRGc)
+- [Tuta](https://tutanota.com)
 
 ## Editores de Imagem
 - [GIMP](https://www.gimp.org/)
@@ -143,6 +142,7 @@ Sinta-se à vontade para [contribuir](https://github.com/geraldohomero/best-foss
 - [YaCy](https://yacy.net/)
 
 ## Tarefas e Anotações
+- [AppFlowy](https://www.appflowy.io/) - Notion Alternative
 - [CherryTree](https://www.giuspen.com/cherrytree/)
 - [Joplin](https://joplinapp.org/)
 - [OpenProject](https://www.openproject.org/)
@@ -168,7 +168,7 @@ Sinta-se à vontade para [contribuir](https://github.com/geraldohomero/best-foss
 - [Private Internet Access](https://www.privateinternetaccess.com/)
 - [Proton VPN](https://protonvpn.com/)
 - [RiseUp VPN](https://riseup.net/vpn)
-- [Surfshark](https://surfshark.com/) - [Ref](https://surfshark.club/friend/U2Z3SH5u) - NOS 
+- [Surfshark](https://surfshark.com/) - NOS 
 - [Windscribe](https://windscribe.com/)
 
 > 

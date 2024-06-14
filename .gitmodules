@@ -7,5 +7,8 @@
 	url = https://github.com/geraldohomero/geraldohomero.github.io.git
 [submodule "public"]
 	path = public
-	url = https://github.com/geraldohomero/geraldohomero.github.io
+	url = https://github.com/geraldohomero/geraldohomero.github.io.git
 	branch = main
+[submodule "public/geraldohomero.github.io"]
+	path = public/geraldohomero.github.io
+	url = https://github.com/geraldohomero/geraldohomero.github.io

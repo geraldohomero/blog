@@ -46,3 +46,19 @@ Saída:
 Créditos para [Kameid](https://www.reddit.com/r/linux4noobs/comments/i6skza/installing_zotero_and_using_it_with_libreoffice/)
 
 [Post do Zotero](https://www.zotero.org/support/word_processor_plugin_troubleshooting) sobre o processo de solução de problemas do plugin do LibreOffice.
+
+***
+
+## **Bônus caso não tenha funcionado**
+
+1. Navegue até os arquivos do aplicativo Zotero:
+   - Vá para o diretório onde o Zotero está instalado e abra `extensions/zoteroOpenOfficeIntegration@zotero.org/install` (Zotero 6) ou `integration/libreoffice` (Zotero 7)
+       - Caso use Flatpak: `~/.local/share/flatpak/app/org.zotero.Zotero/x86_64/stable/.../files/share/zotero/extensions/zoteroOpenOfficeIntegration@zotero.org/install`
+
+  - Ou procure por `Zotero_OpenOffice_Integration.oxt` no seu gerenciador de arquivos (Nautilus, Dolphin...)
+  
+   ![image](https://github.com/geraldohomero/Zotero-LibreOffice-Linux/assets/70844369/e962db11-271d-4091-ba88-81692de66710)
+
+2. Dê um duplo clique no arquivo Zotero_OpenOffice_Integration.oxt para instalá-lo. Ou, vá em Ferramentas → Gerenciador de Extensões no LibreOffice, clique em Adicionar e selecione o .oxt da pasta acima.
+
+[Post no site do Zotero](https://www.zotero.org/support/word_processor_plugin_manual_installation)

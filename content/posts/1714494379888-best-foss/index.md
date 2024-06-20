@@ -15,7 +15,14 @@ Feel free to [contribute](https://github.com/geraldohomero/best-foss-alternative
 > NOS = Not Open Source
 
 ***
+## AI
+- [HuggingChat](https://huggingface.co/chat/)
+- [Llama AI](https://ollama.com/)
+- [Private GPT](https://github.com/zylon-ai/private-gpt)
+- [Text Generation WebUI](https://github.com/oobabooga/text-generation-webui/)
+
 ## Authenticators
+- [2FAS Auth](https://2fas.com/) - iOS / Android 
 - [AndOPT](https://github.com/andOTP/andOTP) - Android
 - [Authy](https://authy.com/) - NOS
 - [Bitwarden](https://bitwarden.com/) - Paid version
@@ -78,6 +85,12 @@ Feel free to [contribute](https://github.com/geraldohomero/best-foss-alternative
 - [RiseUp](https://riseup.net)
 - [Tuta](https://tutanota.com)
 
+## Gaming
+- [Bottles](https://usebottles.com/)
+- [Heroic Games Launcher](https://heroicgameslauncher.com/)
+- [HydraLauncher](https://github.com/hydralauncher/hydra)
+- [Lutris](https://lutris.net/)
+
 ## Image editors
 - [GIMP](https://www.gimp.org/)
 - [Inkscape](https://inkscape.org/)
@@ -127,7 +140,8 @@ Feel free to [contribute](https://github.com/geraldohomero/best-foss-alternative
 - [KeepassXC](https://keepassxc.org/)
 - [Proton Pass](https://proton.me/pass)
 
-## Research Managers
+## Research Related Software
+- [CffInit](https://citation-file-format.github.io/cff-initializer-javascript)
 - [JabRef](https://www.jabref.org/)
 - [Qiqqa](https://github.com/jimmejardine/qiqqa-open-source)
 - [Zotero](https://zotero.org)
@@ -187,9 +201,9 @@ I suggest checking out [Techlore's VPN Toolkit](https://techlore.tech/vpn/toolki
 
 ***
 
-- [privacytools.io](https://www.privacytools.io/)
-- [alternativeto.net](https://alternativeto.net/)
-- [restoreprivacy.com](https://restoreprivacy.com/)
 - [techlore.tech](https://techlore.tech/)
+- [restoreprivacy.com](https://restoreprivacy.com/)
+- [alternativeto.net](https://alternativeto.net/)
+- [privacytools.io](https://www.privacytools.io/)
 
 This list is under construction!

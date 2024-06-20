@@ -15,7 +15,14 @@ Sinta-se à vontade para [contribuir](https://github.com/geraldohomero/best-foss
 > NOS = Não de Código Aberto
 
 ***
+## IA
+- [HuggingChat](https://huggingface.co/chat/)
+- [Llama AI](https://ollama.com/)
+- [Private GPT](https://github.com/zylon-ai/private-gpt)
+- [Text Generation WebUI](https://github.com/oobabooga/text-generation-webui/)
+
 ## Autenticadores
+- [2FAS Auth](https://2fas.com/) - iOS / Android 
 - [AndOPT](https://github.com/andOTP/andOTP) - Android
 - [Authy](https://authy.com/) - NOS
 - [Bitwarden](https://bitwarden.com/) - Versão paga
@@ -78,6 +85,12 @@ Sinta-se à vontade para [contribuir](https://github.com/geraldohomero/best-foss
 - [RiseUp](https://riseup.net)
 - [Tuta](https://tutanota.com)
 
+## Gaming
+- [Bottles](https://usebottles.com/)
+- [Heroic Games Launcher](https://heroicgameslauncher.com/)
+- [HydraLauncher](https://github.com/hydralauncher/hydra)
+- [Lutris](https://lutris.net/)
+
 ## Editores de Imagem
 - [GIMP](https://www.gimp.org/)
 - [Inkscape](https://inkscape.org/)
@@ -127,7 +140,8 @@ Sinta-se à vontade para [contribuir](https://github.com/geraldohomero/best-foss
 - [KeepassXC](https://keepassxc.org/)
 - [Proton Pass](https://proton.me/pass)
 
-## Gerenciadores de Pesquisa
+## Gerenciadores de Pesquisa e Referências
+- [CffInit](https://citation-file-format.github.io/cff-initializer-javascript)
 - [JabRef](https://www.jabref.org/)
 - [Qiqqa](https://github.com/jimmejardine/qiqqa-open-source)
 - [Zotero](https://zotero.org)
@@ -187,9 +201,9 @@ Sugiro conferir o [Techlore's VPN Toolkit](https://techlore.tech/vpn/toolkit) pa
 
 ***
 
-- [privacytools.io](https://www.privacytools.io/)
-- [alternativeto.net](https://alternativeto.net/)
-- [restoreprivacy.com](https://restoreprivacy.com/)
 - [techlore.tech](https://techlore.tech/)
+- [restoreprivacy.com](https://restoreprivacy.com/)
+- [alternativeto.net](https://alternativeto.net/)
+- [privacytools.io](https://www.privacytools.io/)
 
 Esta lista está em construção!

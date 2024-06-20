@@ -2,7 +2,7 @@
 title: "Projects"
 date: 2024-04-29
 draft: false
-description: "a description"
+description: "projects"
 tags: ["projects", "tech", "study"]
 ---
 

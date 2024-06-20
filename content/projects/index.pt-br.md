@@ -2,7 +2,7 @@
 title: "Projetos"
 date: 2024-04-29
 draft: false
-description: "a description"
+description: "Projetos"
 tags: ["projects", "tech", "study"]
 ---
 ## PUC Minas - Mei a Mei (Eixo 4)
@@ -15,7 +15,7 @@ tags: ["projects", "tech", "study"]
 - [Demo](https://meiameipuc.azurewebsites.net/)
 
 <details style="cursor:pointer"><summary>Visualizar</summary>
-  <img src="./img/MeiAMei.png" style="border-radius:2%">
+  <img src="./img/PUCMeiAMei.png" style="border-radius:2%">
 </details>
 
 ***

@@ -16,7 +16,7 @@ tags: ["projects", "tech", "study"]
 - [Demo](https://meiameipuc.azurewebsites.net/)
 
 <details style="cursor:pointer"><summary>Preview</summary>
-  <img src="./img/MeiAMei.png" style="border-radius:2%">
+  <img src="./img/PUCMeiAMei.png" style="border-radius:2%">
 </details>
 
 ***

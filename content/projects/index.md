@@ -7,34 +7,27 @@ tags: ["projects", "tech", "study"]
 ---
 
 ## PUC-Minas - "Mei a Mei" Project 
-***First Semester of 2024***
+{{< alert "star" >}}
+**Featured Project** - Second Year
+{{< /alert >}}
+>*First Semester of 2024*
 
 {{< github repo="ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-dad-t3-mei" >}}
+
+{{< youtubeLite id="uXs_BRr0ye4" label="Demo Video" >}}
 
 **Technologies**: C#, .NET, ASP.NET Core, React.js, React Native, MongoDB, MongoDB Atlas, MongoDB Compass, RESTful API, Swagger, Postman, Visual Studio 2022, VSCode, Rider, Figma, Trello, Git, Github, NUnit, XUnit
 
 - [Demo](https://meiameipuc.azurewebsites.net/)
 
-<details style="cursor:pointer"><summary>Preview</summary>
+<details style="cursor:pointer" open><summary>Preview</summary>
   <img src="./img/PUCMeiAMei.png" style="border-radius:2%">
 </details>
 
 ***
 
-## WorstGameEver
-
-{{< github repo="geraldohomero/WorstGameEver" >}}
-
-**Technologies**: JavaScript, Node.js, React.js, Next.js, MySQL, DBeaver, Github, VSCode, REST
-
-<details style="cursor:pointer"><summary>Preview</summary>
-  <img src="./img/wge.png" style="border-radius:2%">
-</details>
-
-***
-
 ## PUC-Minas - TaskBook Project 
-***Second Semester of 2023***
+*Second Semester of 2023*
 
 {{< github repo="ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t3-time2-app" >}}
 
@@ -58,7 +51,7 @@ tags: ["projects", "tech", "study"]
 ***
 
 ## PUC-Minas - University Discount Project
-***First Semester of 2023***
+*First Semester of 2023*
 
 {{< github repo="ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t04-g4-banco-universitario" >}}
 
@@ -83,7 +76,10 @@ tags: ["projects", "tech", "study"]
 ***
 
 ## PUC-Minas - Bars and Restaurants Project 
-***Second Semester of 2022***
+{{< alert "star" >}}
+**Featured Project** - First Year
+{{< /alert >}}
+>*Second Semester of 2022*
 
 {{< github repo="ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t9-bares-restaurantes" >}}
 
@@ -99,8 +95,6 @@ tags: ["projects", "tech", "study"]
 ## Others
 
 {{< github repo="geraldohomero/best-foss-alternatives" >}}
-<br>
-{{< github repo="geraldohomero/regex" >}}
 <br>
 {{< github repo="geraldohomero/post-install-pop-os" >}}
 <br>

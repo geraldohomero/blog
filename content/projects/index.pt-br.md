@@ -6,33 +6,28 @@ description: "Projetos"
 tags: ["projects", "tech", "study"]
 ---
 ## PUC Minas - Mei a Mei (Eixo 4)
-***2024.1***
+{{< alert "star" >}}
+**Projeto Destaque** - Eixo 4
+{{< /alert >}}
+>*2024.1*
+
 
 {{< github repo="ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-dad-t3-mei" >}}
+
+{{< youtubeLite id="uXs_BRr0ye4" label="Demo Video" >}}
 
 **Tecnologias**: C#, .NET, ASP.NET Core, React.js, React Native, MongoDB, MongoDB Atlas, MongoDB Compass, RESTful API, Swagger, Postman, Visual Studio 2022, VSCode, Rider, Figma, Trello, Git, Github, NUnit, XUnit
 
 - [Demo](https://meiameipuc.azurewebsites.net/)
 
-<details style="cursor:pointer"><summary>Visualizar</summary>
+<details style="cursor:pointer" open><summary>Visualizar</summary>
   <img src="./img/PUCMeiAMei.png" style="border-radius:2%">
-</details>
-
-***
-## WorstGameEver
-
-{{< github repo="geraldohomero/WorstGameEver" >}}
-
-**Tecnologias**: JavaScript, Node.js, React.js, Next.js, MySQL, DBeaver, Github, VSCode, REST
-
-<details style="cursor:pointer"><summary>Visualizar</summary>
-  <img src="./img/wge.png" style="border-radius:2%">
 </details>
 
 ***
 
 ## PUC Minas - TaskBook (Eixo 3)
-***2023.2***
+*2023.2*
 
 {{< github repo="ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t3-time2-app" >}}
 
@@ -56,7 +51,7 @@ tags: ["projects", "tech", "study"]
 ***
 
 ## PUC Minas - Desconto Universitário (Eixo 2)
-***2023.1***
+*2023.1*
 
 {{< github repo="ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t04-g4-banco-universitario" >}}
 
@@ -81,8 +76,10 @@ tags: ["projects", "tech", "study"]
 ***
 
 ## PUC Minas - Bares e Restaurantes (Eixo 1)
-***2022.2***
->Projeto destaque do semestre
+{{< alert "star" >}}
+**Projeto Destaque** - Eixo 1
+{{< /alert >}}
+>*2022.2*
 
 {{< github repo="ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t9-bares-restaurantes" >}}
 
@@ -98,8 +95,6 @@ tags: ["projects", "tech", "study"]
 ## Outros
 
 {{< github repo="geraldohomero/best-foss-alternatives" >}}
-<br>
-{{< github repo="geraldohomero/regex" >}}
 <br>
 {{< github repo="geraldohomero/post-install-pop-os" >}}
 <br>

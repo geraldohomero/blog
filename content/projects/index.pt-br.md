@@ -5,7 +5,12 @@ draft: false
 description: "Projetos"
 tags: ["projects", "tech", "study"]
 ---
-## PUC Minas - Mei a Mei (Eixo 4)
+
+## PUC Minas
+
+São projetos desenvolvidos durante o curso de Análise e Desenvolvimento de Sistemas na PUC Minas. Em cada semestre, os alunos são desafiados a desenvolver um projeto em grupo que aborde os conhecimentos adquiridos em cada semestre. Essa abordagem **prática** é uma forma de **consolidar o aprendizado** e preparar os alunos para o mercado de trabalho. Com isso, os alunos têm a oportunidade de desenvolver **projetos reais**, com prazos e entregas definidos, além de **trabalhar em equipe** e aprender a lidar com **desafios**.
+
+### Mei a Mei (Eixo 4)
 {{< alert "star" >}}
 **Projeto Destaque** - Eixo 4
 {{< /alert >}}
@@ -26,7 +31,7 @@ tags: ["projects", "tech", "study"]
 
 ***
 
-## PUC Minas - TaskBook (Eixo 3)
+### TaskBook (Eixo 3)
 *2023.2*
 
 {{< github repo="ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t3-time2-app" >}}
@@ -39,18 +44,7 @@ tags: ["projects", "tech", "study"]
 
 ***
 
-## CalcFlex
-
-{{< github repo="geraldohomero/CalcFlex" >}}
-
-**Tecnologias**: JavaScript, React Native, Expo, JSON Server, VSCode, SQLite, REST
-<details style="cursor:pointer"><summary>Visualizar</summary>
-  <img src="./img/CalcFlex.png" style="border-radius:2%">
-</details>
-
-***
-
-## PUC Minas - Desconto Universitário (Eixo 2)
+### Desconto Universitário (Eixo 2)
 *2023.1*
 
 {{< github repo="ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t04-g4-banco-universitario" >}}
@@ -63,19 +57,7 @@ tags: ["projects", "tech", "study"]
 
 ***
 
-## Consumo de Veículos
-
-{{< github repo="geraldohomero/app-web-backend-dotnet5-vs2019" >}}
-
-**Tecnologias**: ASP.NET Core (MVC), C#, Visual Studio 2022, HTML, CSS, Bootstrap, EntityFramework 5.0.17, BCrypt, Microsoft SQL Server (com Data Annotations)
-
-<details style="cursor:pointer"><summary>Visualizar</summary>
-  <img src="./img/Fuel.png" style="border-radius:2%">
-</details>
-
-***
-
-## PUC Minas - Bares e Restaurantes (Eixo 1)
+### Bares e Restaurantes (Eixo 1)
 {{< alert "star" >}}
 **Projeto Destaque** - Eixo 1
 {{< /alert >}}
@@ -92,7 +74,8 @@ tags: ["projects", "tech", "study"]
 </details>
 
 ***
-## Outros
+
+## Projetos pessoais
 
 {{< github repo="geraldohomero/best-foss-alternatives" >}}
 <br>
@@ -104,14 +87,19 @@ tags: ["projects", "tech", "study"]
 <br>
 {{< github repo="geraldohomero/iriunwebcam-linux-error" >}}
 
-### Websites:
+### Websites
 
  - [Janaína Di Lourenço](https://janalourenci.github.io) | Feito com [Hugo](https://gohugo.io) e [Hallo](https://github.com/EmielH/hallo-hugo/) | [Github Repo](https://github.com/janalourenci/janalourenci.github.io)
 
-## Design
+### Design
 
 - [Pop!_OS Wallpaper](https://www.pling.com/p/1770949/)
-<details style="cursor:pointer"><summary>Visualizar</summary>
+<details style="cursor:pointer" open><summary>Visualizar</summary>
   <img src="./img/pop-wallpaper-ultrawide.png">
 </details>
 
+***
+
+{{< typeit >}}
+Mais projetos em breve...
+{{< /typeit >}}

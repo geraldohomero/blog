@@ -6,7 +6,11 @@ description: "projects"
 tags: ["projects", "tech", "study"]
 ---
 
-## PUC-Minas - "Mei a Mei" Project 
+## PUC Minas
+
+These are projects developed during the Systems Analysis and Development course at PUC Minas. Each semester, students are challenged to develop a group project that addresses the knowledge acquired in each semester. This **practical** approach is a way to **consolidate learning** and prepare students for the job market. With this, students have the opportunity to develop **real projects**, with defined deadlines and deliveries, in addition to **working in a team** and learning to **deal with challenges**.
+
+### "Mei a Mei" Project 
 {{< alert "star" >}}
 **Featured Project** - Second Year
 {{< /alert >}}
@@ -26,7 +30,7 @@ tags: ["projects", "tech", "study"]
 
 ***
 
-## PUC-Minas - TaskBook Project 
+### TaskBook Project 
 *Second Semester of 2023*
 
 {{< github repo="ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t3-time2-app" >}}
@@ -39,18 +43,7 @@ tags: ["projects", "tech", "study"]
 
 ***
 
-## CalcFlex - Fuel Manager
-
-{{< github repo="geraldohomero/CalcFlex" >}}
-
-**Technologies**: JavaScript, React Native, Expo, JSON Server, VSCode, SQLite, REST
-<details style="cursor:pointer"><summary>Preview</summary>
-  <img src="./img/CalcFlex.png" style="border-radius:2%">
-</details>
-
-***
-
-## PUC-Minas - University Discount Project
+### University Discount Project
 *First Semester of 2023*
 
 {{< github repo="ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t04-g4-banco-universitario" >}}
@@ -63,19 +56,7 @@ tags: ["projects", "tech", "study"]
 
 ***
 
-## Fuel Consumption
-
-{{< github repo="geraldohomero/app-web-backend-dotnet5-vs2019" >}}
-
-**Technologies**: ASP.NET Core (MVC), C#, Visual Studio 2022, HTML, CSS, Bootstrap, EntityFramework 5.0.17, BCrypt, Microsoft SQL Server (com Data Annotations)
-
-<details style="cursor:pointer"><summary>Preview</summary>
-  <img src="./img/Fuel.png" style="border-radius:2%">
-</details>
-
-***
-
-## PUC-Minas - Bars and Restaurants Project 
+### Pubs and Restaurants Project 
 {{< alert "star" >}}
 **Featured Project** - First Year
 {{< /alert >}}
@@ -92,7 +73,7 @@ tags: ["projects", "tech", "study"]
 </details>
 
 ***
-## Others
+## Personal Projects
 
 {{< github repo="geraldohomero/best-foss-alternatives" >}}
 <br>
@@ -104,14 +85,19 @@ tags: ["projects", "tech", "study"]
 <br>
 {{< github repo="geraldohomero/iriunwebcam-linux-error" >}}
 
-### Websites:
+### Websites
 
  - [Janaína Di Lourenço](https://janalourenci.github.io) | Made with [Hugo](https://gohugo.io) and [Hallo](https://github.com/EmielH/hallo-hugo/) | [Github Repo](https://github.com/janalourenci/janalourenci.github.io)
 
-## Design
+### Design
 
 - [Pop!_OS Wallpaper](https://www.pling.com/p/1770949/)
-<details style="cursor:pointer"><summary>Preview</summary>
+<details style="cursor:pointer" open><summary>Preview</summary>
   <img src="./img/pop-wallpaper-ultrawide.png">
 </details>
 
+***
+
+{{< typeit >}}
+More projects coming soon...
+{{< /typeit >}}

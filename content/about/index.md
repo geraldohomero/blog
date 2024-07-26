@@ -36,7 +36,7 @@ In 2022, I embarked on my journey in Web Development at PUC Minas, diligently ho
                     <li>SQL | MySQL | SQLServer | SQLite</li>
                     <li>NoSQL | MongoDB</li>
                     <li>Git | Github | Gitlab | Bitbucket</li>
-                    <li>AI | Llama | Gemini</li>
+                    <li>AI | Llama | Gemini | GPT4All</li>
                     <li>Python</li>
                     <li>Rust</li>
                 </ul>
@@ -162,9 +162,9 @@ In 2022, I embarked on my journey in Web Development at PUC Minas, diligently ho
 ### **Peer tutor (PUC Minas)** 
 ***Mar. 2023 - present***
 
-Scholarship TA holder for the Front-end Web Development and Front-end Application Development Project disciplines of the Systems Analysis and Development course at PUC Minas
+Teacher Assistant for the courses: Application Development Project, Front-end Web Development, Git and Mobile Development with React Native.
 
-**Skills**: Software development · System development · JavaScript · HTML · CSS · Bootstrap · Front-end · Software Eng. · Team work · Problem solving · Support
+**Skills**: Software development · System development · React · React Native · Expo · JavaScript · HTML · CSS · Bootstrap · Front-end · Software Eng. · Git · Team work · Problem solving · Support
 
 ### **Data Analyst (Tristão - Electrical Panels)** 
 ***May 2023 - Nov. 2023***

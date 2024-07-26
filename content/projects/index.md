@@ -5,12 +5,73 @@ draft: false
 description: "projects"
 tags: ["projects", "tech", "study"]
 ---
+<head>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+  <style>
+    /* Modal styles */
+    .modal {
+      display: none;
+      position: fixed;
+      z-index: 1;
+      left: 0;
+      top: 0;
+      width: 100%;
+      height: 100%;
+      overflow: auto;
+      background-color: rgba(0,0,0,0.5);
+      backdrop-filter: blur(5px);
+    }
+    .modal-content {
+      background-color: #1f2d4b;
+      margin: 10% auto;
+      padding: 20px;
+      width: 50%;
+      border-radius: 8px; /
+    }
+    .close {
+      color: #aaa;
+      float: right;
+      font-size: 28px;
+      font-weight: bold;
+    }
+    .close:hover,
+    .close:focus {
+      color: gray;
+      text-decoration: none;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <script>
+    // Script to handle modal display
+    window.onclick = function(event) {
+      var modal = document.getElementById('meiModal');
+      if (event.target == modal) {
+        modal.style.display = "none";
+      }
+    }
+    // Script to handle closing modal with Esc key
+    document.onkeydown = function(event) {
+      var modal = document.getElementById('meiModal');
+      if (event.key === "Escape") {
+        modal.style.display = "none";
+      }
+    }
+  </script>
+</body>
 
 ## PUC Minas
 
 These are projects developed during the Systems Analysis and Development course at PUC Minas. Each semester, students are challenged to develop a group project that addresses the knowledge acquired in each semester. This **practical** approach is a way to **consolidate learning** and prepare students for the job market. With this, students have the opportunity to develop **real projects**, with defined deadlines and deliveries, in addition to **working in a team** and learning to **deal with challenges**.
 
-### "Mei a Mei" Project 
+<div style="display: flex; gap: 10px; align-items: center;">
+
+  ### "Mei a Mei" 
+  <a href="javascript:void(0);" onclick="document.getElementById('meiModal').style.display='block'"><i class="fas fa-info-circle" title="Click for more information about MEI"></i></a>
+
+</div>
+
 {{< alert "star" >}}
 **Featured Project** - Second Year
 {{< /alert >}}
@@ -28,9 +89,21 @@ These are projects developed during the Systems Analysis and Development course 
   <img src="./img/PUCMeiAMei.png" style="border-radius:2%">
 </details>
 
+<!-- The Modal -->
+<div id="meiModal" class="modal">
+  <div class="modal-content">
+    <span class="close" onclick="document.getElementById('meiModal').style.display='none'">&times;</span>
+    <h2>
+      <i class="fas fa-info-circle" ></i>
+      What is MEI?
+      </h2>
+      <p>MEI stands for Microempreendedor Individual (Individual Microentrepreneur). It is a type of business entity in Brazil designed for small business owners who want to formalize their business activities. MEIs benefit from simplified tax obligations and reduced bureaucracy.</p>
+  </div>
+</div>
+
 ***
 
-### TaskBook Project 
+### TaskBook 
 *Second Semester of 2023*
 
 {{< github repo="ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t3-time2-app" >}}
@@ -43,7 +116,7 @@ These are projects developed during the Systems Analysis and Development course 
 
 ***
 
-### University Discount Project
+### University Discount
 *First Semester of 2023*
 
 {{< github repo="ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t04-g4-banco-universitario" >}}
@@ -56,7 +129,7 @@ These are projects developed during the Systems Analysis and Development course 
 
 ***
 
-### Pubs and Restaurants Project 
+### Pubs and Restaurants 
 {{< alert "star" >}}
 **Featured Project** - First Year
 {{< /alert >}}

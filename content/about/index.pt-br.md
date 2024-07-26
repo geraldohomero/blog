@@ -34,7 +34,7 @@ Em 2018, migrei completamente para o Linux e não me arrependo! Com o Linux, apr
                     <li>SQL | MySQL | SQLServer | SQLite</li>
                     <li>NoSQL | MongoDB</li>
                     <li>Git | Github | Gitlab | Bitbucket</li>
-                    <li>I.A. | Llama | Gemini</li>
+                    <li>I.A. | Llama | Gemini | GPT4All</li>
                     <li>Python</li>
                     <li>Rust</li>
                 </ul>
@@ -161,9 +161,9 @@ Em 2018, migrei completamente para o Linux e não me arrependo! Com o Linux, apr
 ### **Monitor (PUC Minas)** 
 ***mar. 2023 - atualmente***
 
-Monitor da disciplina Desenvolvimento web Front-end e de Projeto de desenvolvimento de aplicação Front-end do curso de Análise e Desenvolvimento de Sistemas.
+Monitor das disciplinas: Projeto de desenvolvimento de aplicações, Desenvolvimento web Front-end, Git e Desenvolvimento Mobile com React Native.
 
-**Habilidades**: Desenvolvimento de software · Desenvolvimento de sistemas · JavaScript · HTML · CSS · Bootstrap · Desenvolvimento de front-end · Engenharia de sistemas de software · Trabalho em equipe · Resolução de problemas · Suporte
+**Habilidades**: Desenvolvimento de software · Desenvolvimento de sistemas · React · React Native · Expo · JavaScript · HTML · CSS · Bootstrap · Desenvolvimento de front-end · Engenharia de sistemas de software · Git · Trabalho em equipe · Resolução de problemas · Suporte
 
 ### **Analista de Dados (Tristão - Painéis Elétricos)** 
 ***maio 2023 - nov. 2023***

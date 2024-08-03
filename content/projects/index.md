@@ -7,42 +7,7 @@ tags: ["projects", "tech", "study"]
 ---
 <head>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-  <style>
-    /* Modal styles */
-    .modal {
-      display: none;
-      position: fixed;
-      z-index: 1;
-      left: 0;
-      top: 0;
-      width: 100%;
-      height: 100%;
-      overflow: auto;
-      background-color: rgba(0,0,0,0.5);
-      backdrop-filter: blur(5px);
-    }
-    .modal-content {
-      background-color: #1f2d4b;
-      margin: 10% auto;
-      padding: 20px;
-      width: 50%;
-      border-radius: 8px; /
-    }
-    .close {
-      color: #aaa;
-      float: right;
-      font-size: 28px;
-      font-weight: bold;
-    }
-    .close:hover,
-    .close:focus {
-      color: gray;
-      text-decoration: none;
-      cursor: pointer;
-    }
-  </style>
 </head>
-<body>
   <script>
     // Script to handle modal display
     window.onclick = function(event) {
@@ -59,7 +24,6 @@ tags: ["projects", "tech", "study"]
       }
     }
   </script>
-</body>
 
 ## PUC Minas
 
@@ -67,8 +31,11 @@ These are projects developed during the Systems Analysis and Development course 
 
 <div style="display: flex; gap: 10px; align-items: center;">
 
-  ### "Mei a Mei" 
-  <a href="javascript:void(0);" onclick="document.getElementById('meiModal').style.display='block'"><i class="fas fa-info-circle" title="Click for more information about MEI"></i></a>
+### "Mei a Mei" 
+
+<button onclick="document.getElementById('meiModal').style.display='block'">
+  <i class="fas fa-info-circle" title="Click for more information about MEI"></i>
+</button>
 
 </div>
 
@@ -156,7 +123,7 @@ These are projects developed during the Systems Analysis and Development course 
 <br>
 {{< github repo="geraldohomero/Zotero-LibreOffice-Linux" >}}
 <br>
-{{< github repo="geraldohomero/iriunwebcam-linux-error" >}}
+{{< github repo="geraldohomero/app-masters-elevenlabs-project" >}}
 
 ### Websites
 

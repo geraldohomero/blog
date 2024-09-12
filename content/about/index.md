@@ -48,6 +48,33 @@ In 2022, I embarked on my journey in Web Development at PUC Minas, diligently ho
 <table style="width: 50%;">
     <thead>
         <tr>
+            <th>Data Analysis</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="display: flex; flex-direction: column; align-items: flex-start;">
+                <img class="customEntitityLogo" src= "powerBi.svg"/>
+                <img class="customEntitityLogo" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
+            </td>
+            <td>
+                <ul>
+                <li>Python | R</li>
+                <li>scikit-learn</li>
+                <li>Topic modeling</li>
+                <li>Text mining</li>
+                <li>Machine learning</li>
+                <li>GNU PSPP</li>
+                <li>Power BI </li>
+            </ul>
+        </td>
+    </tbody>
+</table>
+
+<table style="width: 50%;">
+    <thead>
+        <tr>
             <th>Linux</th>
             <th></th>
         </tr>
@@ -94,28 +121,6 @@ In 2022, I embarked on my journey in Web Development at PUC Minas, diligently ho
         </td>
     </tbody>
 </table>
-
-<table style="width: 50%;">
-    <thead>
-        <tr>
-            <th>Data</th>
-            <th></th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td style="display: flex; align-items: flex-start;">
-                <img class="customEntitityLogo" src= "powerBi.svg"/>
-            </td>
-            <td>
-                <ul>
-                <li>Microsoft Power BI</li>
-                <li>GNU PSPP</li>
-                <li>Google Looker Studio</li>
-            </ul>
-        </td>
-    </tbody>
-</table>
 </div>
 
 ## Education
@@ -135,7 +140,7 @@ In 2022, I embarked on my journey in Web Development at PUC Minas, diligently ho
             <td rowspan=2><a href="https://pucminas.br" target="_blank">Pontifical Catholic University of Minas Gerais</a></td>
         </tr>
         <tr>
-            <td>Associate degree - Analysis and Systems Development</td>
+            <td>Associate degree - Analysis and Software Development</td>
             <td>2024</td>
         </tr>
         <tr>

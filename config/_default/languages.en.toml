@@ -1,25 +1,28 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Geraldo Homero >_"
+title = "Geraldo Homero _ >"
 
 [params]
-displayName = "English"
-isoCode = "en"
-rtl = false
-dateFormat = "2 January 2006"
+  displayName = "English"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  logo = ""
+  description = "Personal Website and CV"
 
-[author]
-name = "Geraldo Homero"
-headline = "Teacher Assistant @ PUC Minas  <br>  C# | .NET | JavaScript | React.js <br> "
-links = [
-  { linkedin = "https://www.linkedin.com/in/geraldohomero/" },
-  { github = "https://github.com/geraldohomero" },
-  { gitlab = "https://gitlab.com/geraldohomero" },
-  { orcid = "https://orcid.org/0000-0001-6686-7182"},
-  { mastodon = "https://mastodon.social/@geraldohomero"},
-  { twitter = "https://twitter.com/geraldohomero" },
-  { instagram = "https://www.instagram.com/geraldohomero/" },
-]
-bio = "**Developer** | C# | .NET | JavaScript | React.js | Rust | Python <br> **Researcher** | Digital History | Digital Humanities | Data Analysis"
-image = "geraldohomero.jpg"
+[params.author]
+  name = "Geraldo Homero"
+  image = "geraldohomero.jpg"
+  headline = "TA @ PUC Minas  <br> DH | Python | C# | JavaScript <br> "
+  bio = "**Researcher** | Digital History | Digital Humanities | Data Analysis | Python  <br> **Developer** | C# | .NET | JavaScript | React.js |"
+  links = [
+    { linkedin = "https://www.linkedin.com/in/geraldohomero/" },
+    { github = "https://github.com/geraldohomero" },
+    { gitlab = "https://gitlab.com/geraldohomero" },
+    { orcid = "https://orcid.org/0000-0001-6686-7182" },
+    { researchgate = "https://www.researchgate.net/profile/Geraldo-Couto-Neto"},
+    { bluesky = "https://bsky.app/profile/geraldohomero.bsky.social"},
+    { mastodon = "https://mastodon.social/@geraldohomero"},
+    { instagram = "https://www.instagram.com/geraldohomero/" },
+  ]

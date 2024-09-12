@@ -9,6 +9,7 @@ tags: ["pesquisa"]
 - [ORCID](https://orcid.org/0000-0001-6686-7182)
 - [Lattes](http://lattes.cnpq.br/9924558848538635)
 - [ResearchGate](https://www.researchgate.net/profile/Geraldo-Couto-Neto)
+- [Web of Science](https://www.webofscience.com/wos/author/record/LFU-6287-2024)
 - [Google Scholar](https://scholar.google.com/citations?hl=pt-BR&user=QcUrmPYAAAAJ)
 
 ## Dissertação (Mestrado/UFJF)
@@ -43,6 +44,10 @@ tags: ["pesquisa"]
 - [Tão felizes (nunca fomos): a memória da luta armada na ditadura militar brasileira a partir do filme Nunca Fomos Tão Felizes (1984, Murilo Salles)](https://www.academia.edu/40287763/T%C3%A3o_felizes_nunca_fomos_a_mem%C3%B3ria_da_luta_armada_na_ditadura_militar_brasileira_a_partir_do_filme_Nunca_Fomos_T%C3%A3o_Felizes_1984_Murilo_Salles_)
     
 - [Memória, História e Cinema: Miguel Littín cineasta clandestino no Chile de 1985](https://www.academia.edu/33837941/Mem%C3%B3ria_Hist%C3%B3ria_e_Cinema_Miguel_Litt%C3%ADn_cineasta_clandestino_no_Chile_de_1985)
+
+## Software
+
+{{< github repo="geraldohomero/dh-youtube-research" >}}
 
 ## Organização de eventos
 

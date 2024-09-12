@@ -1,25 +1,28 @@
 languageCode = "pt-br"
-languageName = "pt-br"
+languageName = "Português"
 weight = 2
-title = "Geraldo Homero >_"
+title = "Geraldo Homero _ >"
 
 [params]
-displayName = "Português"
-isoCode = "pt-br"
-rtl = false
-dateFormat = "2 January 2006"
+  displayName = "Português"
+  isoCode = "pt-br"
+  rtl = false
+  dateFormat = "2 January 2006"
+  logo = ""
+  description = "Website pessoal e CV"
 
-[author]
-name = "Geraldo Homero"
-headline = "Monitor Front-end @ PUC Minas  <br>  C# | .NET | JavaScript | React.js <br> "
-links = [
-  { linkedin = "https://www.linkedin.com/in/geraldohomero/" },
-  { github = "https://github.com/geraldohomero" },
-  { gitlab = "https://gitlab.com/geraldohomero" },
-  { orcid = "https://orcid.org/0000-0001-6686-7182" },
-  { mastodon = "https://mastodon.social/@geraldohomero" },
-  { twitter = "https://twitter.com/geraldohomero" },
-  { instagram = "https://www.instagram.com/geraldohomero/" },
-]
-bio = "**Desenvolvedor** | C# | .NET | JavaScript | React.js | Rust | Python <br> **Pesquisador** | História Digital | Humanidades Digitais | Análise de Dados"
-image = "geraldohomero.jpg"
+[params.author]
+  name = "Geraldo Homero"
+  image = "geraldohomero.jpg"
+  headline = "Monitor Front-end @ PUC Minas  <br> DH | Python | C# | JavaScript <br> "
+  bio = "**Pesquisador** | História Digital | Humanidades Digitais | Análise de Dados | Python  <br> **Desenvolvedor** | C# | .NET | JavaScript | React.js |"
+  links = [
+    { linkedin = "https://www.linkedin.com/in/geraldohomero/" },
+    { github = "https://github.com/geraldohomero" },
+    { gitlab = "https://gitlab.com/geraldohomero" },
+    { orcid = "https://orcid.org/0000-0001-6686-7182" },
+    { researchgate = "https://www.researchgate.net/profile/Geraldo-Couto-Neto"},
+    { bluesky = "https://bsky.app/profile/geraldohomero.bsky.social"},
+    { mastodon = "https://mastodon.social/@geraldohomero"},
+    { instagram = "https://www.instagram.com/geraldohomero/" },
+  ]

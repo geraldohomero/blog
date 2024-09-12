@@ -1,7 +1,7 @@
-colorScheme = "blowfish"
+colorScheme = "default"
 defaultAppearance = "dark"
 autoSwitchAppearance = false
-enableSearch = false
+enableSearch = true
 enableCodeCopy = true
 disableImageOptimization = false
 disableTextInHeader = false
@@ -18,7 +18,7 @@ layout = "fixed"
 showMenu = true
 showCopyright = true
 showThemeAttribution = true
-showAppearanceSwitcher = false
+showAppearanceSwitcher = true
 showScrollToTop = true
 
 [homepage]
@@ -107,12 +107,5 @@ cardViewScreenWidth = false
 
 [buymeacoffee]
 
-#identifier	            # 	The identifier to the target buymeacoffee account.
-#globalWidget	          # 	Activate the global buymeacoffee widget.
-#globalWidgetMessage	  # 	Message what will be displayed the first time a new user lands on the site.
-#globalWidgetColor	    #	  Widget color in hex format.
-#globalWidgetPosition	  # 	Position of the widget, i.e. “Left” or “Right”
-
 [verification]
-
 google = "google-site-verification=Q-ukpBMb67b24fr7SC5X4OIEzQGy0YKJHIWhuhPgGPw"

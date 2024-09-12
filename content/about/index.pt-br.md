@@ -5,9 +5,10 @@ draft: false
 description: "Sobre mim"
 tags: ["sobre"]
 ---
-Sempre fui muito curioso sobre tecnologia e ao longo dos anos meu interesse se transformou em paixão. Durante meu mestrado e graduação em História, tive a oportunidade de estudar História Digital, o que me colocou em contato com o mundo Linux e Open Source. Entender o impacto da tecnologia em nossas vidas foi me deixando cada vez mais intrigado. 
+Sempre fui muito curioso sobre tecnologia e ao longo dos anos meu interesse se transformou em paixão. Durante meu mestrado e graduação em História, tive a oportunidade de estudar História Digital e Humanidades Digitais, o que me colocou em contato com o mundo da Programação, Ciência de Dados, Linux e Open Source. Em 2018, migrei completamente para o Linux e não me arrependo! Com o Linux, aprendi coisas valiosas, sendo a principal: não existe problema sem solução!
 
-Em 2018, migrei completamente para o Linux e não me arrependo! Com o Linux, aprendi coisas valiosas, sendo a principal: não existe problema sem solução. Em 2022, iniciei meus estudos em Desenvolvimento Web na PUC Minas e venho me aprimorando constantemente em HTML, CSS, JavaScript, React, React Native, MySQL, C#, .NET, ASP.NET e NoSQL. Além disso, estou estudando por conta própria algumas tecnologias que me chamaram atenção, como Rust, Vue.js, Docker e Kubernetes.
+Tenho experiência em pesquisa na área de História, com ênfase em História Contemporânea e Brasil Republicano, atuando principalmente nos seguintes temas: história digital, direitas, nova direita, ditadura militar, estudos críticos da internet, mídias digitais, preservação digital, história do tempo presente, memória e história pública. 
+
 
 ## Habilidades 
 
@@ -35,11 +36,37 @@ Em 2018, migrei completamente para o Linux e não me arrependo! Com o Linux, apr
                     <li>NoSQL | MongoDB</li>
                     <li>Git | Github | Gitlab | Bitbucket</li>
                     <li>I.A. | Llama | Gemini | GPT4All</li>
-                    <li>Python</li>
                     <li>Rust</li>
                 </ul>
             </td>
         </tr>
+    </tbody>
+</table>
+
+<table style="width: 50%;">
+    <thead>
+        <tr>
+            <th>Dados</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="display: flex; flex-direction: column; align-items: flex-start;">
+                <img class="customEntitityLogo" src= "powerBi.svg"/>
+                <img class="customEntitityLogo" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
+            </td>
+            <td>
+                <ul>
+                <li>Python | R</li>
+                <li>scikit-learn</li>
+                <li>Topic modeling</li>
+                <li>Text mining</li>
+                <li>Machine learning</li>
+                <li>GNU PSPP</li>
+                <li>Power BI</li>
+            </ul>
+        </td>
     </tbody>
 </table>
 
@@ -88,28 +115,6 @@ Em 2018, migrei completamente para o Linux e não me arrependo! Com o Linux, apr
                 <li>Figma</li>
                 <li>Photoshop</li>
                 <li>Penpot</li>
-            </ul>
-        </td>
-    </tbody>
-</table>
-
-<table style="width: 50%;">
-    <thead>
-        <tr>
-            <th>Dados</th>
-            <th></th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td style="display: flex; align-items: flex-start;">
-                <img class="customEntitityLogo" src= "powerBi.svg"/>
-            </td>
-            <td>
-                <ul>
-                <li>Microsoft Power BI</li>
-                <li>GNU PSPP</li>
-                <li>Google Looker Studio</li>
             </ul>
         </td>
     </tbody>

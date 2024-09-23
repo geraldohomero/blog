@@ -5,10 +5,9 @@ draft: false
 description: "a description"
 tags: ["about"]
 ---
-I've always been deeply curious about technology, and over the years, my interest has blossomed into a full-fledged passion. During my undergraduate and graduate studies in History, I had the opportunity to delve into the world of Digital History, which introduced me to Linux and the open-source community. Witnessing the profound impact of technology on our lives fueled my intrigue even further.
+I have always been very curious about technology, and over the years, my interest has turned into a passion. During my master's and undergraduate studies in History, I had the opportunity to study Digital History and Digital Humanities, which introduced me to the world of Programming, Data Science, Linux, and Open Source. In 2018, I completely switched to Linux and have no regrets! With Linux, I learned valuable things, the main one being: there is no problem without a solution!
 
-In 2018, I made the complete switch to Linux, a decision I have never regretted! Through my Linux journey, I have acquired invaluable lessons, the most important being that there is no problem without a solution.
-In 2022, I embarked on my journey in Web Development at PUC Minas, diligently honing my skills in HTML, CSS, JavaScript, React, React Native, MySQL, C#, .NET, ASP.NET Core, and MongoDB. Additionally, I have been actively pursuing self-study in various technologies that have piqued my interest, such as Rust, Vue.js, Docker, and Kubernetes.
+I have research experience in the field of History, with an emphasis on Contemporary History and Republican Brazil, mainly focusing on the following topics: digital history, right-wing movements, new right, military dictatorship, critical internet studies, digital media, digital preservation, present-day history, memory, and public history.
 
 
 ## Skills 

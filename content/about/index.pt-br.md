@@ -122,45 +122,6 @@ Tenho experiência em pesquisa na área de História, com ênfase em História C
 </div>
 
 
-## Educação
-
-<table>
-    <thead>
-        <tr>
-            <th>Instituição</th>
-            <th>Link</th>
-            <th>Graduação</th>
-            <th>Data</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td rowspan=2><img class="customEntitityLogo" src="pucminas_logo.jpeg""/></td>
-            <td rowspan=2><a href="https://pucminas.br" target="_blank">Pontifícia Universidade Católica de Minas Gerais</a></td>
-        </tr>
-        <tr>
-            <td>Análise e Desenvolvimento de Sistemas</td>
-            <td>2024</td>
-        </tr>
-        <tr>
-            <td rowspan=4><img class="customEntitityLogo" src="ufjf.png"/></td>
-            <td rowspan=4><a href="https://ufjf.br" target="_blank">Universidade Federal de Juiz de Fora</a></td>
-        </tr>
-        <tr>
-            <td>Mestrado (História Digital)</td>
-            <td>2022</td>
-        </tr>
-        <tr>
-            <td>Graduação (Licenciatura em História)</td>
-            <td>2021</td>
-        </tr>
-        <tr>
-            <td>Graduação (Bacharelado em História)</td>
-            <td>2018</td>
-        </tr>
-    </tbody>
-</table>
-
 ## Experiência
 
 ### **Monitor (PUC Minas)** 
@@ -214,3 +175,37 @@ Bolsista de iniciação científica no [projeto de pesquisa](https://www.ufjf.br
 - Decupagem e estruturação de dados
 
 **Habilidade**: WordPress · CSS · HTML · GitHub · Análise de dados · Operações de TI · Microsoft Office · Tecnologia da informação
+
+## Educação
+
+<table>
+    <thead>
+        <tr>
+            <th>Instituição</th>
+            <th>Link</th>
+            <th>Graduação</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan=2><img class="customEntitityLogo" src="puc-minas-logo.png"/></td>
+            <td rowspan=2><a href="https://pucminas.br" target="_blank">Pontifícia Universidade Católica de Minas Gerais</a></td>
+        </tr>
+        <tr>
+            <td>Análise e Desenvolvimento de Sistemas</td>
+        </tr>
+        <tr>
+            <td rowspan=4><img class="customEntitityLogo" src="ufjf.png"/></td>
+            <td rowspan=4><a href="https://ufjf.br" target="_blank">Universidade Federal de Juiz de Fora</a></td>
+        </tr>
+        <tr>
+            <td>Mestrado (História Digital)</td>
+        </tr>
+        <tr>
+            <td>Graduação (Licenciatura em História)</td>
+        </tr>
+        <tr>
+            <td>Graduação (Bacharelado em História)</td>
+        </tr>
+    </tbody>
+</table>

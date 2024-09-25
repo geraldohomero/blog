@@ -1,7 +1,7 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Geraldo Homero _ >"
+title = "Geraldo Homero > _"
 
 [params]
   displayName = "English"
@@ -14,7 +14,7 @@ title = "Geraldo Homero _ >"
 [params.author]
   name = "Geraldo Homero"
   image = "geraldohomero.jpg"
-  headline = "TA @ PUC Minas  <br> DH | Python | C# | JavaScript <br> "
+  headline = "Teacher Assistant @ PUC Minas  <br> DH | Python | C# | JavaScript <br> "
   bio = "**Researcher** | Digital History | Digital Humanities | Data Analysis | Python  <br> **Developer** | C# | .NET | JavaScript | React.js |"
   links = [
     { linkedin = "https://www.linkedin.com/in/geraldohomero/" },

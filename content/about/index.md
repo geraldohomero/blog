@@ -122,45 +122,6 @@ I have research experience in the field of History, with an emphasis on Contempo
 </table>
 </div>
 
-## Education
-
-<table>
-    <thead>
-        <tr>
-            <th>School</th>
-            <th>Link</th>
-            <th>Degree</th>
-            <th>Date</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td rowspan=2><img class="customEntitityLogo" src="pucminas_logo.jpeg""/></td>
-            <td rowspan=2><a href="https://pucminas.br" target="_blank">Pontifical Catholic University of Minas Gerais</a></td>
-        </tr>
-        <tr>
-            <td>Associate degree - Analysis and Software Development</td>
-            <td>2024</td>
-        </tr>
-        <tr>
-            <td rowspan=4><img class="customEntitityLogo" src="ufjf.png"/></td>
-            <td rowspan=4><a href="https://ufjf.br" target="_blank">Federal University of Juiz de Fora</a></td>
-        </tr>
-        <tr>
-            <td>Master's degree (Digital History)</td>
-            <td>2022</td>
-        </tr>
-        <tr>
-            <td>Undergraduate degree (Teaching History/License)</td>
-            <td>2021</td>
-        </tr>
-        <tr>
-            <td>Bachelor's degree (History)</td>
-            <td>2018</td>
-        </tr>
-    </tbody>
-</table>
-
 ## Experience
 
 ### **Peer tutor (PUC Minas)** 
@@ -215,3 +176,36 @@ Undergraduate research fellow in the [research project](https://www.ufjf.br/labh
 
 **Skills**: WordPress · CSS · HTML · GitHub · Data analysis · IT operations · Microsoft Office · Information technology
 
+## Education
+
+<table>
+    <thead>
+        <tr>
+            <th>School</th>
+            <th>Link</th>
+            <th>Degree</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan=2><img class="customEntitityLogo" src="puc-minas-logo.png"/></td>
+            <td rowspan=2><a href="https://pucminas.br" target="_blank">Pontifical Catholic University of Minas Gerais</a></td>
+        </tr>
+        <tr>
+            <td>Associate degree - Analysis and Software Development</td>
+        </tr>
+        <tr>
+            <td rowspan=4><img class="customEntitityLogo" src="ufjf.png"/></td>
+            <td rowspan=4><a href="https://ufjf.br" target="_blank">Federal University of Juiz de Fora</a></td>
+        </tr>
+        <tr>
+            <td>Master's degree (Digital History)</td>
+        </tr>
+        <tr>
+            <td>Undergraduate degree (Teaching History/License)</td>
+        </tr>
+        <tr>
+            <td>Bachelor's degree (History)</td>
+        </tr>
+    </tbody>
+</table>

@@ -13,9 +13,9 @@ smartTOCHideUnfocusedChildren = true
 
 
 [header]
+layout = "fixed"
   [header.search]
     enabled = true
-layout = "fixed"
 
 [footer]
 showMenu = true

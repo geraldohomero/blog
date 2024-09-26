@@ -22,12 +22,12 @@ Tenho experiência em pesquisa na área de História, com ênfase em História C
     </thead>
     <tbody>
         <tr>
-             <td style="display: flex; flex-direction: column; align-items: flex-start;">
+             <td style="display: flex; flex-direction: column; justify-content: center;">
                     <img class="customEntitityLogo" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
                     <img class="customEntitityLogo" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg"/>
                     <img class="customEntitityLogo" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
                 </td>
-            <td>
+            <td style="vertical-align: middle;">
                 <ul>
                     <li>HTML - CSS | Bootstrap | Sass | Tailwind</li>
                     <li>JavaScript | React.js | Node.js | React Native</li>
@@ -52,11 +52,11 @@ Tenho experiência em pesquisa na área de História, com ênfase em História C
     </thead>
     <tbody>
         <tr>
-            <td style="display: flex; flex-direction: column; align-items: flex-start;">
+            <td style="display: flex; flex-direction: column; justify-content: center;">
                 <img class="customEntitityLogo" src= "powerBi.svg"/>
                 <img class="customEntitityLogo" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
             </td>
-            <td>
+            <td style="vertical-align: middle;">
                 <ul>
                 <li>Python | R</li>
                 <li>scikit-learn</li>
@@ -79,11 +79,11 @@ Tenho experiência em pesquisa na área de História, com ênfase em História C
     </thead>
     <tbody>
         <tr>
-            <td style="display: flex; flex-direction: column; align-items: flex-start;">
+            <td style="display: flex; flex-direction: column; justify-content: center;">
                 <img class="customEntitityLogo" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
                 <img class="customEntitityLogo" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg"/>
             </td>
-            <td>
+            <td style="vertical-align: middle;">
                 <ul>
                     <li>Shell Scripting</li>
                     <li>Ubuntu</li>
@@ -107,10 +107,10 @@ Tenho experiência em pesquisa na área de História, com ênfase em História C
     </thead>
     <tbody>
         <tr>
-            <td style="display: flex; align-items: flex-start;">
+            <td style="display: flex; justify-content: center;">
                 <img class="customEntitityLogo" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
             </td>
-            <td>
+            <td style="vertical-align: middle;">
                 <ul>
                 <li>Figma</li>
                 <li>Photoshop</li>
@@ -188,24 +188,24 @@ Bolsista de iniciação científica no [projeto de pesquisa](https://www.ufjf.br
     </thead>
     <tbody>
         <tr>
-            <td rowspan=2><img class="customEntitityLogo" src="puc-minas-logo.png"/></td>
-            <td rowspan=2><a href="https://pucminas.br" target="_blank">Pontifícia Universidade Católica de Minas Gerais</a></td>
+            <td rowspan=2 style="vertical-align: middle;"><img class="customEntitityLogo" src="pucminas.png"/></td>
+            <td rowspan=2 style="vertical-align: middle;"><a href="https://pucminas.br" target="_blank">Pontifícia Universidade Católica de Minas Gerais</a></td>
         </tr>
         <tr>
-            <td>Análise e Desenvolvimento de Sistemas</td>
+            <td style="vertical-align: middle;">Análise e Desenvolvimento de Sistemas</td>
         </tr>
         <tr>
-            <td rowspan=4><img class="customEntitityLogo" src="ufjf.png"/></td>
-            <td rowspan=4><a href="https://ufjf.br" target="_blank">Universidade Federal de Juiz de Fora</a></td>
+            <td rowspan=4 style="vertical-align: middle;"><img class="customEntitityLogo" src="ufjf.png"/></td>
+            <td rowspan=4 style="vertical-align: middle;"><a href="https://ufjf.br" target="_blank">Universidade Federal de Juiz de Fora</a></td>
         </tr>
         <tr>
-            <td>Mestrado (História Digital)</td>
+            <td style="vertical-align: middle;">Mestrado (História Digital)</td>
         </tr>
         <tr>
-            <td>Graduação (Licenciatura em História)</td>
+            <td style="vertical-align: middle;">Graduação (Licenciatura em História)</td>
         </tr>
         <tr>
-            <td>Graduação (Bacharelado em História)</td>
+            <td style="vertical-align: middle;">Graduação (Bacharelado em História)</td>
         </tr>
     </tbody>
 </table>

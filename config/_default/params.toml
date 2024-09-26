@@ -11,7 +11,10 @@ defaultBackgroundImage = "jameswebb.png"
 defaultFeaturedImage = "jameswebb.png"
 smartTOCHideUnfocusedChildren = true
 
+
 [header]
+  [header.search]
+    enabled = true
 layout = "fixed"
 
 [footer]

@@ -25,7 +25,7 @@ São projetos desenvolvidos durante o curso de Análise e Desenvolvimento de Sis
 
 - [Demo](https://meiameipuc.azurewebsites.net/)
 
-<details style="cursor:pointer" open><summary>Visualizar</summary>
+<details style="cursor:pointer"><summary>Visualizar</summary>
   <img src="./img/PUCMeiAMei.png" style="border-radius:2%">
 </details>
 
@@ -78,6 +78,7 @@ São projetos desenvolvidos durante o curso de Análise e Desenvolvimento de Sis
 ## Projetos pessoais
 
 {{< github repo="geraldohomero/best-foss-alternatives" >}}
+
 <br>
 {{< github repo="geraldohomero/post-install-pop-os" >}}
 <br>

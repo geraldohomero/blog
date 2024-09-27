@@ -22,6 +22,11 @@ pageRef = "academic"
 identifier = "uJjKb2rFuO"
 weight = 4
 
+[[main]]
+name = "Posts"
+pageRef = "posts"
+identifier = "CsX5EYuCL2"
+weight = 5
 
 [[main]]
 pre = "linkedin"

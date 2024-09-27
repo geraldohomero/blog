@@ -52,7 +52,7 @@ These are projects developed during the Systems Analysis and Development course 
 
 - [Demo](https://meiameipuc.azurewebsites.net/)
 
-<details style="cursor:pointer" open><summary>Preview</summary>
+<details style="cursor:pointer"><summary>Preview</summary>
   <img src="./img/PUCMeiAMei.png" style="border-radius:2%">
 </details>
 

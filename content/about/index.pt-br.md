@@ -188,6 +188,13 @@ Bolsista de iniciação científica no [projeto de pesquisa](https://www.ufjf.br
     </thead>
     <tbody>
         <tr>
+            <td rowspan=2 style="vertical-align: middle;"><img class="customEntitityLogo" src="usp.png"/></td>
+            <td rowspan=2 style="vertical-align: middle;"><a href="https://mbauspesalq.com/" target="_blank">Universidade de São Paulo</a></td>
+        </tr>
+        <tr>
+            <td style="vertical-align: middle;">Análise de Dados com Python</td>
+        </tr>
+        <tr>
             <td rowspan=2 style="vertical-align: middle;"><img class="customEntitityLogo" src="pucminas.png"/></td>
             <td rowspan=2 style="vertical-align: middle;"><a href="https://pucminas.br" target="_blank">Pontifícia Universidade Católica de Minas Gerais</a></td>
         </tr>

@@ -148,7 +148,7 @@ Business intelligence intern at [Tristão - Electrical Panels](https://tristao.i
 ### **Research Fellow (Master/UFJF)** 
 ***Mar. 2019 - Sept. 2022***
 
-Researcher in the [History Graduate Program](https://www2.ufjf.br/ppghistoria/) at UFJF, in the research line "History, Culture and Power", with funding from [CAPES](https://www.gov.br/capes/).
+Researcher in the [History Graduate Program](https://www2.ufjf.br/ppghistoria-en/) at UFJF, in the research line "History, Culture and Power", with funding from [CAPES](https://gov.br/capes/en).
 
 - Execution of research project on Digital History
 - Discourse analysis using Python and R programming languages with the IRaMuTeQ tool
@@ -189,21 +189,21 @@ Undergraduate research fellow in the [research project](https://www.ufjf.br/labh
     <tbody>
         <tr>
             <td rowspan=2 style="vertical-align: middle;"><img class="customEntitityLogo" src="usp.png"/></td>
-            <td rowspan=2 style="vertical-align: middle;"><a href="https://mbauspesalq.com/" target="_blank">University of São Paulo</a></td>
+            <td rowspan=2 style="vertical-align: middle;"><a href="https://mbauspesalq.com/en" target="_blank">University of São Paulo</a></td>
         </tr>
         <tr>
             <td style="vertical-align: middle;">Data Analysis with Python</td>
         </tr>
         <tr>
             <td rowspan=2 style="vertical-align: middle;"><img class="customEntitityLogo" src="pucminas.png"/></td>
-            <td rowspan=2 style="vertical-align: middle;"><a href="https://pucminas.br" target="_blank">Pontifical Catholic University of Minas Gerais</a></td>
+            <td rowspan=2 style="vertical-align: middle;"><a href="http://portal.pucminas.br/ari/" target="_blank">Pontifical Catholic University of Minas Gerais</a></td>
         </tr>
         <tr>
             <td style="vertical-align: middle;">Associate degree - Analysis and Software Development</td>
         </tr>
         <tr>
             <td rowspan=4 style="vertical-align: middle;"><img class="customEntitityLogo" src="ufjf.png"/></td>
-            <td rowspan=4 style="vertical-align: middle;"><a href="https://ufjf.br" target="_blank">Federal University of Juiz de Fora</a></td>
+            <td rowspan=4 style="vertical-align: middle;"><a href="https://ufjf.br/international/" target="_blank">Federal University of Juiz de Fora</a></td>
         </tr>
         <tr>
             <td style="vertical-align: middle;">Master's degree (Digital History)</td>

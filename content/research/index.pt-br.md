@@ -3,7 +3,7 @@ title: "Pesquisa"
 date: 2024-04-29
 draft: false
 description: "a description"
-tags: ["pesquisa"]
+tags: ["research", "publications"]
 ---
 
 - [ORCID](https://orcid.org/0000-0001-6686-7182)

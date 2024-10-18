@@ -13,6 +13,59 @@ I have research experience in the field of History, with an emphasis on Contempo
 ## Skills 
 
 <div style="display: flex; flex-wrap: wrap;">
+<table style="width: 50%;">
+    <thead>
+        <tr>
+            <th>Data Analysis</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="display: flex; flex-direction: column; justify-content: center;">
+                <img class="customEntitityLogo" src= "powerBi.svg"/>
+                <img class="customEntitityLogo" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
+            </td>
+            <td style="vertical-align: middle;">
+                <ul>
+                <li>Python | R</li>
+                <li>scikit-learn</li>
+                <li>Topic modeling</li>
+                <li>Text mining</li>
+                <li>Machine learning</li>
+                <li>GNU PSPP</li>
+                <li>Power BI </li>
+            </ul>
+        </td>
+    </tbody>
+</table>
+<table style="width: 50%;">
+    <thead>
+        <tr>
+            <th>Linux</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="display: flex; flex-direction: column; justify-content: center;">
+                <img class="customEntitityLogo" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+                <img class="customEntitityLogo" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg"/>
+            </td>
+            <td style="vertical-align: middle;">
+                <ul>
+                    <li>Shell Scripting</li>
+                    <li>Ubuntu</li>
+                    <li>Debian</li>
+                    <li>NixOS</li>
+                    <li>Arch Linux</li>
+                    <li>WSL</li>
+                    <li>Docker</li>
+                </ul>
+            </td>
+        </tr>
+    </tbody>
+</table>
 <table>
     <thead>
         <tr>
@@ -43,91 +96,14 @@ I have research experience in the field of History, with an emphasis on Contempo
         </tr>
     </tbody>
 </table>
-
-<table style="width: 50%;">
-    <thead>
-        <tr>
-            <th>Data Analysis</th>
-            <th></th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td style="display: flex; flex-direction: column; justify-content: center;">
-                <img class="customEntitityLogo" src= "powerBi.svg"/>
-                <img class="customEntitityLogo" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
-            </td>
-            <td style="vertical-align: middle;">
-                <ul>
-                <li>Python | R</li>
-                <li>scikit-learn</li>
-                <li>Topic modeling</li>
-                <li>Text mining</li>
-                <li>Machine learning</li>
-                <li>GNU PSPP</li>
-                <li>Power BI </li>
-            </ul>
-        </td>
-    </tbody>
-</table>
-
-<table style="width: 50%;">
-    <thead>
-        <tr>
-            <th>Linux</th>
-            <th></th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td style="display: flex; flex-direction: column; justify-content: center;">
-                <img class="customEntitityLogo" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-                <img class="customEntitityLogo" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg"/>
-            </td>
-            <td style="vertical-align: middle;">
-                <ul>
-                    <li>Shell Scripting</li>
-                    <li>Ubuntu</li>
-                    <li>Debian</li>
-                    <li>NixOS</li>
-                    <li>Arch Linux</li>
-                    <li>WSL</li>
-                    <li>Docker</li>
-                </ul>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
-<table style="width: 50%;">
-    <thead>
-        <tr>
-            <th>Design</th>
-            <th></th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td style="display: flex; justify-content: center;">
-                <img class="customEntitityLogo" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
-            </td>
-            <td style="vertical-align: middle;">
-                <ul>
-                <li>Figma</li>
-                <li>Photoshop</li>
-                <li>Penpot</li>
-            </ul>
-        </td>
-    </tbody>
-</table>
 </div>
 
 ## Experience
 
-### **Peer tutor (PUC Minas)** 
+### **Teaching Assistant (PUC Minas)**
 ***Mar. 2023 - present***
 
-Teacher Assistant for the courses: Application Development Project, Front-end Web Development, Git and Mobile Development with React Native.
+TA for the courses: Application Development Project, Front-end Web Development, Git and Mobile Development with React Native.
 
 **Skills**: Software development · System development · React · React Native · Expo · JavaScript · HTML · CSS · Bootstrap · Front-end · Software Eng. · Git · Team work · Problem solving · Support
 
@@ -206,13 +182,13 @@ Undergraduate research fellow in the [research project](https://www.ufjf.br/labh
             <td rowspan=4 style="vertical-align: middle;"><a href="https://ufjf.br/international/" target="_blank">Federal University of Juiz de Fora</a></td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;">Master's degree (Digital History)</td>
+            <td style="vertical-align: middle;">Master's in History</td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;">Undergraduate degree (Teaching History/License)</td>
+            <td style="vertical-align: middle;">Teacher licensure in History</td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;">Bachelor's degree (History)</td>
+            <td style="vertical-align: middle;">Bachelor's in History</td>
         </tr>
     </tbody>
 </table>

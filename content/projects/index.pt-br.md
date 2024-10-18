@@ -6,6 +6,20 @@ description: "Projetos"
 tags: ["projects", "tech", "study"]
 ---
 
+## Projetos pessoais
+
+{{< github repo="geraldohomero/best-foss-alternatives" >}}
+
+<br>
+{{< github repo="geraldohomero/post-install-pop-os" >}}
+<br>
+{{< github repo="geraldohomero/my-update" >}}
+<br>
+{{< github repo="geraldohomero/Zotero-LibreOffice-Linux" >}}
+<br>
+{{< github repo="geraldohomero/app-masters-elevenlabs-project" >}}
+
+
 ## PUC Minas
 
 São projetos desenvolvidos durante o curso de Análise e Desenvolvimento de Sistemas na PUC Minas. Em cada semestre, os alunos são desafiados a desenvolver um projeto em grupo que aborde os conhecimentos adquiridos em cada semestre. Essa abordagem **prática** é uma forma de **consolidar o aprendizado** e preparar os alunos para o mercado de trabalho. Com isso, os alunos têm a oportunidade de desenvolver **projetos reais**, com prazos e entregas definidos, além de **trabalhar em equipe** e aprender a lidar com **desafios**.
@@ -73,26 +87,7 @@ São projetos desenvolvidos durante o curso de Análise e Desenvolvimento de Sis
   <img src="./img/BarERest.png" style="border-radius:2%">
 </details>
 
-***
-
-## Projetos pessoais
-
-{{< github repo="geraldohomero/best-foss-alternatives" >}}
-
-<br>
-{{< github repo="geraldohomero/post-install-pop-os" >}}
-<br>
-{{< github repo="geraldohomero/my-update" >}}
-<br>
-{{< github repo="geraldohomero/Zotero-LibreOffice-Linux" >}}
-<br>
-{{< github repo="geraldohomero/app-masters-elevenlabs-project" >}}
-
-### Websites
-
- - [Janaína Di Lourenço](https://janalourenci.github.io) | Feito com [Hugo](https://gohugo.io) e [Hallo](https://github.com/EmielH/hallo-hugo/) | [Github Repo](https://github.com/janalourenci/janalourenci.github.io)
-
-### Design
+## Design
 
 - [Pop!_OS Wallpaper](https://www.pling.com/p/1770949/)
 <details style="cursor:pointer" open><summary>Visualizar</summary>

@@ -11,15 +11,15 @@ identifier = "uWJeay3VG8"
 weight = 2
 
 [[main]]
-name = "Projetos"
-pageRef = "projects"
-identifier = "8NfIvq6D4C"
+name = "Pesquisa"
+pageRef = "research"
+identifier = "uJjKb2rFuO"
 weight = 3
 
 [[main]]
-name = "Pesquisa"
-pageRef = "academic"
-identifier = "uJjKb2rFuO"
+name = "Projetos"
+pageRef = "projects"
+identifier = "8NfIvq6D4C"
 weight = 4
 
 [[main]]

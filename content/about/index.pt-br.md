@@ -13,40 +13,10 @@ Tenho experiência em pesquisa na área de História, com ênfase em História C
 ## Habilidades 
 
 <div style="display: flex; flex-wrap: wrap;">
-<table>
-    <thead>
-        <tr>
-            <th>Desenvolvimento</th>
-            <th></th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-             <td style="display: flex; flex-direction: column; justify-content: center;">
-                    <img class="customEntitityLogo" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
-                    <img class="customEntitityLogo" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg"/>
-                    <img class="customEntitityLogo" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-                </td>
-            <td style="vertical-align: middle;">
-                <ul>
-                    <li>HTML - CSS | Bootstrap | Sass | Tailwind</li>
-                    <li>JavaScript | React.js | Node.js | React Native</li>
-                    <li>C# | .NET | ASP.NET Core | MVC</li>
-                    <li>SQL | MySQL | SQLServer | SQLite</li>
-                    <li>NoSQL | MongoDB</li>
-                    <li>Git | Github | Gitlab | Bitbucket</li>
-                    <li>I.A. | Llama | Gemini | GPT4All</li>
-                    <li>Rust</li>
-                </ul>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
 <table style="width: 50%;">
     <thead>
         <tr>
-            <th>Dados</th>
+            <th>Análise de Dados</th>
             <th></th>
         </tr>
     </thead>
@@ -64,12 +34,11 @@ Tenho experiência em pesquisa na área de História, com ênfase em História C
                 <li>Text mining</li>
                 <li>Machine learning</li>
                 <li>GNU PSPP</li>
-                <li>Power BI</li>
+                <li>Power BI </li>
             </ul>
         </td>
     </tbody>
 </table>
-
 <table style="width: 50%;">
     <thead>
         <tr>
@@ -97,29 +66,38 @@ Tenho experiência em pesquisa na área de História, com ênfase em História C
         </tr>
     </tbody>
 </table>
-
-<table style="width: 50%;">
+<table>
     <thead>
         <tr>
-            <th>Design</th>
+            <th>Desenvolvimento</th>
             <th></th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td style="display: flex; justify-content: center;">
-                <img class="customEntitityLogo" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
-            </td>
+             <td style="display: flex; flex-direction: column; justify-content: center;">
+                    <img class="customEntitityLogo" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
+                    <img class="customEntitityLogo" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg"/>
+                    <img class="customEntitityLogo" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+                </td>
             <td style="vertical-align: middle;">
                 <ul>
-                <li>Figma</li>
-                <li>Photoshop</li>
-                <li>Penpot</li>
-            </ul>
-        </td>
+                    <li>HTML - CSS | Bootstrap | Sass | Tailwind</li>
+                    <li>JavaScript | React.js | Node.js | React Native</li>
+                    <li>C# | .NET | ASP.NET Core | MVC</li>
+                    <li>SQL | MySQL | SQLServer | SQLite</li>
+                    <li>NoSQL | MongoDB</li>
+                    <li>Git | Github | Gitlab | Bitbucket</li>
+                    <li>AI | Llama | Gemini | GPT4All</li>
+                    <li>Python</li>
+                    <li>Rust</li>
+                </ul>
+            </td>
+        </tr>
     </tbody>
 </table>
 </div>
+
 
 
 ## Experiência
@@ -206,13 +184,13 @@ Bolsista de iniciação científica no [projeto de pesquisa](https://www.ufjf.br
             <td rowspan=4 style="vertical-align: middle;"><a href="https://ufjf.br" target="_blank">Universidade Federal de Juiz de Fora</a></td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;">Mestrado (História Digital)</td>
+            <td style="vertical-align: middle;">Mestrado em História</td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;">Graduação (Licenciatura em História)</td>
+            <td style="vertical-align: middle;">Licenciatura em História</td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;">Graduação (Bacharelado em História)</td>
+            <td style="vertical-align: middle;">Bacharelado em História</td>
         </tr>
     </tbody>
 </table>

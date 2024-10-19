@@ -3,6 +3,7 @@ title: "Melhores alternativas de software livre e de código aberto (nem todos) 
 date: 2023-06-18
 # externalUrl: "https://github.com/geraldohomero/best-foss-alternatives"
 draft: false
+type: "tech"
 description: "a description"
 tags: ["foss", "libre", "alternatives", "privacy", "security"]
 category: ["foss"]
@@ -16,6 +17,7 @@ Sinta-se à vontade para [contribuir](https://github.com/geraldohomero/best-foss
 
 ***
 ## IA
+- [GPT4All](https://www.nomic.ai/gpt4all)
 - [HuggingChat](https://huggingface.co/chat/)
 - [Llama AI](https://ollama.com/)
 - [Private GPT](https://github.com/zylon-ai/private-gpt)
@@ -38,6 +40,7 @@ Sinta-se à vontade para [contribuir](https://github.com/geraldohomero/best-foss
 - [LibreWolf](https://librewolf.net/)
 - [Mullvad Browser](https://mullvad.net/en/download/browser)
 - [Tor](https://www.torproject.org)
+- [Zen](https://zen-browser.app/)
 
 ## Calendário
 - [Etar](https://github.com/Etar-Group/Etar-Calendar)
@@ -53,7 +56,7 @@ Sinta-se à vontade para [contribuir](https://github.com/geraldohomero/best-foss
 ## Nuvem e Sincronização
 - [Cryptomator](https://cryptomator.org/)
 - [Filen](https://filen.io/)
-- [Mega](https://mega.io) - [Ref](https://mega.io/?aff=PcyK0CWBbwY) - NOS
+- [Mega](https://mega.io) - NOS
 - [Nextcloud](https://nextcloud.com)
 - [Owncloud](https://owncloud.com/)
 - [pCloud](https://www.pcloud.com/) - NOS
@@ -69,6 +72,7 @@ Sinta-se à vontade para [contribuir](https://github.com/geraldohomero/best-foss
 - [Neovim](https://neovim.io/)
 - [Pulsar](https://pulsar-edit.dev/) - Fork do Atom
 - [PyCharm](https://www.jetbrains.com/pycharm/)
+- [Spyder](https://www.spyder-ide.org/)
 - [Vim](https://www.vim.org/)
 - [VSCodium](https://vscodium.com/)
 

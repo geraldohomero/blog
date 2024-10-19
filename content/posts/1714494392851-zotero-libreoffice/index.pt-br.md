@@ -2,6 +2,7 @@
 title: "Integração Zotero + LibreOffice (Linux/Ubuntu)"
 date: 2022-04-13
 draft: false
+type: "tech"
 description: "uma descrição"
 tags: ["foss", "zotero", "libreoffice", "linux", "ubuntu", "solução de problemas", "plugin"]
 ---

@@ -14,7 +14,7 @@ title = "Geraldo Homero > _"
 [params.author]
   name = "Geraldo Homero"
   image = "geraldohomero.jpg"
-  headline = "Monitor Front-end @ PUC Minas  <br> História | Python | C# | JavaScript <br> "
+  headline = "Monitor Front-end @ PUC Minas  <br> História Digital | Python | C# | JavaScript <br><br> Mestre em História, UFJF "
   bio = "**Pesquisador** | História Digital | Humanidades Digitais | Análise de Dados | Python  <br> **Desenvolvedor** | C# | .NET | JavaScript | React.js"
   links = [
     { linkedin = "https://www.linkedin.com/in/geraldohomero/" },

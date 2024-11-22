@@ -7,7 +7,7 @@ description: "a description"
 
 Setting up a new operating system can be a tedious task, especially when it comes to installing essential software, configuring the environment, and setting up aliases for frequently used commands. To simplify this process, I created a set of scripts that automate the post-installation setup of Pop!_OS (22.04 LTS). In this post, we will take a look at the project and show how to use it to quickly set up your system.
 
-[Link to the repository](https://github.com/geraldohomero/post-install-pop-os)
+{{< github repo="geraldohomero/post-install-pop-os" >}}
 
 ## Project Overview
 

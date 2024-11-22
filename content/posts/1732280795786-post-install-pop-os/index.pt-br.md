@@ -7,7 +7,7 @@ description: "uma descrição"
 
 Configurar um novo sistema operacional pode ser uma tarefa tediosa, especialmente quando se trata de instalar softwares essenciais, configurar o ambiente e configurar aliases para comandos usados com frequência. Para simplificar esse processo, eu criei um conjunto de scripts que automatizam a configuração de pós-instalação do Pop!_OS (22.04 LTS). Neste post, vamos dar uma olhada no projeto e mostrar como usá-lo para configurar seu sistema rapidamente.
 
-[Link para o repositório](https://github.com/geraldohomero/post-install-pop-os)
+{{< github repo="geraldohomero/post-install-pop-os" >}}
 
 ## Visão Geral do Projeto
 

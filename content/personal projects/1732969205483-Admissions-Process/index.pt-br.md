@@ -8,6 +8,8 @@ tags: ["Personal Projects", "Web Development", "React", "Vite", "Data Visualizat
 
 Este projeto analisa o processo de admissão para o **ano acadêmico de 2024-2025** em dois programas de doutorado. Inclui dois principais programas de doutorado em História: **Universidade Federal de Juiz de Fora (UFJF)** e **Universidade Federal de São Paulo (Unifesp)**. Coletando dados da análise do projeto.
 
+[Demo](https://processo-seletivo-2024-2025.vercel.app/)
+
 ## Funcionalidades
 
 - `Análise Gráfica`: Fornece uma representação visual dos números do processo de admissão.

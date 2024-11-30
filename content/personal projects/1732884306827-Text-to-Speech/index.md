@@ -8,6 +8,8 @@ tags: ["Personal Projects", "Web Development", "React", "TypeScript"]
 ---
 This project is a web application that converts text to speech using the ElevenLabs API. It was developed as part of the App Masters Project and leverages modern technologies, including React, TypeScript, and Ant Design.
 
+[Demo](https://app-masters-elevenlabs-project.vercel.app/)
+
 ## Functionalities
 
 - `Text Input`: Allows users to type the text they want to convert to speech.

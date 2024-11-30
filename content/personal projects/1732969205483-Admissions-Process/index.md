@@ -8,6 +8,8 @@ tags: ["Personal Projects", "Web Development", "React", "Vite", "Data Visualizat
 
 This project analyses the admissions process for the **2024-2025 academic year** in two PhD programs. It includes two main PhD programs in History: **Federal University of Juiz de Fora (UFJF)** and **Federal University of São Paulo (Unifesp)**. Gathering data from the project analysis.
 
+[Demo](https://processo-seletivo-2024-2025.vercel.app/)
+
 ## Functionalities
 
 - `Graphical Analysis`: Provides a visual representation of the admissions process numbers.

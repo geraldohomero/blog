@@ -18,10 +18,10 @@ C.V.
 >Abstract: This dissertation aims to analyze videos from major channels of the Brazilian new right on YouTube that address the theme of the Brazilian military dictatorship, as well as their respective comments. We will work with the time frame from June 2013 to the year 2018, because the June demonstrations created a favorable ground for the diffusion of "liberal in economy and conservative in customs" ideas from the new right, which coincides precisely with their more active appearance in the public and digital sphere. From this, we will seek to understand how these subjects interpret, discuss, and share the past, as well as to identify the inconsistencies of the defended contents, in order to problematize their revisionist and denialist views on the dictatorship, in contrast to what is consolidated in Brazilian historiography on the subject. This study allows us to reflect on the role of the historian in the face of new media, considering its great power to reach the public, and the challenges posed by the disputes that occur in the public sphere regarding the memories of the Brazilian military dictatorship.
 
 ## Undergraduate Thesis (B.A. in History | UFJF)
-[The Stories They Tell: The Brazilian Military Dictatorship Through the Eyes of Three Conservative YouTube Channels](https://www.researchgate.net/publication/385272137)
+[The Stories They Tell: The Brazilian Military Dictatorship Through the Eyes of Three Conservative YouTube Channels](http://dx.doi.org/10.13140/RG.2.2.29915.37929)
 
 ## Undergraduate Thesis (B.Ed. in History | UFJF)
-[Negationism of the Military Dictatorship in the Classroom: Between Memory and History](https://www.researchgate.net/publication/364332766)
+[Negationism of the Military Dictatorship in the Classroom: Between Memory and History](http://dx.doi.org/10.13140/RG.2.2.18274.95686)
 
 ## Publications
 
@@ -29,15 +29,15 @@ C.V.
 
 - [The "New Right" on YouTube: Conservatism and Historical Denialism about the Brazilian Military Dictatorship](https://publicacoes.ufes.br/agora/article/view/26411)
 
-- [Nature and Culture: From Rejection to (Re)construction](https://doi.org/10.34019/1981-2140.2018.17510) - with [Janaína Di Lourenço Esteves](http://lattes.cnpq.br/0085162393782572)
+- [Nature and Culture: From Rejection to (Re)construction](https://doi.org/10.34019/1981-2140.2018.17510) - with [Janaína Di Lourenço Esteves](https://orcid.org/0000-0003-0529-6739)
 
 ### Conference proceedings
 
-- [Conservatism on YouTube and the Brazilian Military Dictatorship](https://www.academia.edu/40715252)
+- [Conservatism on YouTube and the Brazilian Military Dictatorship](http://dx.doi.org/10.13140/RG.2.2.16160.19200)
 
-- [So Happy (We Never Were): The Memory of the Armed Struggle in the Brazilian Military Dictatorship from the film "We Were Never So Happy" (1984, Murilo Salles)](https://www.researchgate.net/publication/335687841)
+- [So Happy (We Never Were): The Memory of the Armed Struggle in the Brazilian Military Dictatorship from the film "We Were Never So Happy" (1984, Murilo Salles)](http://dx.doi.org/10.13140/RG.2.2.22871.07847)
 
-- [Memory, History, and Cinema: Miguel Littín - The Clandestine Filmmaker in 1985 Chile](https://www.researchgate.net/publication/335687942)
+- [Memory, History, and Cinema: Miguel Littín - The Clandestine Filmmaker in 1985 Chile](http://dx.doi.org/10.13140/RG.2.2.36292.85128)
 
 ## Software
 

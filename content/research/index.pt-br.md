@@ -16,11 +16,11 @@ description: "a description"
 
 ## Monografia (Bacharelado/UFJF)
 
-[As histórias que contam por aí: a Ditadura Militar Brasileira aos olhos de três canais conservadores do YouTube](https://drive.google.com/file/d/1e6iE2c-CGmdumJMd0nhIerhNN1wKaWWK/view?usp=sharing)
+[As histórias que contam por aí: a Ditadura Militar Brasileira aos olhos de três canais conservadores do YouTube](http://dx.doi.org/10.13140/RG.2.2.29915.37929)
 
 ## Monografia (Licenciatura/UFJF)
 
-[Negacionismo da Ditadura em sala de aula: entre a memória e a história](https://www.academia.edu/88083992/Negacionismo_da_ditadura_em_sala_de_aula_entre_a_mem%C3%B3ria_e_a_hist%C3%B3ria)
+[Negacionismo da Ditadura em sala de aula: entre a memória e a história](http://dx.doi.org/10.13140/RG.2.2.18274.95686)
 
 
 ## Publicações
@@ -34,11 +34,11 @@ description: "a description"
     
 ### Eventos
 
-- [O conservadorismo no YouTube e a Ditadura Militar Brasileira](https://www.academia.edu/40715252/O_conservadorismo_no_YouTube_e_a_Ditadura_Militar_Brasileira).
+- [O conservadorismo no YouTube e a Ditadura Militar Brasileira](http://dx.doi.org/10.13140/RG.2.2.16160.19200).
     
-- [Tão felizes (nunca fomos): a memória da luta armada na ditadura militar brasileira a partir do filme Nunca Fomos Tão Felizes (1984, Murilo Salles)](https://www.academia.edu/40287763/T%C3%A3o_felizes_nunca_fomos_a_mem%C3%B3ria_da_luta_armada_na_ditadura_militar_brasileira_a_partir_do_filme_Nunca_Fomos_T%C3%A3o_Felizes_1984_Murilo_Salles_)
+- [Tão felizes (nunca fomos): a memória da luta armada na ditadura militar brasileira a partir do filme Nunca Fomos Tão Felizes (1984, Murilo Salles)](http://dx.doi.org/10.13140/RG.2.2.22871.07847)
     
-- [Memória, História e Cinema: Miguel Littín cineasta clandestino no Chile de 1985](https://www.academia.edu/33837941/Mem%C3%B3ria_Hist%C3%B3ria_e_Cinema_Miguel_Litt%C3%ADn_cineasta_clandestino_no_Chile_de_1985)
+- [Memória, História e Cinema: Miguel Littín cineasta clandestino no Chile de 1985](http://dx.doi.org/10.13140/RG.2.2.36292.85128)
 
 ## Software
 

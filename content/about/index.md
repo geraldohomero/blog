@@ -3,11 +3,67 @@ title: "About"
 date: 2024-04-29
 draft: false
 description: "a description"
-tags: ["about"]
 ---
-I have always been very curious about technology, and over the years, my interest has turned into a passion. During my master's and undergraduate studies in History, I had the opportunity to study Digital History and Digital Humanities, which introduced me to the world of Programming, Data Science, Linux, and Open Source. In 2018, I completely switched to Linux and have no regrets! With Linux, I learned valuable things, the main one being: there is no problem without a solution!
+Technology has always fascinated me, evolving from a casual interest into a lifelong passion. My academic journey in History, spanning both undergraduate and master’s studies, led me to the transformative fields of Digital History and Digital Humanities. These areas not only deepened my understanding of historical narratives in the digital age but also introduced me to the dynamic world of Programming, Data Science, Linux, and Open Source technologies. Since adopting Linux in 2018, I’ve embraced its philosophy of problem-solving and innovation — a mindset that continues to shape my research and professional pursuits.
 
-I have research experience in the field of History, with an emphasis on Contemporary History and Republican Brazil, mainly focusing on the following topics: digital history, right-wing movements, new right, military dictatorship, critical internet studies, digital media, digital preservation, present-day history, memory, and public history.
+My research focuses on the intersections of history, technology, and society, particularly in the context of Contemporary History and Republican Brazil. I specialize in exploring topics such as Digital Humanities, Right-wing movements, Military Dictatorships in Latin America, Critical internet studies, Digital media, Digital preservation, Public History, Memory Studies, and the challenges of historical narratives in the digital era.
+
+{{< button href="CV-Geraldo-Digital.pdf" target="_blank" >}}
+C.V.
+{{< /button >}}
+
+## Education
+
+<table>
+    <thead>
+        <tr>
+            <th>School</th>
+            <th>Link</th>
+            <th>Degree</th>
+        </tr>
+    </thead>
+    <tbody>
+     <tr>
+            <td rowspan=4 style="vertical-align: middle;"><img class="customEntitityLogo" src="ufjf.png"/></td>
+            <td rowspan=4 style="vertical-align: middle;"><a href="https://ufjf.br/international/" target="_blank">Federal University of Juiz de Fora</a></td>
+        </tr>
+        <tr>
+            <td style="vertical-align: middle;">Master of Arts in History</td>
+        </tr>
+        <tr>
+            <td style="vertical-align: middle;">Bachelor of Education in History</td>
+        </tr>
+        <tr>
+            <td style="vertical-align: middle;">Bachelor of Arts in History</td>
+        </tr>
+        <tr>
+            <td rowspan=2 style="vertical-align: middle;"><img class="customEntitityLogo" src="pucminas.png"/></td>
+            <td rowspan=2 style="vertical-align: middle;"><a href="http://portal.pucminas.br/ari/" target="_blank">Pontifical Catholic University of Minas Gerais</a></td>
+        </tr>
+        <tr>
+            <td style="vertical-align: middle;"> Associate degree in Software Analysis and Development</td>
+        </tr>
+        <thead>
+        <tr>
+            <th>Aditional Training</th>
+        </tr>
+        </thead>
+         <tr>
+            <td rowspan=2 style="vertical-align: middle;"><img class="customEntitityLogo" src="usp.png"/></td>
+            <td rowspan=2 style="vertical-align: middle;"><a href="https://mbauspesalq.com/en" target="_blank">University of São Paulo</a></td>
+        </tr>
+        <tr>
+            <td style="vertical-align: middle;">Data Analysis with Python</td>
+        </tr>
+        <tr>
+            <td rowspan=2 style="vertical-align: middle;"><img class="customEntitityLogo" src="uft.png"/></td>
+            <td rowspan=2 style="vertical-align: middle;"><a href="https://www.uft.edu.br/" target="_blank">Federal University of Tocantins</a></td>
+        </tr>
+        <tr>
+            <td style="vertical-align: middle;">Mining, Topic Modeling, and Multivariate Analysis of Textual Data from YouTube</td>
+        </tr>
+    </tbody>
+</table>
 
 
 ## Skills 
@@ -23,8 +79,8 @@ I have research experience in the field of History, with an emphasis on Contempo
     <tbody>
         <tr>
             <td style="display: flex; flex-direction: column; justify-content: center;">
-                <img class="customEntitityLogo" src= "powerBi.svg"/>
                 <img class="customEntitityLogo" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
+                <img class="customEntitityLogo" src= "powerBi.svg"/>
             </td>
             <td style="vertical-align: middle;">
                 <ul>
@@ -97,98 +153,3 @@ I have research experience in the field of History, with an emphasis on Contempo
     </tbody>
 </table>
 </div>
-
-## Experience
-
-### **Teaching Assistant (PUC Minas)**
-***Mar. 2023 - present***
-
-TA for the courses: Application Development Project, Front-end Web Development, Git and Mobile Development with React Native.
-
-**Skills**: Software development · System development · React · React Native · Expo · JavaScript · HTML · CSS · Bootstrap · Front-end · Software Eng. · Git · Team work · Problem solving · Support
-
-### **Data Analyst (Tristão - Electrical Panels)** 
-***May 2023 - Nov. 2023***
-
-Business intelligence intern at [Tristão - Electrical Panels](https://tristao.ind.br)
-
-- Analysis of data of significant importance for the renewable energy, sustainability, and project sector;
-- Creation of interactive dashboards from MS Project data using Microsoft Power BI, Google Looker Studio and MS Access database;
-- Python for automating certain tasks.
-- Kanban
-- Development of a web application (beta version) for calculating the energy expenditure of solar panels (JavaScript, Bootstrap, and HTML).
-- Refinement of a Python application to extract emails from various types of files (.csv, .pdf, .docx, etc).
-
-**Skills**: Power BI · Python · Data Analysis · Scrum · Agile Methodologies · Problem Solving · Analytical Capacity · Organizational Capacity · MS Project · Teamwork
-
-### **Research Fellow (Master/UFJF)** 
-***Mar. 2019 - Sept. 2022***
-
-Researcher in the [History Graduate Program](https://www2.ufjf.br/ppghistoria-en/) at UFJF, in the research line "History, Culture and Power", with funding from [CAPES](https://gov.br/capes/en).
-
-- Execution of research project on Digital History
-- Discourse analysis using Python and R programming languages with the IRaMuTeQ tool
-- Creation of a database on server and cloud platforms
-- Data visualization in MS Power BI Dashboard
-- Organization of born-digital sources and documentation (YouTube videos, social media pages and websites) with YouTube Data Tools
-- Research on network society, social networks, data economy, infrastructure, and language
-- Analysis of digital data and methodological development for project implementation using GNU PSPP
-
-
-**Skills**: Research · Time management · Problem solving · Communication · Analytical skills · Organizational skills · Adaptability · Critical thinking · History · Digital History · Git · Python · R · GitHub · Linux · Shell scripting · Bash · Docker · Data analysis · Microsoft Power BI · Microsoft Office · Typesetting · Text editing
-
-### **Undergraduate research fellow (UFJF)**
-***Sept. 2018 - Apr. 2019***
-
-Undergraduate research fellow in the [research project](https://www.ufjf.br/labhoi/juiz-de-fora-cidade-negra-centro-de-referencia-sobre-a-memoria-negra-em-juiz-de-fora/indice-acervo-juiz-de-fora-cidade-negra/) "Past Presents: remnant quilombo communities and memory of slavery in the Zona da Mata region of Minas Gerais" at the [Oral History and Image Laboratory (LABHOI-UFJF)](https://www.ufjf.br/labhoi/) and the AFRIKAS group.
-
-- Conducting interviews
-- Video editing
-- Camera operator
-- Assistant in project design and execution
-- WordPress website management
-- Database creation
-- Data transcription and structuring
-
-**Skills**: WordPress · CSS · HTML · GitHub · Data analysis · IT operations · Microsoft Office · Information technology
-
-## Education
-
-<table>
-    <thead>
-        <tr>
-            <th>School</th>
-            <th>Link</th>
-            <th>Degree</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td rowspan=2 style="vertical-align: middle;"><img class="customEntitityLogo" src="usp.png"/></td>
-            <td rowspan=2 style="vertical-align: middle;"><a href="https://mbauspesalq.com/en" target="_blank">University of São Paulo</a></td>
-        </tr>
-        <tr>
-            <td style="vertical-align: middle;">Data Analysis with Python</td>
-        </tr>
-        <tr>
-            <td rowspan=2 style="vertical-align: middle;"><img class="customEntitityLogo" src="pucminas.png"/></td>
-            <td rowspan=2 style="vertical-align: middle;"><a href="http://portal.pucminas.br/ari/" target="_blank">Pontifical Catholic University of Minas Gerais</a></td>
-        </tr>
-        <tr>
-            <td style="vertical-align: middle;">Associate degree - Analysis and Software Development</td>
-        </tr>
-        <tr>
-            <td rowspan=4 style="vertical-align: middle;"><img class="customEntitityLogo" src="ufjf.png"/></td>
-            <td rowspan=4 style="vertical-align: middle;"><a href="https://ufjf.br/international/" target="_blank">Federal University of Juiz de Fora</a></td>
-        </tr>
-        <tr>
-            <td style="vertical-align: middle;">Master's in History</td>
-        </tr>
-        <tr>
-            <td style="vertical-align: middle;">Teacher licensure in History</td>
-        </tr>
-        <tr>
-            <td style="vertical-align: middle;">Bachelor's in History</td>
-        </tr>
-    </tbody>
-</table>

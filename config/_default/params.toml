@@ -9,14 +9,14 @@ highlightCurrentMenuArea = true
 smartTOC = true
 defaultBackgroundImage = "webbsmall.jpg"
 defaultFeaturedImage = "webbsmall.jpg"
-smartTOCHideUnfocusedChildren = true
+smartTOCHideUnfocusedChildren = false
 
 [header]
 layout = "fixed"
 search = { enabled = true }
 
 [footer]
-showMenu = true
+showMenu = false
 showCopyright = true
 showThemeAttribution = true
 showAppearanceSwitcher = true
@@ -28,7 +28,7 @@ showRecent = false
 showRecentItems = 5
 showMoreLink = true
 showMoreLinkDest = "/posts"
-cardView = false
+cardView = true
 cardViewScreenWidth = false
 layoutBackgroundBlur = false
 homepageImage = "webbsmall.jpg"
@@ -54,10 +54,10 @@ showPagination = false
 invertPagination = false
 showReadingTime = false
 showTableOfContents = true
-showTaxonomies = false
+showTaxonomies = true
 showAuthorsBadges = true
 showWordCount = false
-showZenMode = true
+showZenMode = false
 showRelatedContent = false
 relatedContentLimit = "0"
 
@@ -71,24 +71,24 @@ showSummary = false
 showViews = false
 showLikes = false
 showTableOfContents = true
-showCards = false
+showCards = true
 groupByYear = false
 cardView = true
 cardViewScreenWidth = false
-constrainItemsWidth = false
+constrainItemsWidth = true
 
 [sitemap]
 excludedKinds = [ "taxonomy", "term" ]
 
 [taxonomy]
-showTermCount = false
+showTermCount = true
 showHero = true
 heroStyle = "background"
 showBreadcrumbs = false
 showViews = false
 showLikes = false
 showTableOfContents = false
-cardView = true
+cardView = false
 
 [term]
 showHero = false

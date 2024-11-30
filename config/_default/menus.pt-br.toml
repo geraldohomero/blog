@@ -2,43 +2,59 @@
 name = "Home"
 pageRef = "/"
 identifier = "BIEPhK0TJV"
-weight = 1
+weight = 10
 
 [[main]]
 name = "Sobre"
 pageRef = "/about"
 identifier = "uWJeay3VG8"
-weight = 2
+weight = 20
 
 [[main]]
 name = "Pesquisa"
 pageRef = "research"
 identifier = "uJjKb2rFuO"
-weight = 3
+weight = 30
 
 [[main]]
 name = "Projetos"
-pageRef = "projects"
-identifier = "8NfIvq6D4C"
-weight = 4
+weight = 40
+
+#[[main]]
+#name = "Projetos de Pesquisa"
+#parent = "Projetos"
+#pageRef = "research-projects"
+#weight = 41
+
+[[main]]
+name = "Projetos Pessoais"
+parent = "Projetos"
+pageRef = "personal projects"
+weight = 42
+
+[[main]]
+name = "Projetos da Graduação"
+parent = "Projetos"
+pageRef = "undergraduate projects"
+weight = 43
 
 [[main]]
 name = "Posts"
 pageRef = "posts"
 identifier = "CsX5EYuCL2"
-weight = 5
+weight = 50
 
 [[main]]
 pre = "linkedin"
 url = "https://linkedin.com/in/geraldohomero"
 identifier = "eeoCMXECZk"
-weight = 7
+weight = 70
 
 [[main]]
 pre = "github"
 url = "https://github.com/geraldohomero"
 identifier = "eeoCMXEfZk"
-weight = 8
+weight = 80
 
 [[footer]]
 none = "none"

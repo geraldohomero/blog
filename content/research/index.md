@@ -3,31 +3,34 @@ title: "Research"
 date: 2024-04-29
 draft: false
 description: "a description"
-tags: ["research", "publications"]
 ---
 
 >[ORCID](https://orcid.org/0000-0001-6686-7182) | [Lattes](http://lattes.cnpq.br/9924558848538635) | [Zotero](https://www.zotero.org/geraldohomero) | [ResearchGate](https://www.researchgate.net/profile/Geraldo-Couto-Neto) | [Web of Science](https://www.webofscience.com/wos/author/record/LFU-6287-2024) | [Google Scholar](https://scholar.google.com/citations?hl=pt-BR&user=QcUrmPYAAAAJ)
 
-## Dissertation (Master's/UFJF)
+{{< button href="CV-Geraldo-Digital.pdf" target="_blank" >}}
+C.V.
+{{< /button >}}
+
+## Master's Thesis (M.A. in History | UFJF)
 [(De)constructing History on the Internet: Views on the Brazilian Military Dictatorship in channels of the "new right" on YouTube (2013-2018)](https://repositorio.ufjf.br/jspui/handle/ufjf/14568)
 
 >Abstract: This dissertation aims to analyze videos from major channels of the Brazilian new right on YouTube that address the theme of the Brazilian military dictatorship, as well as their respective comments. We will work with the time frame from June 2013 to the year 2018, because the June demonstrations created a favorable ground for the diffusion of "liberal in economy and conservative in customs" ideas from the new right, which coincides precisely with their more active appearance in the public and digital sphere. From this, we will seek to understand how these subjects interpret, discuss, and share the past, as well as to identify the inconsistencies of the defended contents, in order to problematize their revisionist and denialist views on the dictatorship, in contrast to what is consolidated in Brazilian historiography on the subject. This study allows us to reflect on the role of the historian in the face of new media, considering its great power to reach the public, and the challenges posed by the disputes that occur in the public sphere regarding the memories of the Brazilian military dictatorship.
 
-## Monograph (Bachelor's/UFJF)
+## Undergraduate Thesis (B.A. in History | UFJF)
 [The Stories They Tell: The Brazilian Military Dictatorship Through the Eyes of Three Conservative YouTube Channels](https://drive.google.com/file/d/1e6iE2c-CGmdumJMd0nhIerhNN1wKaWWK/view?usp=sharing)
 
-## Monograph (Teaching Degree/UFJF)
+## Monograph (B.Ed. in History | UFJF)
 [Denialism of the Military Dictatorship in the Classroom: Between Memory and History](https://www.academia.edu/88083992/Negacionismo_da_ditadura_em_sala_de_aula_entre_a_mem%C3%B3ria_e_a_hist%C3%B3ria)
 
 ## Publications
 
-### Journals:
+### Journals
 
 - [The "New Right" on YouTube: Conservatism and Historical Denialism about the Brazilian Military Dictatorship](https://publicacoes.ufes.br/agora/article/view/26411)
 
 - [Nature and Culture: From Rejection to (Re)construction](https://doi.org/10.34019/1981-2140.2018.17510) - with [Janaína Di Lourenço Esteves](http://lattes.cnpq.br/0085162393782572)
 
-### Conference proceedings:
+### Conference proceedings
 
 - [Conservatism on YouTube and the Brazilian Military Dictatorship](https://www.academia.edu/40715252/O_conservadorismo_no_YouTube_e_a_Ditadura_Militar_Brasileira)
 

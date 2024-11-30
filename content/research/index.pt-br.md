@@ -3,7 +3,6 @@ title: "Pesquisa"
 date: 2024-04-29
 draft: false
 description: "a description"
-tags: ["research", "publications"]
 ---
 
 >[ORCID](https://orcid.org/0000-0001-6686-7182) | [Lattes](http://lattes.cnpq.br/9924558848538635) | [Zotero](https://www.zotero.org/geraldohomero) | [ResearchGate](https://www.researchgate.net/profile/Geraldo-Couto-Neto) | [Web of Science](https://www.webofscience.com/wos/author/record/LFU-6287-2024) | [Google Scholar](https://scholar.google.com/citations?hl=pt-BR&user=QcUrmPYAAAAJ)
@@ -26,14 +25,14 @@ tags: ["research", "publications"]
 
 ## Publicações
 
-### Revistas:
+### Revistas
 
 - [A “nova direita” no YouTube: conservadorismo e negacionismo histórico sobre a Ditadura Militar brasileira](https://publicacoes.ufes.br/agora/article/view/26411)
     
 - [Natureza e Cultura: da rejeição à (re)construção](https://doi.org/10.34019/1981-2140.2018.17510) \- com [Janaína Di Lourenço Esteves](http://lattes.cnpq.br/0085162393782572)
     
     
-### Eventos:
+### Eventos
 
 - [O conservadorismo no YouTube e a Ditadura Militar Brasileira](https://www.academia.edu/40715252/O_conservadorismo_no_YouTube_e_a_Ditadura_Militar_Brasileira).
     

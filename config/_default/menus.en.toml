@@ -33,7 +33,7 @@ pageRef = "personal projects"
 weight = 42
 
 [[main]]
-name = "Udergraduate Projects"
+name = "Undergraduate Projects"
 parent = "Projects"
 pageRef = "undergraduate projects"
 weight = 43

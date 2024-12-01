@@ -44,11 +44,6 @@ pageRef = "posts"
 identifier = "CsX5EYuCL2"
 weight = 50
 
-[[main]]
-name = "C.V."
-url = "/about/CV-Geraldo-Digital.pdf"
-identifier = "mYVU27jzZj"
-weight = 60
 
 [[main]]
 pre = "linkedin"

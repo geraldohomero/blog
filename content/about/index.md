@@ -41,7 +41,7 @@ C.V.
             <td rowspan=2 style="vertical-align: middle;"><a href="http://portal.pucminas.br/ari/" target="_blank">Pontifical Catholic University of Minas Gerais</a></td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;"> Associate degree in Software Analysis and Development</td>
+            <td style="vertical-align: middle;"> Associate of Science in Software Analysis and Development</td>
         </tr>
         <thead>
         <tr>

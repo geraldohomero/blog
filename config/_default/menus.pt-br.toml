@@ -20,11 +20,11 @@ weight = 30
 name = "Projetos"
 weight = 40
 
-#[[main]]
-#name = "Projetos de Pesquisa"
-#parent = "Projetos"
-#pageRef = "research-projects"
-#weight = 41
+[[main]]
+name = "Projetos de Pesquisa"
+parent = "Projetos"
+pageRef = "research-projects"
+weight = 41
 
 [[main]]
 name = "Projetos Pessoais"

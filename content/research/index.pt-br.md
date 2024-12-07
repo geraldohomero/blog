@@ -13,6 +13,8 @@ description: "a description"
 
 > **Resumo**: Esta dissertação tem como objetivo analisar vídeos de grandes canais da nova direita brasileira no YouTube que abarcam o tema da ditadura militar brasileira, bem como seus respectivos comentários. Trabalharemos com o recorte temporal de junho de 2013 até o ano de 2018, pelo fato de as manifestações de junho terem criado um terreno propício para a difusão de ideias “liberais na economia e conservadoras nos costumes” da nova direita, o que coincide, justamente, com o seu aparecimento mais ativo na esfera pública e digital. A partir disso, buscaremos entender como esses sujeitos interpretam, discutem e compartilham o passado, assim como identificar as inconsistências dos conteúdos defendidos, para, então, problematizar suas visões revisionistas e negacionistas sobre a ditadura, em contraposição ao que há de consolidado na historiografia brasileira sobre o tema. Tal estudo nos possibilita uma reflexão acerca do papel do historiador frente às novas mídias, tendo em vista o seu grande poder de alcance de público, e aos desafios proporcionados pelas disputas ocorridas esfera pública em torno das memórias da ditadura militar brasileira.
 
+Para saber mais sobre essa pesquisa, [clique aqui!](/pt-br/research-projects/1733588216310-masters-thesis/)
+
 
 ## Monografia (Bacharelado/UFJF)
 

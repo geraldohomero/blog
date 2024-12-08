@@ -6,4 +6,4 @@ description: "a description"
 tags: ["linux", "pop os", "post install"]
 ---
 
-{{< mdimporter url="https://raw.githubusercontent.com/geraldohomero/post-install-pop-os/refs/heads/main/README.pt-br.md" >}}
+{{< mdimporter url="https://raw.githubusercontent.com/geraldohomero/post-install-pop-os/refs/heads/main/README.br-pt.md" >}}

@@ -11,9 +11,11 @@ category: ["foss"]
 
 Esta é uma lista dos melhores softwares livres e de código aberto para segurança e privacidade. A lista está dividida em categorias e subcategorias. O software está listado em ordem alfabética (versão em [inglês](/posts/1714494379888-best-foss/)) dentro de cada categoria. A lista inclui software para todos os principais sistemas operacionais (Windows, macOS, Linux, Android, iOS) e é atualizada regularmente. Às vezes, também há software Não de Código Aberto (NOS), mas eles são indicados como tal (Ser NOS não significa que o software seja ruim, mas é recomendado por motivos de segurança e/ou privacidade).
 
-Sinta-se à vontade para [contribuir](https://github.com/geraldohomero/best-foss-alternatives/blob/main/CONTRIBUTING.md) para a lista!
+{{< github repo="geraldohomero/best-foss-alternatives" >}}
 
 > NOS = Não de Código Aberto
+
+Sinta-se à vontade para [contribuir](https://github.com/geraldohomero/best-foss-alternatives/blob/main/CONTRIBUTING.md) para a lista!
 
 ***
 ## IA

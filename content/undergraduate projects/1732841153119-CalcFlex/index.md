@@ -1,6 +1,6 @@
 ---
 title: "PUC Minas | CalcFlex"
-date: 2023-11-29
+date: 2023-10-29
 draft: false
 description: "a description"
 # max 10 tags
@@ -8,6 +8,8 @@ tags: ["PUC Minas", "React Native", "Expo", "JavaScript", "SQLite", "REST", "JSO
 ---
 
 A calculator to determine which option is more cost-effective between gasoline and ethanol. Included refueling records feature.
+
+**Technologies**: React Native, Expo, JavaScript, SQLite, REST, JSON Server
 
 <details style="cursor:pointer" open><summary>Preview</summary>
   <img src="featured.png" style="border-radius:2%">

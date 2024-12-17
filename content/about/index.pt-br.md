@@ -5,7 +5,7 @@ draft: false
 description: "a description"
 ---
 
-A tecnologia sempre me fascinou, evoluindo de um interesse casual para uma paixão ao longo da vida. Minha jornada acadêmica em História, abrangendo tanto os estudos de graduação quanto de mestrado, me levou aos campos transformadores da História Digital e das Humanidades Digitais. Essas áreas não apenas aprofundaram minha compreensão das narrativas históricas na era digital, mas também me apresentaram ao mundo dinâmico da Programação, Ciência de Dados, Linux e tecnologias de Código Aberto. Desde que adotei o Linux em 2018, abracei sua filosofia de resolução de problemas e inovação — uma mentalidade que continua a moldar minhas pesquisas e atividades profissionais.
+Minha jornada acadêmica em História, abrangendo tanto os estudos de graduação quanto de mestrado, me levou aos campos transformadores da História Digital e das Humanidades Digitais. Essas áreas não apenas aprofundaram minha compreensão das narrativas históricas na era digital, mas também me apresentaram ao mundo dinâmico da Programação, Ciência de Dados, Linux e tecnologias de Código Aberto. Desde que adotei o Linux em 2018, abracei sua filosofia de resolução de problemas e inovação — uma mentalidade que continua a moldar minhas pesquisas e atividades profissionais.
 
 Minha pesquisa foca nas interseções entre história, tecnologia e sociedade, particularmente no contexto da História Contemporânea e do Brasil Republicano. Eu me especializo em explorar tópicos como Humanidades Digitais, Movimentos de Direita, Ditaduras Militares na América Latina, Estudos Críticos da Internet, Mídia Digital, Preservação Digital, História Pública, Estudos de Memória e os desafios das narrativas históricas na era digital.
 

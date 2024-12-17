@@ -4,7 +4,7 @@ date: 2024-04-29
 draft: false
 description: "a description"
 ---
-Technology has always fascinated me, evolving from a casual interest into a lifelong passion. My academic journey in History, spanning both undergraduate and master’s studies, led me to the transformative fields of Digital History and Digital Humanities. These areas not only deepened my understanding of historical narratives in the digital age but also introduced me to the dynamic world of Programming, Data Science, Linux, and Open Source technologies. Since adopting Linux in 2018, I’ve embraced its philosophy of problem-solving and innovation — a mindset that continues to shape my research and professional pursuits.
+My academic journey in History, spanning both undergraduate and master’s studies, led me to the transformative fields of Digital History and Digital Humanities. These areas not only deepened my understanding of historical narratives in the digital age but also introduced me to the dynamic world of Programming, Data Science, Linux, and Open Source technologies. Since adopting Linux in 2018, I’ve embraced its philosophy of problem-solving and innovation — a mindset that continues to shape my research and professional pursuits.
 
 My research focuses on the intersections of history, technology, and society, particularly in the context of Contemporary History and Republican Brazil. I specialize in exploring topics such as Digital Humanities, Right-wing movements, Military Dictatorships in Latin America, Critical internet studies, Digital media, Digital preservation, Public History, Memory Studies, and the challenges of historical narratives in the digital era.
 

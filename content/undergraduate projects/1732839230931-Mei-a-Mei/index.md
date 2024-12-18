@@ -3,7 +3,6 @@ title: "PUC Minas | Mei a Mei"
 date: 2024-11-29
 draft: false
 description: "a description"
-## max 10 tags
 tags: [ "featured project", "PUC Minas", "software", "development", "javascript", "mongoDB", "React.js", "React Native" ]
 ---
 <head>
@@ -25,8 +24,15 @@ tags: [ "featured project", "PUC Minas", "software", "development", "javascript"
       }
     }
   </script>
+{{< alert "star" >}}
+**Featured Project** - Second Year
+{{< /alert >}}
 
-A mobile app and web system designed to assist entrepreneurs under the MEI tax regime in managing their revenue and staying within the legal limits. The goal is to create alerts that notify the entrepreneur when they are nearing the category's revenue limit.
+>**First Semester of 2024**
+
+
+A mobile app and web system designed to assist entrepreneurs under the MEI tax regime in managing their revenue and staying within the legal limits. The goal is to create alerts that notify the entrepreneur when they are nearing the category's revenue limit. Also, the system provides a way to manage the entrepreneur's expenses and revenue, generating reports and graphs to help them understand their financial situation.
+
 
 <div style="display: flex; gap: 10px; align-items: center;">
 
@@ -38,10 +44,7 @@ A mobile app and web system designed to assist entrepreneurs under the MEI tax r
 
 </div>
 
-{{< alert "star" >}}
-**Featured Project** - Second Year
-{{< /alert >}}
->**First Semester of 2024**
+Promotional Video (in Portuguese)
 
 {{< youtubeLite id="uXs_BRr0ye4" label="Demo Video" >}}
 
@@ -50,9 +53,34 @@ A mobile app and web system designed to assist entrepreneurs under the MEI tax r
 
 - [Website Demo](https://meiameipuc.azurewebsites.net/)
 
-<details style="cursor:pointer" open><summary>Preview</summary>
-  <img src="featured.png" style="border-radius:2%">
-</details>
+- Login: gg@email.com
+
+- Password: 12345
+
+> It is hosted on a free Azure server, so it may take a while to start up.
+
+### Web System 
+
+{{< gallery >}}
+  <img src="featured.png"           class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img src="gallery/Mei1.png" class="grid-w500 md:grid-w33 xl:grid-w25" />
+  <img src="gallery/Mei2.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img src="gallery/Mei3.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img src="gallery/Mei4.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img src="gallery/Mei5.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+{{< /gallery >}}
+
+### Mobile App
+
+{{< gallery >}}
+  <img src="gallery/Mei01.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img src="gallery/Mei02.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img src="gallery/Mei03.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img src="gallery/Mei04.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img src="gallery/Mei05.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img src="gallery/Mei06.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+{{< /gallery >}}
+
 
 You can find more information about the project in the `GitHub Repository`.
 {{< github repo="ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-dad-t3-mei" >}}

@@ -6,7 +6,9 @@ description: "a description"
 tags: ["Personal Projects", "Web Development", "React", "Vite", "Data Visualization", "Data Analysis", "Vercel"]
 ---
 
-This project analyses the admissions process for the **2024-2025 academic year** in two PhD programs. It includes two main PhD programs in History: **Federal University of Juiz de Fora (UFJF)** and **Federal University of São Paulo (Unifesp)**. Gathering data from the project analysis.
+This project analyzes the admissions process for the **2024-2025 academic year** in two PhD programs. It includes two main PhD programs in History: **Federal University of Juiz de Fora (UFJF)** and **Federal University of São Paulo (Unifesp)**. Gathering data from the project analysis.
+
+This is an exploratory project, conducted as a test and out of curiosity about the programs in question. It also aims to put into practice some data analysis techniques.
 
 [Demo](https://processo-seletivo-2024-2025.vercel.app/)
 

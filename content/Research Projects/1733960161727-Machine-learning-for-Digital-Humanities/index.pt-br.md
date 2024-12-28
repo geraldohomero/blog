@@ -1,5 +1,5 @@
 ---
-title: "Aprendizado de máquina para as Humanidades Digitais"
+title: "Aprendizado de Máquina para as Humanidades Digitais"
 date: 2024-12-11
 draft: false
 description: "a description"

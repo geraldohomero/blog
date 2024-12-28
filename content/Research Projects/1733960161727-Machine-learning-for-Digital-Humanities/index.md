@@ -1,5 +1,5 @@
 ---
-title: "Machine learning for Digital Humanities"
+title: "Machine Learning for Digital Humanities"
 date: 2024-12-11
 draft: false
 description: "a description"

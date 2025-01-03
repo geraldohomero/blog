@@ -1,7 +1,7 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "geraldo@pop-os:~$ |"
+title = "geraldo@fedora:~$ |"
 
 [params]
   displayName = "English"

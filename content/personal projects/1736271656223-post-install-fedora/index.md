@@ -1,15 +1,9 @@
 ---
-title: "post-install-fedora"
+title: "Post Install Fedora"
 date: 2025-01-07
 draft: false
 description: "a description"
-tags: ["example", "tag"]
+tags: ["fedora", "post install", "linux", "script"]
 ---
- an example to get you started
-# This is a heading
-## This is a subheading
-### This is a subsubheading
-#### This is a subsubsubheading
-This is a paragraph with **bold** and *italic* text.
-Check more at [Blowfish documentation](https://blowfish.page/)
-undefined
+
+{{< mdimporter url="https://raw.githubusercontent.com/geraldohomero/post-install-fedora/refs/heads/main/README.md" >}}

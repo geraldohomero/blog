@@ -5,8 +5,7 @@ draft: false
 description: "a description"
 ---
 
->[ORCID](https://orcid.org/0000-0001-6686-7182) | [Lattes](http://lattes.cnpq.br/9924558848538635) | [Zotero](https://www.zotero.org/geraldohomero) | [ResearchGate](https://www.researchgate.net/profile/Geraldo-Couto-Neto) | [Web of Science](https://www.webofscience.com/wos/author/record/LFU-6287-2024) | [Google Scholar](https://scholar.google.com/citations?hl=pt-BR&user=QcUrmPYAAAAJ)
-
+[ORCID](https://orcid.org/0000-0001-6686-7182) | [Lattes](http://lattes.cnpq.br/9924558848538635) | [Zotero](https://www.zotero.org/geraldohomero) | [ResearchGate](https://www.researchgate.net/profile/Geraldo-Couto-Neto) | [Web of Science](https://www.webofscience.com/wos/author/record/LFU-6287-2024) | [Google Scholar](https://scholar.google.com/citations?hl=pt-BR&user=QcUrmPYAAAAJ)
 
 {{< button href="CV-Geraldo-Digital.pdf" target="_blank" >}}
 C.V.

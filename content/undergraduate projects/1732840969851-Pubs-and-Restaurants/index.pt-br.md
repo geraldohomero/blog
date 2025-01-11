@@ -3,7 +3,7 @@ title: "PUC Minas | Pubs e Restaurantes"
 date: 2022-11-29
 draft: false
 description: "uma descrição"
-tags: ["Featured Project", "PUC Minas", "HTML", "CSS", "JavaScript", "JSON"]
+tags: ["Projeto Destaque", "PUC Minas", "HTML", "CSS", "JavaScript", "JSON"]
 ---
 
 O principal objetivo deste projeto é desenvolver um menu digital e um sistema de autoatendimento que simplifique as operações diárias para empresas do setor de bares e restaurantes, ao mesmo tempo que melhore o atendimento ao cliente. No futuro, o sistema será capaz de gerar relatórios sobre os pratos e bebidas mais solicitados, bem como os itens mais lucrativos.

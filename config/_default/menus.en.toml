@@ -12,30 +12,32 @@ weight = 20
 
 [[main]]
 name = "Research"
-pageRef = "research"
+pageRef = "/research"
 identifier = "uJjKb2rFuO"
 weight = 30
 
 [[main]]
 name = "Projects"
 weight = 40
+pageRef = "projects"
+
 
 [[main]]
 name = "Research Projects"
 parent = "Projects"
-pageRef = "research-projects"
+pageRef = "/research-projects"
 weight = 41
 
 [[main]]
 name = "Personal Projects"
 parent = "Projects"
-pageRef = "personal projects"
+pageRef = "/personal projects"
 weight = 42
 
 [[main]]
 name = "Undergraduate Projects"
 parent = "Projects"
-pageRef = "undergraduate projects"
+pageRef = "/undergraduate projects"
 weight = 43
 
 [[main]]

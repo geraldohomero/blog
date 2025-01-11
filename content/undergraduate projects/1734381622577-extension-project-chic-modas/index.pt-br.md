@@ -3,7 +3,7 @@ title: "PUC Minas | Projeto de Extensão Ch'c Modas"
 date: 2024-12-16
 draft: false
 description: "uma descrição"
-tags: ["extensão", "graduação", "projeto", "mundo real", "cliente real", "indústria", "colaboração", "negócios" ]
+tags: ["Extensão", "graduação", "projeto final", "mundo real", "cliente real", "indústria", "colaboração", "negócios" ]
 ---
 
 {{< alert "star" >}}

@@ -3,7 +3,7 @@ title: "PUC Minas | Mei a Mei"
 date: 2024-11-29
 draft: false
 description: "uma descrição"
-tags: [ "projeto em destaque", "PUC Minas", "software", "desenvolvimento", "javascript", "mongoDB", "React.js", "React Native" ]
+tags: [ "Projeto Destaque", "PUC Minas", "software", "desenvolvimento", "javascript", "mongoDB", "React.js", "React Native" ]
 ---
 <head>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">

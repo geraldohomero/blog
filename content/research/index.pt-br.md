@@ -45,7 +45,7 @@ Para saber mais sobre essa pesquisa, [clique aqui!](/pt-br/research-projects/173
 
 ## Software
 
-{{< github repo="geraldohomero/dh-youtube-research" >}}
+{{< github repo="geraldohomero/dh-youtube-database" >}}
 
 ## Organização de eventos
 

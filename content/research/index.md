@@ -45,7 +45,7 @@ To know more about this research, please, [click here!](/research-projects/17335
 
 ## Software
 
-{{< github repo="geraldohomero/dh-youtube-research" >}}
+{{< github repo="geraldohomero/dh-youtube-database" >}}
 
 ## Conference organization
 

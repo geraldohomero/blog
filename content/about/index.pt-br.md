@@ -22,6 +22,11 @@ Minha pesquisa foca nas interseções entre história, tecnologia e sociedade, p
     </thead>
     <tbody>
         <tr>
+            <td style="vertical-align: middle;"><img class="customEntitityLogo" src="unicamp-u.svg"/></td>
+            <td style="vertical-align: middle;"><a href="https://unicamp.br/" target="_blank">Universidade Estadual de Campinas</a></td>
+            <td style="vertical-align: middle;">Doutorado em Ciência Política</td>
+        </tr>
+        <tr>
             <td rowspan="4" style="vertical-align: middle;"><img class="customEntitityLogo" src="ufjf.png"/></td>
             <td rowspan="4" style="vertical-align: middle;"><a href="https://ufjf.br/international/" target="_blank">Universidade Federal de Juiz de Fora</a></td>
         </tr>

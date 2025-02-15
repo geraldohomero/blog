@@ -10,9 +10,9 @@ description: "a description"
 
 ## Tese (Doutorado em Ciência Política | Unicamp)
 
-[Estudos Críticos da Internet: discursos sobre o Passado e Ação Política e Ideológica da Nova Direita Brasileira no YouTube (2013-2023)](/research-projects/1739118101927-phd-research/), em andamento.
+[Estudos Críticos da Internet: discursos sobre o Passado e Ação Política e Ideológica da Nova Direita Brasileira no YouTube (2013-2023)](/pt-br/research-projects/1739118101927-phd-research/), em andamento.
 
-Para saber mais sobre essa pesquisa em andamento, por favor, [clique aqui!](/research-projects/1739118101927-phd-research/)
+Para saber mais sobre essa pesquisa em andamento, por favor, [clique aqui!](/pt-br/research-projects/1739118101927-phd-research/)
 
 ## Dissertação (Mestrado em História | UFJF)
 

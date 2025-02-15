@@ -24,3 +24,4 @@ More information about this research is available on its GitHub repository:
 
 {{< github repo="geraldohomero/dh-youtube-database" >}}
 
+> See the progress of the project [here](https://github.com/users/geraldohomero/projects/4) and feel free to contribute!

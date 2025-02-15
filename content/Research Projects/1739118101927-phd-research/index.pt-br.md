@@ -23,3 +23,5 @@ Esta pesquisa está em sua fase inicial e tem como objetivo analisar os usos e a
 Mais informações sobre esta pesquisa estão disponíveis no repositório GitHub:
 
 {{< github repo="geraldohomero/dh-youtube-database" >}}
+
+> Veja o andamento do projeto [aqui](https://github.com/users/geraldohomero/projects/4) e sinta-se à vontade para contribuir!

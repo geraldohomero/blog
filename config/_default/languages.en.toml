@@ -14,7 +14,7 @@ title = "geraldo@fedora:~$ |"
 [params.author]
   name = "Geraldo Homero"
   image = "geraldohomero.jpg"
-  headline = "Teaching Assistant @ PUC Minas  <br> Digital Humanities | Python | C# | JavaScript <br><br>  M.A. in History, UFJF "
+  headline = "Researcher @ Unicamp  <br> Digital Humanities | Python | C# | JavaScript <br><br>  PhD Student in Political Science, Unicamp"
   bio = "**Researcher** | Digital History | Digital Humanities | Data Analysis | Python  <br> **Developer** | C# | .NET | JavaScript | React.js "
   links = [
     { linkedin = "https://www.linkedin.com/in/geraldohomero/" },

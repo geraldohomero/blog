@@ -5,11 +5,15 @@ draft: false
 description: "a description"
 ---
 
-[ORCID](https://orcid.org/0000-0001-6686-7182) | [Lattes](http://lattes.cnpq.br/9924558848538635) | [Zotero](https://www.zotero.org/geraldohomero) | [ResearchGate](https://www.researchgate.net/profile/Geraldo-Couto-Neto) | [Web of Science](https://www.webofscience.com/wos/author/record/LFU-6287-2024) | [Google Scholar](https://scholar.google.com/citations?hl=pt-BR&user=QcUrmPYAAAAJ)
+> [ORCID](https://orcid.org/0000-0001-6686-7182) | [Lattes](http://lattes.cnpq.br/9924558848538635) | [Zotero](https://www.zotero.org/geraldohomero) | [ResearchGate](https://www.researchgate.net/profile/Geraldo-Couto-Neto) | [Web of Science](https://www.webofscience.com/wos/author/record/LFU-6287-2024) | [Google Scholar](https://scholar.google.com/citations?hl=pt-BR&user=QcUrmPYAAAAJ)
 
-{{< button href="CV-Geraldo-Digital.pdf" target="_blank" >}}
-C.V.
-{{< /button >}}
+
+## Ph.D. Thesis (Ph.D. in Political Science | Unicamp)
+
+[Critical Internet Studies: discourses on the Past and Political and Ideological Action of the Brazilian New Right on YouTube (2013-2023)](/research-projects/1739118101927-phd-research/), ongoing.
+
+To know more about this ongoing research, please, [click here!](/research-projects/1739118101927-phd-research/)
+ 
 
 ## Master's Thesis (M.A. in History | UFJF)
 [(De)constructing History on the Internet: Views on the Brazilian Military Dictatorship in channels of the "new right" on YouTube (2013-2018)](https://repositorio.ufjf.br/jspui/handle/ufjf/14568), 2022.

@@ -8,10 +8,6 @@ My academic journey in History, spanning both undergraduate and master’s studi
 
 My research focuses on the intersections of history, technology, and society, particularly in the context of Contemporary History and Republican Brazil. I specialize in exploring topics such as Digital Humanities, Right-wing movements, Military Dictatorships in Latin America, Critical internet studies, Digital media, Digital preservation, Public History, Memory Studies, and the challenges of historical narratives in the digital era.
 
-{{< button href="CV-Geraldo-Digital.pdf" target="_blank" >}}
-C.V.
-{{< /button >}}
-
 ## Education
 
 <table>
@@ -26,7 +22,7 @@ C.V.
         <tr>
             <td style="vertical-align: middle;"><img class="customEntitityLogo" src="unicamp-u.svg"/></td>
             <td style="vertical-align: middle;"><a href="https://internationaloffice.unicamp.br/en/" target="_blank">State University of Campinas</a></td>
-            <td style="vertical-align: middle;">PhD in Political Science</td>
+            <td style="vertical-align: middle;">Ph.D. in Political Science</td>
         </tr>
         <tr>
             <td rowspan=4 style="vertical-align: middle;"><img class="customEntitityLogo" src="ufjf.png"/></td>

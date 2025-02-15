@@ -5,9 +5,16 @@ draft: false
 description: "a description"
 ---
 
-[ORCID](https://orcid.org/0000-0001-6686-7182) | [Lattes](http://lattes.cnpq.br/9924558848538635) | [Zotero](https://www.zotero.org/geraldohomero) | [ResearchGate](https://www.researchgate.net/profile/Geraldo-Couto-Neto) | [Web of Science](https://www.webofscience.com/wos/author/record/LFU-6287-2024) | [Google Scholar](https://scholar.google.com/citations?hl=pt-BR&user=QcUrmPYAAAAJ)
+>[ORCID](https://orcid.org/0000-0001-6686-7182) | [Lattes](http://lattes.cnpq.br/9924558848538635) | [Zotero](https://www.zotero.org/geraldohomero) | [ResearchGate](https://www.researchgate.net/profile/Geraldo-Couto-Neto) | [Web of Science](https://www.webofscience.com/wos/author/record/LFU-6287-2024) | [Google Scholar](https://scholar.google.com/citations?hl=pt-BR&user=QcUrmPYAAAAJ)
 
-## Dissertação (Mestrado/UFJF)
+
+## Tese (Doutorado em Ciência Política | Unicamp)
+
+[Estudos Críticos da Internet: discursos sobre o Passado e Ação Política e Ideológica da Nova Direita Brasileira no YouTube (2013-2023)](/research-projects/1739118101927-phd-research/), em andamento.
+
+Para saber mais sobre essa pesquisa em andamento, por favor, [clique aqui!](/research-projects/1739118101927-phd-research/)
+
+## Dissertação (Mestrado em História | UFJF)
 
 [(Des)fazendo História na Internet: visões acerca da Ditadura Militar Brasileira em canais da “nova direita” no YouTube (2013-2018)](https://repositorio.ufjf.br/jspui/handle/ufjf/14568), 2022.
 
@@ -15,11 +22,11 @@ description: "a description"
 
 Para saber mais sobre essa pesquisa, [clique aqui!](/pt-br/research-projects/1733588216310-masters-thesis/)
 
-## Monografia (Licenciatura/UFJF)
+## Monografia (Licenciatura em História | UFJF)
 
 [Negacionismo da Ditadura em sala de aula: entre a memória e a história](http://dx.doi.org/10.13140/RG.2.2.18274.95686), 2021.
 
-## Monografia (Bacharelado/UFJF)
+## Monografia (Bacharelado em História | UFJF)
 
 [As histórias que contam por aí: a Ditadura Militar Brasileira aos olhos de três canais conservadores do YouTube](http://dx.doi.org/10.13140/RG.2.2.29915.37929), 2018.
 

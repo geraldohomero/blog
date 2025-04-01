@@ -8,3 +8,7 @@
 	path = public
 	url = https://github.com/geraldohomero/geraldohomero.github.io.git
 	branch = main
+[submodule "themes/blowfish"]
+	path = themes/blowfish
+	url = https://github.com/nunocoracao/blowfish.git
+	branch = main

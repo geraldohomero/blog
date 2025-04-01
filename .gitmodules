@@ -8,3 +8,7 @@
 [submodule "public/geraldohomero.github.io"]
 	path = public/geraldohomero.github.io
 	url = https://github.com/geraldohomero/geraldohomero.github.io
+[submodule "public"]
+	path = public
+	url = https://github.com/geraldohomero/geraldohomero.github.io.git
+	branch = main

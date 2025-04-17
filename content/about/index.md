@@ -71,8 +71,8 @@ My research focuses on the intersections of history, technology, and society, pa
 
 ## Skills 
 
-<div style="display: flex; flex-wrap: wrap;">
-<table style="width: 50%;">
+<div>
+<table>
     <thead>
         <tr>
             <th>Data</th>
@@ -81,53 +81,24 @@ My research focuses on the intersections of history, technology, and society, pa
     </thead>
     <tbody>
         <tr>
-            <td style="display: flex; flex-direction: column; justify-content: center;">
+             <td style="display: flex; flex-direction: column; justify-content: center;">
                 <img class="customEntitityLogo" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
                 <img class="customEntitityLogo" src= "powerBi.svg"/>
                 <img class="customEntitityLogo" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg"/>
             </td>
             <td style="vertical-align: middle;">
                 <ul>
-                <li>Python | R</li>
-                <li>scikit-learn</li>
-                <li>Pandas</li>
-                <li>Topic modeling</li>
-                <li>Text mining</li>
+                <li>Python | Spyder | R | RStudio </li>
+                <li>Data Wrangling | Pandas | NumPy</li>
+                <li>Topic modeling | LDA | LSA | NMF</li>
+                <li>Text mining | Text analysis</li>
+                <li>Natural Language Processing</li>
                 <li>Machine learning</li>
-                <li>Data visualization</li>
-                <li>Power BI </li>
+                <li>Data visualization </li>
+                <li>Power BI | Excel | Tableau | SPSS</li>
+                <li>Data scraping | BeautifulSoup | Scrapy</li>
             </ul>
         </td>
-    </tbody>
-</table>
-<table style="width: 50%;">
-    <thead>
-        <tr>
-            <th>Linux</th>
-            <th></th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td style="display: flex; flex-direction: column; justify-content: center;">
-                <img class="customEntitityLogo" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-                <img class="customEntitityLogo" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg"/>
-                <img class="customEntitityLogo" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg"/>
-            </td>
-            <td style="vertical-align: middle;">
-                <ul>
-                    <li>Shell Scripting</li>
-                    <li>Ubuntu</li>
-                    <li>Debian</li>
-                    <li>Fedora</li>
-                    <li>Arch Linux</li>
-                    <li>NixOS</li>
-                    <li>WSL</li>
-                    <li>Docker</li>
-                    <li>Podman</li>
-                </ul>
-            </td>
-        </tr>
     </tbody>
 </table>
 <table>
@@ -148,15 +119,45 @@ My research focuses on the intersections of history, technology, and society, pa
                 <ul>
                     <li>HTML - CSS | Bootstrap | Sass | Tailwind</li>
                     <li>JavaScript | React.js | Node.js | React Native</li>
-                    <li>C# | .NET | ASP.NET | MVC</li>
+                    <li>C# | .NET | ASP.NET | MVC </li>
                     <li>SQL | MySQL | SQLServer | SQLite</li>
                     <li>NoSQL | MongoDB</li>
                     <li>Git | Github | Gitlab | Bitbucket</li>
-                    <li>AI | DS R1 | Gemini | GPT4All | LM Studio</li>
+                    <li>AI | DeepSeek | Gemini | GPT4All | ollama</li>
                     <li> C | Rust | GTK </li>
                 </ul>
             </td>
         </tr>
     </tbody>
 </table>
+<table>
+    <thead>
+        <tr>
+            <th>Linux</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+             <td style="display: flex; flex-direction: column; justify-content: center;">
+                <img class="customEntitityLogo" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+                <img class="customEntitityLogo" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg"/>
+                <img class="customEntitityLogo" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg"/>
+            </td>
+            <td style="vertical-align: middle;">
+                <ul>
+                    <li>Shell Scripting | Bash </li>
+                    <li>Debian | Ubuntu </li>
+                    <li>RHEL | Fedora </li>
+                    <li>Arch Linux (btw)</li>
+                    <li>OpenSUSE</li>
+                    <li>NixOS</li>
+                    <li>Windows Subsystem for Linux</li>
+                    <li>Docker | Podman</li>
+                </ul>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<table>
 </div>

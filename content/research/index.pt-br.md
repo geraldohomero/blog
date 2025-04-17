@@ -5,7 +5,9 @@ draft: false
 description: "a description"
 ---
 
->[ORCID](https://orcid.org/0000-0001-6686-7182) | [Lattes](http://lattes.cnpq.br/9924558848538635) | [Zotero](https://www.zotero.org/geraldohomero) | [ResearchGate](https://www.researchgate.net/profile/Geraldo-Couto-Neto) | [Web of Science](https://www.webofscience.com/wos/author/record/LFU-6287-2024) | [Google Scholar](https://scholar.google.com/citations?hl=pt-BR&user=QcUrmPYAAAAJ)
+{{< alert "info" >}}
+[ORCID](https://orcid.org/0000-0001-6686-7182) [|](#) [Lattes](http://lattes.cnpq.br/9924558848538635) [|](#)  [Zotero](https://www.zotero.org/geraldohomero) [|](#)  [ResearchGate](https://www.researchgate.net/profile/Geraldo-Couto-Neto) [|](#)  [Academia](https://unicamp.academia.edu/GeraldoHomerodoCoutoNeto) [|](#)  [Google Scholar](https://scholar.google.com/citations?hl=pt-BR&user=QcUrmPYAAAAJ)
+{{< /alert >}}
 
 
 ## Tese (Doutorado em Ciência Política | Unicamp)
@@ -14,11 +16,13 @@ description: "a description"
 
 Para saber mais sobre essa pesquisa em andamento, por favor, [clique aqui!](/pt-br/research-projects/1739118101927-phd-research/)
 
+### Software
+
+{{< github repo="geraldohomero/dh-youtube-database" >}}
+
 ## Dissertação (Mestrado em História | UFJF)
 
 [(Des)fazendo História na Internet: visões acerca da Ditadura Militar Brasileira em canais da “nova direita” no YouTube (2013-2018)](https://repositorio.ufjf.br/jspui/handle/ufjf/14568), 2022.
-
-> `Resumo`: Esta dissertação tem como objetivo analisar vídeos de grandes canais da nova direita brasileira no YouTube que abarcam o tema da ditadura militar brasileira, bem como seus respectivos comentários. Trabalharemos com o recorte temporal de junho de 2013 até o ano de 2018, pelo fato de as manifestações de junho terem criado um terreno propício para a difusão de ideias “liberais na economia e conservadoras nos costumes” da nova direita, o que coincide, justamente, com o seu aparecimento mais ativo na esfera pública e digital. A partir disso, buscaremos entender como esses sujeitos interpretam, discutem e compartilham o passado, assim como identificar as inconsistências dos conteúdos defendidos, para, então, problematizar suas visões revisionistas e negacionistas sobre a ditadura, em contraposição ao que há de consolidado na historiografia brasileira sobre o tema. Tal estudo nos possibilita uma reflexão acerca do papel do historiador frente às novas mídias, tendo em vista o seu grande poder de alcance de público, e aos desafios proporcionados pelas disputas ocorridas esfera pública em torno das memórias da ditadura militar brasileira.
 
 Para saber mais sobre essa pesquisa, [clique aqui!](/pt-br/research-projects/1733588216310-masters-thesis/)
 
@@ -50,9 +54,6 @@ Para saber mais sobre essa pesquisa, [clique aqui!](/pt-br/research-projects/173
     
 - [Memória, História e Cinema: Miguel Littín cineasta clandestino no Chile de 1985](http://dx.doi.org/10.13140/RG.2.2.36292.85128), 2017.
 
-## Software
-
-{{< github repo="geraldohomero/dh-youtube-database" >}}
 
 ## Organização de eventos
 

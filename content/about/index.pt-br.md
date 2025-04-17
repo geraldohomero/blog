@@ -73,65 +73,40 @@ Minha pesquisa foca nas interseções entre história, tecnologia e sociedade, p
 </table>
 
 ## Habilidades
-
-<div style="display: flex; flex-wrap: wrap;">
-<table style="width: 50%;">
+<div>
+<table>
     <thead>
         <tr>
-            <th>Data</th>
+            <th>Dados</th>
             <th></th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td style="display: flex; flex-direction: column; justify-content: center;">
+             <td style="display: flex; flex-direction: column; justify-content: center;">
                 <img class="customEntitityLogo" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
                 <img class="customEntitityLogo" src= "powerBi.svg"/>
+                <img class="customEntitityLogo" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg"/>
             </td>
             <td style="vertical-align: middle;">
                 <ul>
-                <li>Python | R</li>
-                <li>scikit-learn</li>
-                <li>Topic modeling</li>
-                <li>Text mining</li>
-                <li>Machine learning</li>
-                <li>GNU PSPP</li>
-                <li>Power BI </li>
+                <li>Python | Spyder | R | RStudio </li>
+                <li>Manipulação de Dados | Pandas | NumPy</li>
+                <li>Modelagem de Tópicos | LDA | LSA | NMF</li>
+                <li>Mineração de Texto | Análise de Texto</li>
+                <li>Processamento de Linguagem Natural</li>
+                <li>Aprendizado de Máquina</li>
+                <li>Visualização de Dados</li>
+                <li>Power BI | Excel | Tableau | SPSS</li>
+                <li>Extração de Dados | BeautifulSoup | Scrapy</li>
             </ul>
         </td>
-    </tbody>
-</table>
-<table style="width: 50%;">
-    <thead>
-        <tr>
-            <th>Linux</th>
-            <th></th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td style="display: flex; flex-direction: column; justify-content: center;">
-                <img class="customEntitityLogo" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-                <img class="customEntitityLogo" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg"/>
-            </td>
-            <td style="vertical-align: middle;">
-                <ul>
-                    <li>Shell Scripting</li>
-                    <li>Ubuntu</li>
-                    <li>Debian</li>
-                    <li>NixOS</li>
-                    <li>Arch Linux</li>
-                    <li>WSL</li>
-                    <li>Docker</li>
-                </ul>
-            </td>
-        </tr>
     </tbody>
 </table>
 <table>
     <thead>
         <tr>
-            <th>Development</th>
+            <th>Desenvolvimento</th>
             <th></th>
         </tr>
     </thead>
@@ -146,16 +121,45 @@ Minha pesquisa foca nas interseções entre história, tecnologia e sociedade, p
                 <ul>
                     <li>HTML - CSS | Bootstrap | Sass | Tailwind</li>
                     <li>JavaScript | React.js | Node.js | React Native</li>
-                    <li>C# | .NET | ASP.NET Core | MVC</li>
+                    <li>C# | .NET | ASP.NET | MVC </li>
                     <li>SQL | MySQL | SQLServer | SQLite</li>
                     <li>NoSQL | MongoDB</li>
                     <li>Git | Github | Gitlab | Bitbucket</li>
-                    <li>AI | Llama | Gemini | GPT4All</li>
-                    <li>Python</li>
-                    <li>Rust</li>
+                    <li>IA | DeepSeek | Gemini | GPT4All | ollama</li>
+                    <li> C | Rust | GTK </li>
                 </ul>
             </td>
         </tr>
     </tbody>
 </table>
+<table>
+    <thead>
+        <tr>
+            <th>Linux</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+             <td style="display: flex; flex-direction: column; justify-content: center;">
+                <img class="customEntitityLogo" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+                <img class="customEntitityLogo" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg"/>
+                <img class="customEntitityLogo" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg"/>
+            </td>
+            <td style="vertical-align: middle;">
+                <ul>
+                    <li>Shell Scripting | Bash </li>
+                    <li>Debian | Ubuntu </li>
+                    <li>RHEL | Fedora </li>
+                    <li>Arch Linux (btw)</li>
+                    <li>OpenSUSE</li>
+                    <li>NixOS</li>
+                    <li>Windows Subsystem for Linux</li>
+                    <li>Docker | Podman</li>
+                </ul>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<table>
 </div>

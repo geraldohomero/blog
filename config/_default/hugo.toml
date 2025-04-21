@@ -1,5 +1,5 @@
 theme = "blowfish"
-baseURL = "https://geraldohomero.github.io"
+baseURL = "https://geraldohomero.github.io/"
 defaultContentLanguage = "en"
 enableRobotsTXT = false
 paginate = 10

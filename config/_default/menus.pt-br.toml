@@ -39,8 +39,8 @@ pageRef = "undergraduate projects"
 weight = 43
 
 [[main]]
-name = "Posts"
-pageRef = "posts"
+name = "Blog"
+pageRef = "blog"
 identifier = "CsX5EYuCL2"
 weight = 50
 

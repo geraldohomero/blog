@@ -17,14 +17,14 @@ A distro-agnostic script to manage multiple MEGASync instances for different MEG
 - Add instances dynamically
 - Persistent instance storage
 
-{{< github repo="geraldohomero/megasync_multiple_instances" >}}
+{{< github repo="geraldohomero/megasync-multiple-instances" >}}
 
 ## Installation
 
 Run this command to install:
 
 ```bash
-wget -O - https://raw.githubusercontent.com/geraldohomero/megasync_multiple_instances/refs/heads/main/megasync-manager.sh | bash -s install
+wget -O - https://raw.githubusercontent.com/geraldohomero/megasync-multiple-instances/refs/heads/main/megasync-manager.sh | bash -s install
 ```
 
 Then use:

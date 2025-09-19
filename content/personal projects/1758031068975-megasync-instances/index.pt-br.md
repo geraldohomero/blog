@@ -17,14 +17,14 @@ Um script independente de distribuição para gerenciar múltiplas instâncias d
 - Adição dinâmica de instâncias
 - Armazenamento persistente das instâncias
 
-{{< github repo="geraldohomero/megasync_multiple_instances" >}}
+{{< github repo="geraldohomero/megasync-multiple-instances" >}}
 
 ## Instalação
 
 Execute este comando para instalar:
 
 ```bash
-wget -O - https://raw.githubusercontent.com/geraldohomero/megasync_multiple_instances/refs/heads/main/megasync-manager.sh | bash -s install
+wget -O - https://raw.githubusercontent.com/geraldohomero/megasync-multiple-instances/refs/heads/main/megasync-manager.sh | bash -s install
 ```
 
 Depois use:

@@ -20,21 +20,21 @@ My research focuses on the intersections of history, technology, and society, pa
     </thead>
     <tbody>
         <tr>
-            <td style="vertical-align: middle;"><img class="customEntitityLogo" src="unicamp-u.svg"/></td>
-            <td style="vertical-align: middle;"><a href="https://internationaloffice.unicamp.br/en/" target="_blank">State University of Campinas</a></td>
-            <td style="vertical-align: middle;">Ph.D. in Political Science</td>
+            <td style="vertical-align: middle; padding: 8px;"><img class="customEntitityLogo" src="unicamp-u.svg"/></td>
+            <td style="vertical-align: middle; padding: 8px;"><a href="https://internationaloffice.unicamp.br/en/" target="_blank">State University of Campinas</a></td>
+            <td style="vertical-align: middle; padding: 8px;">Ph.D. student in Political Science</td>
         </tr>
         <tr>
-            <td rowspan=4 style="vertical-align: middle;"><img class="customEntitityLogo" src="ufjf.png"/></td>
-            <td rowspan=4 style="vertical-align: middle;"><a href="https://ufjf.br/international/" target="_blank">Federal University of Juiz de Fora</a></td>            
+            <td rowspan=4 style="vertical-align: middle; padding: 8px;"><img class="customEntitityLogo" src="ufjf.png"/></td>
+            <td rowspan=4 style="vertical-align: middle; padding: 8px;"><a href="https://ufjf.br/international/" target="_blank">Federal University of Juiz de Fora</a></td>            
         <tr>
-            <td style="vertical-align: middle;">M.A. in History</td> 
+            <td style="vertical-align: middle; padding: 8px;">M.A. in History</td> 
         </tr>
         <tr>
-            <td style="vertical-align: middle;">B.Ed.in History</td>
+            <td style="vertical-align: middle; padding: 8px;">B.Ed.in History</td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;">B.A. in History</td>
+            <td style="vertical-align: middle; padding: 8px;">B.A. in History</td>
         </tr>
         <thead>
         <tr>
@@ -42,9 +42,9 @@ My research focuses on the intersections of history, technology, and society, pa
         </tr>
         </thead>
         <tr>
-            <td rowspan=2 style="vertical-align: middle;"><img class="customEntitityLogo" src="pucminas.png"/></td>
-            <td rowspan=2 style="vertical-align: middle;"><a href="http://portal.pucminas.br/ari/" target="_blank">Pontifical Catholic University of Minas Gerais</a></td>
-            <td style="vertical-align: middle;">A.S. in Software Analysis and Development</td>
+            <td rowspan=2 style="vertical-align: middle; padding: 8px;"><img class="customEntitityLogo" src="pucminas.png"/></td>
+            <td rowspan=2 style="vertical-align: middle; padding: 8px;"><a href="http://portal.pucminas.br/ari/" target="_blank">Pontifical Catholic University of Minas Gerais</a></td>
+            <td style="vertical-align: middle; padding: 8px;">A.S. in Software Analysis and Development</td>
         </tr>
         <thead>
         <tr>
@@ -52,18 +52,18 @@ My research focuses on the intersections of history, technology, and society, pa
         </tr>
         </thead>
         <tr>
-            <td rowspan=2 style="vertical-align: middle;"><img class="customEntitityLogo" src="usp.png"/></td>
-            <td rowspan=2 style="vertical-align: middle;"><a href="https://mbauspesalq.com/en" target="_blank">University of São Paulo</a></td>
-            <td style="vertical-align: middle;">Data Analysis with Python</td>
+            <td rowspan=2 style="vertical-align: middle; padding: 8px;"><img class="customEntitityLogo" src="usp.png"/></td>
+            <td rowspan=2 style="vertical-align: middle; padding: 8px;"><a href="https://mbauspesalq.com/en" target="_blank">University of São Paulo</a></td>
+            <td style="vertical-align: middle; padding: 8px;">Data Analysis with Python</td>
         <thead>
         <tr>
             <th></th>
         </tr>
         </thead>
         <tr>
-            <td rowspan=2 style="vertical-align: middle;"><img class="customEntitityLogo" src="uft.png"/></td>
-            <td rowspan=2 style="vertical-align: middle;"><a href="https://www.uft.edu.br/" target="_blank">Federal University of Tocantins</a></td>
-            <td style="vertical-align: middle;">Mining, Topic Modeling, and Multivariate Analysis of Textual Data from YouTube</td>
+            <td rowspan=2 style="vertical-align: middle; padding: 8px;"><img class="customEntitityLogo" src="uft.png"/></td>
+            <td rowspan=2 style="vertical-align: middle; padding: 8px;"><a href="https://www.uft.edu.br/" target="_blank">Federal University of Tocantins</a></td>
+            <td style="vertical-align: middle; padding: 8px;">Mining, Topic Modeling, and Multivariate Analysis of Textual Data from YouTube</td>
         </tr>
     </tbody>
 </table>
@@ -81,12 +81,12 @@ My research focuses on the intersections of history, technology, and society, pa
     </thead>
     <tbody>
         <tr>
-             <td style="display: flex; flex-direction: column; justify-content: center;">
+             <td style="display: flex; flex-direction: column; justify-content: center; padding: 8px;">
                 <img class="customEntitityLogo" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
                 <img class="customEntitityLogo" src= "powerBi.svg"/>
                 <img class="customEntitityLogo" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg"/>
             </td>
-            <td style="vertical-align: middle;">
+            <td style="vertical-align: middle; padding: 8px;">
                 <ul>
                 <li>Python | Spyder | R | RStudio </li>
                 <li>Data Wrangling | Pandas | NumPy</li>
@@ -110,12 +110,12 @@ My research focuses on the intersections of history, technology, and society, pa
     </thead>
     <tbody>
         <tr>
-             <td style="display: flex; flex-direction: column; justify-content: center;">
+             <td style="display: flex; flex-direction: column; justify-content: center; padding: 8px;">
                     <img class="customEntitityLogo" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
                     <img class="customEntitityLogo" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg"/>
                     <img class="customEntitityLogo" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
                 </td>
-            <td style="vertical-align: middle;">
+            <td style="vertical-align: middle; padding: 8px;">
                 <ul>
                     <li>HTML - CSS | Bootstrap | Sass | Tailwind</li>
                     <li>JavaScript | React.js | Node.js | React Native</li>
@@ -139,12 +139,12 @@ My research focuses on the intersections of history, technology, and society, pa
     </thead>
     <tbody>
         <tr>
-             <td style="display: flex; flex-direction: column; justify-content: center;">
+             <td style="display: flex; flex-direction: column; justify-content: center; padding: 8px;">
                 <img class="customEntitityLogo" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
                 <img class="customEntitityLogo" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg"/>
                 <img class="customEntitityLogo" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg"/>
             </td>
-            <td style="vertical-align: middle;">
+            <td style="vertical-align: middle; padding: 8px;">
                 <ul>
                     <li>Shell Scripting | Bash </li>
                     <li>Debian | Ubuntu </li>

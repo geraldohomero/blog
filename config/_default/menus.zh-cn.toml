@@ -1,0 +1,80 @@
+[[main]]
+name = "首页"
+pageRef = "/"
+identifier = "BIEPhK0TJV"
+weight = 10
+
+[[main]]
+name = "关于"
+pageRef = "/about"
+identifier = "uWJeay3VG8"
+weight = 20
+
+[[main]]
+name = "研究"
+pageRef = "/research"
+identifier = "uJjKb2rFuO"
+weight = 30
+
+[[main]]
+name = "项目"
+weight = 40
+pageRef = "projects"
+
+
+[[main]]
+name = "研究项目"
+parent = "项目"
+pageRef = "/research-projects"
+weight = 41
+
+[[main]]
+name = "个人项目"
+parent = "项目"
+pageRef = "/personal projects"
+weight = 42
+
+[[main]]
+name = "本科生项目"
+parent = "项目"
+pageRef = "/undergraduate projects"
+weight = 43
+
+[[main]]
+name = "博客"
+pageRef = "blog"
+identifier = "CsX5EYuCL2"
+weight = 50
+
+
+[[main]]
+pre = "linkedin"
+url = "https://linkedin.com/in/geraldohomero"
+identifier = "eeoCMXECZk"
+weight = 70
+
+[[main]]
+pre = "github"
+url = "https://github.com/geraldohomero"
+identifier = "eeoCMXEfZk"
+weight = 80
+
+[[main]]
+pre = "orcid"
+url = "https://orcid.org/0000-0001-6686-7182"
+identifier = "eeoCMXEGZk"
+
+[[footer]]
+none = "none"
+
+[[footer]]
+name = "文章"
+pageRef = "posts"
+identifier = "CsX5EYuCL2"
+weight = 2
+
+[[footer]]
+name = "标签"
+pageRef = "tags"
+identifier = "mYVU27jzZj"
+weight = 1

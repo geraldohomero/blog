@@ -2,10 +2,12 @@ theme = "blowfish"
 baseURL = "https://geraldohomero.github.io/"
 defaultContentLanguage = "en"
 enableRobotsTXT = false
-paginate = 10
 summaryLength = 0
 buildDrafts = false
 buildFuture = false
+
+[pagination]
+  pagerSize = 10
 
 [imaging]
 anchor = "Center"

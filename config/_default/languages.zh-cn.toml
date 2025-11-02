@@ -1,0 +1,31 @@
+languageCode = "zh-cn"
+languageName = "简体中文"
+weight = 10
+title = "geraldo:~$"
+
+[params]
+  displayName = "简体中文"
+  isoCode = "zh-cn"
+  rtl = false
+  dateFormat = "2 January 2006"
+  logo = ""
+  description = "个人网站和简历"
+
+[params.author]
+  name = "光杰豪"
+  image = "geraldohomero.jpg"
+  headline = "Geraldo Homero <br><br>研究员 @ Unicamp  <br> 数字人文 | Python | C# | JavaScript <br><br>  政治学博士生, 坎皮纳斯州立大学"
+  bio = "**研究员** | 数字历史 | 数字人文 | 数据分析 | Python  <br> **开发者** | C# | .NET | JavaScript | React.js "
+  links = [
+    { linkedin = "https://www.linkedin.com/in/geraldohomero/" },
+    { github = "https://github.com/geraldohomero" },
+    { gitlab = "https://gitlab.com/geraldohomero" },
+    { codeberg = "https://codeberg.org/ghcoutoneto" },
+    { orcid = "https://orcid.org/0000-0001-6686-7182" },
+    { researchgate = "https://www.researchgate.net/profile/Geraldo-Couto-Neto"},
+    { bluesky = "https://bsky.app/profile/geraldohomero.bsky.social"},
+    { mastodon = "https://mastodon.social/@geraldohomero"},
+    { x-twitter = "https://twitter.com/geraldohomero"},
+    { instagram = "https://www.instagram.com/geraldohomero/" }
+
+  ]

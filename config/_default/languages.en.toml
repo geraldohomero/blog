@@ -23,9 +23,7 @@ title = "geraldo:~$"
     { codeberg = "https://codeberg.org/ghcoutoneto" },
     { orcid = "https://orcid.org/0000-0001-6686-7182" },
     { researchgate = "https://www.researchgate.net/profile/Geraldo-Couto-Neto"},
-    { bluesky = "https://bsky.app/profile/geraldohomero.bsky.social"},
-    { mastodon = "https://mastodon.social/@geraldohomero"},
-    { x-twitter = "https://twitter.com/geraldohomero"},
-    { instagram = "https://www.instagram.com/geraldohomero/" }
-
+    { letterboxd = "https://letterboxd.com/geraldohomero/" },
+    { goodreads = "https://www.goodreads.com/geraldohomero" },
+    { instagram = "https://www.instagram.com/geraldohomero/" },
   ]

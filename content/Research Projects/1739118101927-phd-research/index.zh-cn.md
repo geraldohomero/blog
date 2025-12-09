@@ -1,27 +1,27 @@
 ---
-title: "Ph.D. Research"
+title: "博士研究"
 date: 2025-02-09
 draft: false
-description: "a description"
-tags: ["Data", "Research", "PhD", "Digital Humanities", "Database", "Critical Internet Studies" ]
+description: "描述"
+tags: ["数据", "研究", "博士", "数字人文", "数据库", "批判性互联网研究"]
 ---
 
-## New Right on YouTube: Uses and Abuses of History
+## YouTube 上的“新右派”：历史的使用与滥用
 
-This research is in its initial phase and aims to analyze the uses and abuses of history by the new right on YouTube. The project will focus on the period from 2013 to 2023, considering the consolidation of the new right in the Brazilian public sphere and the digital environment. The research will analyze the videos of the main channels of the new right on YouTube that address, in some way, the past, as well as the comments of the users of these channels. The objective is to understand the negationist nature of the narratives disseminated by these channels, as well as the strategies used to legitimize them. The research will also seek to identify the main historical themes addressed by the new right, as well as the main historical references used to support their arguments. The project will be developed in the context of the Digital Humanities and Critical Internet Studies, seeking to contribute to the understanding of the relationship between history, memory, and digital media.
+本研究处于初始阶段，旨在分析新右派在 YouTube 上对历史的使用与滥用。项目将聚焦 2013 至 2023 年间新右派在巴西公共领域及数字环境中的巩固过程。研究将分析新右派主要频道中涉及过去的影片以及用户评论，目标是理解这些频道所传播叙事的否认主义特征及其合法化策略。同时，本研究还将识别新右派所关注的主要历史主题及其援引的历史参考。项目置于数字人文与批判性互联网研究的背景之中，旨在增进对历史、记忆与数字媒体之间关系的理解。
 
->This research is being developed in the Political Science Graduate Program at the State University of Campinas (Unicamp).
+>本研究在坎皮纳斯州立大学（Unicamp）政治学研究生项目中开展。
 
-### Main techniques and tools
+### 主要技术与工具
 
-- Topic modeling with [BERTopic](https://github.com/MaartenGr/BERTopic)
-- Machine learning with [scikit-learn](https://scikit-learn.org/stable/)
-- Data visualization with [Altair](https://altair-viz.github.io/)
-- Database with [MySQL](https://www.mysql.com/)
-- YouTube API v3 [documentation](https://developers.google.com/youtube/v3)
+- 使用 [BERTopic](https://github.com/MaartenGr/BERTopic) 进行主题建模
+- 使用 [scikit-learn](https://scikit-learn.org/stable/) 进行机器学习
+- 使用 [Altair](https://altair-viz.github.io/) 进行数据可视化
+- 使用 [MySQL](https://www.mysql.com/) 构建数据库
+- YouTube API v3 [文档](https://developers.google.com/youtube/v3)
 
-More information about this research is available on its GitHub repository:
+更多项目信息请参见 GitHub 仓库：
 
 {{< github repo="geraldohomero/dh-youtube-database" >}}
 
-> See the progress of the project [here](https://github.com/users/geraldohomero/projects/4) and feel free to contribute!
+>在[这里](https://github.com/users/geraldohomero/projects/4)查看项目进展，欢迎贡献！

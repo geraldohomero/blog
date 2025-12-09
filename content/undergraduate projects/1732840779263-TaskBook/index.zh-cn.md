@@ -2,20 +2,20 @@
 title: "PUC Minas | TaskBook"
 date: 2023-11-29
 draft: false
-description: "a description"
+description: "一个描述"
 ## max 10 tags
 tags: ["PUC Minas", "React Native", "Expo", "JavaScript", "SQLite", "REST", "JSON Server", "MySQL"]
 ---
 
-An application for predefined tasks grouped by project, designed to be used by managers and employees to generate reports on the time spent on each task.
+一个按项目分组的预定义任务应用，供管理者和员工使用，以生成每项任务所花费时间的报告。
 
->**Second Semester of 2023**
+>**2023 年第二学期**
 
-**Technologies**: React Native, Expo, JavaScript, VSCode, SQLite, REST, JSON Server, MySQL
+**技术**：React Native、Expo、JavaScript、VSCode、SQLite、REST、JSON Server、MySQL
 
-<details style="cursor:pointer" open><summary>Preview</summary>
+<details style="cursor:pointer" open><summary>预览</summary>
   <img src="featured.png" style="border-radius:2%">
 </details>
 
-You can find more information about the project in the `GitHub Repository`.
+你可以在 `GitHub 仓库` 中找到有关该项目的更多信息。
 {{< github repo="ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t3-time2-app" >}}

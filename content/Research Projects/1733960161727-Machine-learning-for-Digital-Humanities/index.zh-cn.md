@@ -1,13 +1,13 @@
 ---
-title: "Machine Learning for Digital Humanities"
+title: "数字人文的机器学习"
 date: 2024-12-11
 draft: false
-description: "a description"
-tags: ["Working paper", "machine learning", "digital humanities"]
+description: "一个描述"
+tags: ["工作论文", "机器学习", "数字人文"]
 ---
 
-This is a working paper on machine learning for digital humanities. It is a work in progress. To be released in 2025.
+这是一篇关于数字人文机器学习的工作论文。目前仍在撰写中，计划于2025年发布。
 
-It will aproach the use of machine learning in the field of digital humanities, discussing the potential of machine learning to analyze and interpret large amounts of data in the humanities, and the challenges and limitations of this approach. It will also discuss the ethical implications of using machine learning in the humanities, and the importance of humanistic perspectives in the development and application of machine learning algorithms and digital tools.
+文稿将探讨在数字人文领域应用机器学习，讨论机器学习在分析与解读庞大人文学术数据方面的潜力，以及这种方法所面临的挑战与局限；同时也会讨论在数字人文中使用机器学习的伦理影响，以及在开发和应用机器学习算法与数字工具时保持人文视角的重要性。
 
-You can find more information about the bibliography that will be used in this paper at [Zotero](https://www.zotero.org/groups/5695080/).
+有关将用于本文的参考书目，您可以在 [Zotero](https://www.zotero.org/groups/5695080/) 获取更多信息。

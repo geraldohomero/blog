@@ -1,31 +1,31 @@
 ---
-title: "PUC Minas | Extension Project Ch'c Modas"
+title: "米纳斯天主大学 | Ch'c Modas 拓展项目"
 date: 2024-12-16
 draft: false
-description: "a description"
-tags: ["extension", "undergraduation", "project", "real-world", "real-client", "industry", "collaboration", "buisiness" ]
+description: "一个描述"
+tags: ["拓展", "本科", "项目", "真实环境", "真实客户", "行业", "协作", "业务" ]
 ---
 
 {{< alert "star" >}}
-**Extension Project** - Final Project
+**拓展项目** - 毕业项目
 {{< /alert >}}
 
-The project developed a web `ERP` system, focusing on sales management, inventory management and customer management, for a women's clothing store located in Belo Horizonte, Minas Gerais, Brazil.
+该项目为位于巴西米纳斯吉拉斯州贝洛奥里藏特市的一家女装店开发了一个以销售管理、库存管理和客户管理为核心的 Web `ERP` 系统。
 
-This project was carried out as the final project of the Systems Analysis and Development course at PUC Minas and served as a requirement for obtaining the diploma. The project was developed in partnership with a real client. A service provision contract was formalized, and the project was developed in a real production environment, having been delivered to the client on December 6, 2024.
+本项目作为米纳斯天主大学系统分析与开发课程的毕业设计，并作为取得文凭的必备条件。项目与一位真实客户合作完成，签订了服务提供合同，并在真实的生产环境中开发，于 2024 年 12 月 6 日交付给客户。
 
-## Functionalities
+## 功能
 
-- **Inventory Management**: Allows the registration of products, suppliers, and categories.
-- **Customer Management**: Allows the registration of customers, for marketing and sales purposes.
-- **Sales Management**: Allows the registration of sales
-- **Financial Management**: Allows the registration of expenses and revenues
-- **User Management**: Allows the registration of users, with different levels of access.
-- **Reports**: Allows the generation of reports on sales, inventory, financials, and customers.
+- **库存管理**：支持登记产品、供应商和类别。
+- **客户管理**：支持登记客户，用于营销和销售目的。
+- **销售管理**：支持登记销售记录。
+- **财务管理**：支持登记支出与收入。
+- **用户管理**：支持登记不同权限级别的用户。
+- **报表**：支持生成销售、库存、财务和客户相关的报表。
 
-**Technologies**: JavaScript, Vite.js, React, Node.js, MySQL, Google Firebase, Google Firestore, Figma, Git, GitHub.
+**技术栈**：JavaScript、Vite.js、React、Node.js、MySQL、Google Firebase、Google Firestore、Figma、Git、GitHub。
 
-## Preview
+## 预览
 
 {{< gallery >}}
   <img src="gallery/ChicModas1.png" class="grid-w500 md:grid-w33 xl:grid-w25" />
@@ -37,5 +37,4 @@ This project was carried out as the final project of the Systems Analysis and De
   <img src="featured.png"           class="grid-w50 md:grid-w33 xl:grid-w25" />
 {{< /gallery >}}
 
-*The source code cannot be made available due to contractual restrictions. Sensitive data has been blurred in the images to preserve the privacy of the contractor and its customers.
-
+*由于合同限制，源代码无法公开。为保护委托方及其客户的隐私，图片中的敏感信息已做模糊处理。*

@@ -13,9 +13,9 @@ description: "简介"
 
 ## 博士论文（政治学博士 | Unicamp）
 
-[批判性互联网研究：关于巴西新右派在 YouTube 上的过去话语及其政治与意识形态行动（2013–2023）](/research-projects/1739118101927-phd-research/)，进行中。
+[批判性互联网研究：关于巴西新右派在 YouTube 上的过去话语及其政治与意识形态行动（2013–2023）](/zh-cn/research-projects/1739118101927-phd-research/)，进行中。
 
-欲了解更多此项正在进行的研究，请[点击这里](/research-projects/1739118101927-phd-research/)。
+欲了解更多此项正在进行的研究，请[点击这里](/zh-cn/research-projects/1739118101927-phd-research/)。
  
 ### 软件
 
@@ -25,7 +25,7 @@ description: "简介"
 ## 硕士论文（历史学硕士 | UFJF）
 [(重)构在互联网上的历史：巴西“新右派”YouTube 频道中关于军事独裁的观点（2013–2018）](https://repositorio.ufjf.br/jspui/handle/ufjf/14568)，2022。
 
-欲了解更多此项研究，请[点击这里](/research-projects/1733588216310-masters-thesis/)
+欲了解更多此项研究，请[点击这里](/zh-cn/research-projects/1733588216310-masters-thesis/)
 
 
 ## 本科毕业论文（教育学学士 | UFJF）

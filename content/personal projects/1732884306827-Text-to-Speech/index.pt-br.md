@@ -3,7 +3,6 @@ title: "Texto em Voz"
 date: 2024-11-29
 draft: false
 description: "uma descrição"
-tags: ["exemplo", "tag"]
 tags: ["Personal Projects", "Web Development", "React", "TypeScript"]
 ---
 Este projeto é uma aplicação web que converte texto em fala usando a API ElevenLabs. Foi desenvolvido como parte do Projeto App Masters e utiliza tecnologias modernas, incluindo React, TypeScript e Ant Design.

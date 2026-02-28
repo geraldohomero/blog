@@ -9,6 +9,7 @@ Minha jornada acadêmica em História, abrangendo tanto os estudos de graduaçã
 
 Minha pesquisa foca nas interseções entre história, tecnologia e sociedade, particularmente no contexto da História Contemporânea e do Brasil Republicano. Eu me especializo em explorar tópicos como Humanidades Digitais, Movimentos de Direita, Ditaduras Militares na América Latina, Estudos Críticos da Internet, Mídia Digital, Preservação Digital, História Pública, Estudos de Memória e os desafios das narrativas históricas na era digital.
 
+[Universitas](https://universitas-io.github.io)
 
 ## Educação
 

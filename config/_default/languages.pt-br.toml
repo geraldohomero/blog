@@ -1,5 +1,5 @@
-languageCode = "pt-br"
-languageName = "Português"
+locale = "pt-br"
+label = "Português"
 weight = 2
 title = "geraldo:~$"
 

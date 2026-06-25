@@ -8,7 +8,7 @@ My academic journey in History, spanning both undergraduate and master’s studi
 
 My research focuses on the intersections of history, technology, and society, particularly in the context of Contemporary History and Republican Brazil. I specialize in exploring topics such as Digital Humanities, Right-wing movements, Military Dictatorships in Latin America, Critical internet studies, Digital media, Digital preservation, Public History, Memory Studies, and the challenges of historical narratives in the digital era.
 
-[Universitas](https://universitas-io.github.io/en)
+Visit [Universitas](https://universitas-io.github.io/en) to get personalized academic services and quantitative research.
 
 ## Education
 

@@ -7,7 +7,7 @@ buildDrafts = false
 buildFuture = false
 
 [pagination]
-  pagerSize = 10
+  pagerSize = 9
 
 [imaging]
 anchor = "Center"

@@ -3,7 +3,7 @@ title: "GTKetchup"
 date: 2026-02-28
 draft: false
 description: "Um aplicativo de temporizador Pomodoro baseado em GTK, criado nativamente para desktops Linux"
-tags: ["GTK", "Pomodoro", "Timer", "Linux", "Desktop Application", "Python", "GNOME"]
+tags: ["GTK", "Pomodoro", "Timer", "Linux", "Desktop Application", "Python", "GNOME", "flatpak"]
 ---
 
 Mantenha o foco e aumente sua produtividade com o GTKetchup, um aplicativo nativo para GNOME criado com GTK4 e Libadwaita. Ele traz uma interface circular bonita e personalizada, com cores que mudam dinamicamente quanto mais tempo você mantém o foco. Use a roda do mouse para ajustar o tempo e tenha uma experiência de timer mais “tátil”.

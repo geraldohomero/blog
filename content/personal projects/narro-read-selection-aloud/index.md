@@ -18,6 +18,6 @@ Narro is a text-to-speech reader for GNOME/Wayland using edge-tts. Select text i
 * **Status Bar:** Real-time visual feedback.
 * **Toggle:** Press the shortcut again to quickly close the player.
 
-![alt text](image.png)
+![alt text](featured.png)
 
 {{< github repo="geraldohomero/narro-read-selection-aloud" >}}

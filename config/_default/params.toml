@@ -12,8 +12,9 @@ defaultFeaturedImage = "webbsmall.jpg"
 smartTOCHideUnfocusedChildren = false
 
 [header]
-layout = "fixed"
+layout = "floating"
 search = { enabled = true }
+mobileMenuStyle = "dropdown"
 
 [footer]
 showMenu = false
@@ -73,6 +74,7 @@ showLikes = false
 showTableOfContents = true
 showCards = true
 groupByYear = false
+featureImageHover = true
 cardView = true
 cardViewScreenWidth = false
 constrainItemsWidth = true

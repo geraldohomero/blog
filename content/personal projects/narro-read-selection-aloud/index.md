@@ -20,4 +20,4 @@ Narro is a text-to-speech reader for GNOME/Wayland using edge-tts. Select text i
 
 ![alt text](featured.png)
 
-{{< github repo="geraldohomero/narro-read-selection-aloud" >}}
+{{< github repo="geraldohomero/narro-read-selection-aloud"  >}}

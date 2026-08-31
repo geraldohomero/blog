@@ -1,4 +1,4 @@
-colorScheme = "default"
+colorScheme = "ocean"
 defaultAppearance = "dark"
 autoSwitchAppearance = false
 enableSearch = true
@@ -7,13 +7,13 @@ disableImageOptimization = false
 disableTextInHeader = false
 highlightCurrentMenuArea = true
 smartTOC = true
-defaultBackgroundImage = "webbsmall.jpg"
-defaultFeaturedImage = "webbsmall.jpg"
+defaultBackgroundImage = "back.jpg"
+defaultFeaturedImage = "back.jpg"
 smartTOCHideUnfocusedChildren = false
 
 [header]
-layout = "floating"
-search = { enabled = true }
+layout = "fixed-gradient"
+search = { enabled = false }
 mobileMenuStyle = "dropdown"
 
 [footer]
@@ -32,7 +32,7 @@ showMoreLinkDest = "/posts"
 cardView = true
 cardViewScreenWidth = false
 layoutBackgroundBlur = false
-homepageImage = "webbsmall.jpg"
+homepageImage = "back.jpg"
 
 [article]
 showDate = false
@@ -41,8 +41,9 @@ showLikes = false
 showDateOnlyInArticle = false
 showDateUpdated = false
 showAuthor = false
-showHero = true
-heroStyle = "background"
+showAuthorBottom = false
+showHero = false
+heroStyle = "basic"
 layoutBackgroundBlur = true
 layoutBackgroundHeaderSpace = false
 showBreadcrumbs = true
@@ -63,7 +64,7 @@ showRelatedContent = false
 relatedContentLimit = "0"
 
 [list]
-showHero = true
+showHero = false
 heroStyle = "background"
 layoutBackgroundBlur = true
 layoutBackgroundHeaderSpace = false

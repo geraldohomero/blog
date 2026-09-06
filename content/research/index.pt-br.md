@@ -37,6 +37,10 @@ Para saber mais sobre essa pesquisa, [clique aqui!](/pt-br/research-projects/173
 
 ## Publicações
 
+### Preprints
+
+- [As bases teóricas do pensamento político masculinista no Brasil: uma análise da obra de Nessahan Alita](https://doi.org/10.1590/SciELOPreprints.17839). Com [Danilo Augusto da Silva Horta](https://orcid.org/0000-0001-6033-0536) e [Daniela Paro](https://orcid.org/0009-0006-7926-3189) 2026.
+
 ### Revistas
 
 - [História Digital e Web 2.0: Apontamentos para uma análise da ação política e ideológica da nova direita no YouTube](https://periodicos.ifg.edu.br/cehd/article/view/2016), 2024.

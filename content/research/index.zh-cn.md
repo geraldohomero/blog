@@ -34,7 +34,11 @@ description: "简介"
 ## 本科毕业论文（历史学学士 | UFJF）
 [他们讲述的故事：通过三家保守派 YouTube 频道看巴西军事独裁](http://dx.doi.org/10.13140/RG.2.2.29915.37929)，2018。
 
-## 出版物
+## 发表物
+
+### 预印本
+
+- [巴西男性政治思想的理论基础：对Nessahan Alita作品的分析](https://doi.org/10.1590/SciELOPreprints.17839)。与[Danilo Augusto da Silva Horta](https://orcid.org/0000-0001-6033-0536)和[Daniela Paro](https://orcid.org/0009-0006-7926-3189)合作，2026年。
 
 ### 同行评审文章
 

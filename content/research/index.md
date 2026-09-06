@@ -36,6 +36,10 @@ To know more about this research, please, [click here!](/research-projects/17335
 
 ## Publications
 
+### Preprints
+
+- [The theoretical foundations of masculinist political thought in Brazil: an analysis of the work of Nessahan Alita](https://doi.org/10.1590/SciELOPreprints.17839). With [Danilo Augusto da Silva Horta](https://orcid.org/0000-0001-6033-0536), and [Daniela Paro](https://orcid.org/0009-0006-7926-3189) 2026.
+
 ### Peer-reviewed articles
 
 
